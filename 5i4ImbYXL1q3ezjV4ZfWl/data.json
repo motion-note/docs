@@ -1,0 +1,128 @@
+{
+  "title": "欢迎",
+  "blocks": [
+    {
+      "id": "N7b3dYEZ-oY4KVXo-A6X_",
+      "component": "Block",
+      "data": {
+        "id": "Z_wd2PRgJdzd_iK9wXGER",
+        "component": "HeaderBlock",
+        "props": {},
+        "data": {
+          "type": "h1",
+          "doc": "<span class=\"pudding-text is-active\" data-type=\"text\">您好！欢迎使用 Motion！</span>"
+        },
+        "focus": false
+      }
+    },
+    {
+      "id": "wZhkFwCWYtcF1bLoabQRP",
+      "component": "Block",
+      "data": {
+        "id": "9Bh6eLXgMjEdqSRe5-Mej",
+        "component": "EditBlock",
+        "props": {},
+        "data": "<span class=\"pudding-text\" data-type=\"text\"></span>",
+        "focus": false
+      }
+    },
+    {
+      "id": "0G9bPHcpd6WHYoZa6KrLq",
+      "component": "Block",
+      "data": {
+        "id": "62aKbju9p7ssJ3rPsP_EN",
+        "component": "ImageBlock",
+        "props": {},
+        "focus": false,
+        "data": {
+          "url": "/5i4ImbYXL1q3ezjV4ZfWl/1669516387197.png",
+          "width": 179
+        }
+      }
+    },
+    {
+      "id": "dEIGpSX9dTvkw-D_-goBD",
+      "component": "Block",
+      "data": {
+        "id": "51eFYy1oiee1Q-F60j-ly",
+        "component": "EditBlock",
+        "props": {},
+        "data": "<span class=\"pudding-text is-active\" data-type=\"text\">欢迎使用 </span><mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>Motion</label><span data-markup=\"==\">==</span></mark><span class=\"pudding-text\" data-type=\"text\">&nbsp;笔记应用。</span>",
+        "focus": false
+      }
+    },
+    {
+      "id": "AEl5QsZtpfi-QZ-kvKCt9",
+      "component": "Block",
+      "data": {
+        "id": "_RoBya1PGsKcMkyh4sozd",
+        "component": "HeaderBlock",
+        "props": {},
+        "data": {
+          "type": "h1",
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">为什么创建 Motion？</span>"
+        },
+        "focus": false
+      }
+    },
+    {
+      "id": "X-ChjlZaMYHGCYbnW3rXW",
+      "component": "Block",
+      "data": {
+        "id": "kg6AfQKXExEBGTxKC9w6D",
+        "component": "EditBlock",
+        "props": {},
+        "data": "<span class=\"pudding-text\" data-type=\"text\">现在网络上有着很多的笔记应用，它们很多都是基于在线，在线笔记可以做好很好的同步能力，不过对网络就有了很强的依赖；同时我个人对网络上的笔记的</span><mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>安全</label><span data-markup=\"==\">==</span></mark><span class=\"pudding-text\" data-type=\"text\">与</span><mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>运营</label><span data-markup=\"==\">==</span></mark><span class=\"pudding-text\" data-type=\"text\">都有一定的担心；因此</span><strong class=\"pudding-strong\" data-type=\"strong\"><span data-markup=\"**\">**</span><label>本地化笔记</label><span data-markup=\"**\">**</span></strong><span class=\"pudding-text\" data-type=\"text\">对我个人更加的偏爱。</span>",
+        "focus": false
+      }
+    },
+    {
+      "id": "oNTmykGXFvVkmkqIkK_j9",
+      "component": "Block",
+      "data": {
+        "id": "veS5LRIZYErQj501n4aTy",
+        "component": "EditBlock",
+        "props": {},
+        "data": "<span class=\"pudding-text\" data-type=\"text\">在使用了一些笔记后，我又发现，很多的笔记要么有些</span><strong class=\"pudding-strong\" data-type=\"strong\"><span data-markup=\"**\">**</span><label>交互</label><span data-markup=\"**\">**</span></strong><span class=\"pudding-text\" data-type=\"text\">上不是很符合个人的习惯，要么操作功能</span><strong class=\"pudding-strong\" data-type=\"strong\"><span data-markup=\"**\">**</span><label>扩展</label><span data-markup=\"**\">**</span></strong><span class=\"pudding-text is-active\" data-type=\"text\">不是很方便，为此就想着尝试自己开发一个笔记软件。</span>",
+        "focus": false
+      }
+    },
+    {
+      "id": "eFsfyMI1Krc6DnhL3Cow5",
+      "component": "Block",
+      "data": {
+        "id": "lv3dsnxXKSFWWmho-ooLB",
+        "component": "EditBlock",
+        "props": {},
+        "data": "<div class=\"pudding-link\" data-type=\"link\"><span data-markup=\"[\">[</span><label>motion</label><span data-markup=\"](\">](</span><span class=\"pudding-link-url\">https://github.com/motion-note</span><span data-markup=\")\">)</span></div><span class=\"pudding-text is-active\" data-type=\"text\"> 笔记是一个基于 Web 技术开发笔记功能，它具有 </span><strong class=\"pudding-strong\" data-type=\"strong\"><span data-markup=\"**\">**</span><label>markdown</label><span data-markup=\"**\">**</span></strong><span class=\"pudding-text\" data-type=\"text\"> 的部分能力，同时又具有 web 的易扩展能力。&nbsp;<pudding-caret></pudding-caret></span>",
+        "focus": false
+      }
+    },
+    {
+      "id": "9Gy0XMNh4arrl0f7iV9vl",
+      "component": "Block",
+      "data": {
+        "id": "ZNYi_otD_0AewW9VLFM1b",
+        "component": "EditBlock",
+        "props": {},
+        "data": "<span class=\"pudding-text is-active\" data-type=\"text\">欢迎你使用，如果碰到什么问题也欢迎你能和我反馈，我们一起来完善它吧！</span>",
+        "focus": true
+      }
+    },
+    {
+      "id": "FfUkhYhbOaBhtAsXFs9Ab",
+      "component": "Block",
+      "data": {
+        "id": "vrTEirvZapypS8zjn0fDU",
+        "component": "EditBlock",
+        "props": {},
+        "data": "",
+        "focus": false
+      }
+    }
+  ],
+  "setting": {
+    "lock": false,
+    "debug": true
+  }
+}

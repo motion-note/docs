@@ -1,0 +1,31 @@
+{
+  "title": "开发日志",
+  "blocks": [
+    {
+      "id": "v23wNIPQFFTmnR2EmzGBP",
+      "component": "Block",
+      "data": {
+        "id": "Ki3eYdD4fR6Ewe4YZJhFN",
+        "component": "EditBlock",
+        "props": {},
+        "data": "",
+        "focus": false
+      }
+    },
+    {
+      "id": "vb4wtdyoFLuZVgRk-SFeo",
+      "component": "Block",
+      "data": {
+        "id": "IbG2As2wC7kxPJP9loeb_",
+        "component": "EditBlock",
+        "props": {},
+        "data": "",
+        "focus": false
+      }
+    }
+  ],
+  "setting": {
+    "lock": false,
+    "debug": false
+  }
+}

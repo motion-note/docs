@@ -1,0 +1,17 @@
+[
+  {
+    "name": "欢迎",
+    "path": "/5i4ImbYXL1q3ezjV4ZfWl"
+  },
+  {
+    "name": "开发日志",
+    "path": "/ObbRUzgDI2dBxO5a3wPhy",
+    "open": true,
+    "children": [
+      {
+        "name": "0.6.0",
+        "path": "/hb_PNX6lyd5UYSf6Z4TgK"
+      }
+    ]
+  }
+]
