@@ -1,0 +1,113 @@
+{
+  "title": "0.7.0",
+  "blocks": [
+    {
+      "id": "iRbR-6iOXPXYiJIGjQlLU",
+      "component": "Block",
+      "data": {
+        "id": "zIOqqbSe2tVRJkc137CNp",
+        "component": "HeaderBlock",
+        "props": {},
+        "data": {
+          "type": "h1",
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">功能</span>"
+        },
+        "focus": false
+      }
+    },
+    {
+      "id": "nqGNk1pR0uHZE8wFbEGah",
+      "component": "Block",
+      "data": {
+        "id": "yAYB1POgNyWuy23phkW7Y",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">输入网址时自动转化为链接。<pudding-caret></pudding-caret></span>"
+        },
+        "focus": false
+      }
+    },
+    {
+      "id": "RoJCpwSd-bmKcEkqxMYK6",
+      "component": "Block",
+      "data": {
+        "id": "mc024rFCEmb0CRVBT6apb",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">图片插入支持 </span><strong class=\"pudding-strong\" data-type=\"strong\"><span data-markup=\"**\">**</span><label>webp</label><span data-markup=\"**\">**</span></strong><span class=\"pudding-text\" data-type=\"text\">&nbsp;</span><strong class=\"pudding-strong\" data-type=\"strong\"><span data-markup=\"**\">**</span><label>jpeg</label><span data-markup=\"**\">**</span></strong><span class=\"pudding-text\" data-type=\"text\"> 与 </span><strong class=\"pudding-strong\" data-type=\"strong\"><span data-markup=\"**\">**</span><label>gif</label><span data-markup=\"**\">**</span></strong><span class=\"pudding-text\" data-type=\"text\"> 图片的引用。</span>"
+        },
+        "focus": false
+      }
+    },
+    {
+      "id": "4eSEn8fxWKTsvSYtpQ5-3",
+      "component": "Block",
+      "data": {
+        "id": "zTJKCj9NI0T08qLCk5Kca",
+        "component": "HeaderBlock",
+        "props": {},
+        "data": {
+          "type": "h1",
+          "doc": "<span class=\"pudding-text is-active\" data-type=\"text\">优化</span>"
+        },
+        "focus": false
+      }
+    },
+    {
+      "id": "U2_ybm7Aoax2K-GR5TAyL",
+      "component": "Block",
+      "data": {
+        "id": "HeVx18VtiZ6lOu1PAE1fu",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">修复因定时器无法获取，导致输入中文时出现乱码。</span>"
+        },
+        "focus": false
+      }
+    },
+    {
+      "id": "ggfTfcuP7_ftzfLeplW4f",
+      "component": "Block",
+      "data": {
+        "id": "TYqC9GOxaS6d_W2PKNGP4",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">优化焦点内容失焦状态下保存状态错误。</span>"
+        },
+        "focus": false
+      }
+    },
+    {
+      "id": "ExUhaeaWX05reu7DLFzmR",
+      "component": "Block",
+      "data": {
+        "id": "-8ja7Qo3ElncHGPlHQt3v",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">优化链接鼠标交互状态。</span>"
+        },
+        "focus": false
+      }
+    },
+    {
+      "id": "PlfS0m8Ckx8qRlcuQfvNI",
+      "component": "Block",
+      "data": {
+        "id": "GovCigiJpO-dKhn1WrcWl",
+        "component": "EditBlock",
+        "props": {},
+        "data": "",
+        "focus": false
+      }
+    }
+  ],
+  "setting": {
+    "lock": true,
+    "debug": false
+  }
+}

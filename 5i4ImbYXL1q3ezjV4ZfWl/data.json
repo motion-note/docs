@@ -106,7 +106,7 @@
         "component": "EditBlock",
         "props": {},
         "data": "<span class=\"pudding-text is-active\" data-type=\"text\">欢迎你使用，如果碰到什么问题也欢迎你能和我反馈，我们一起来完善它吧！</span>",
-        "focus": true
+        "focus": false
       }
     },
     {
@@ -123,6 +123,6 @@
   ],
   "setting": {
     "lock": false,
-    "debug": true
+    "debug": false
   }
 }
