@@ -36,7 +36,8 @@
         "focus": false,
         "data": {
           "url": "/5i4ImbYXL1q3ezjV4ZfWl/1669516387197.png",
-          "width": 179
+          "width": 179,
+          "align": "center"
         }
       }
     },
@@ -94,7 +95,7 @@
         "id": "lv3dsnxXKSFWWmho-ooLB",
         "component": "EditBlock",
         "props": {},
-        "data": "<div class=\"pudding-link\" data-type=\"link\"><span data-markup=\"[\">[</span><label>motion</label><span data-markup=\"](\">](</span><span class=\"pudding-link-url\">https://github.com/motion-note</span><span data-markup=\")\">)</span></div><span class=\"pudding-text is-active\" data-type=\"text\"> 笔记是一个基于 Web 技术开发笔记功能，它具有 </span><strong class=\"pudding-strong\" data-type=\"strong\"><span data-markup=\"**\">**</span><label>markdown</label><span data-markup=\"**\">**</span></strong><span class=\"pudding-text\" data-type=\"text\"> 的部分能力，同时又具有 web 的易扩展能力。&nbsp;<pudding-caret></pudding-caret></span>",
+        "data": "<div class=\"pudding-link\" data-type=\"link\"><span data-markup=\"[\">[</span><label>motion</label><span data-markup=\"](\">](</span><span class=\"pudding-link-url\">https://github.com/motion-note</span><span data-markup=\")\">)</span></div><span class=\"pudding-text\" data-type=\"text\"> 笔记是一个基于 Web 技术开发笔记功能，它具有 </span><strong class=\"pudding-strong\" data-type=\"strong\"><span data-markup=\"**\">**</span><label>markdown</label><span data-markup=\"**\">**</span></strong><span class=\"pudding-text\" data-type=\"text\"> 的部分能力，同时又具有 web 的易扩展能力。&nbsp;</span>",
         "focus": false
       }
     },

@@ -62,7 +62,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">添加对查寻的内容进行菜单定位功能。【0%】</span>"
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">添加对查寻的内容进行菜单定位功能。</span>"
         },
         "focus": false
       }

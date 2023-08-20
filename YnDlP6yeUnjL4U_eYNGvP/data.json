@@ -1,0 +1,158 @@
+{
+  "title": "表格",
+  "blocks": [
+    {
+      "id": "oyYNrbsrrGdBGboYJFFQx",
+      "component": "Block",
+      "data": {
+        "id": "kn3Ui425Oa0todVoMtOjM",
+        "component": "EditBlock",
+        "props": {},
+        "data": "<mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>v0.9.0</label><span data-markup=\"==\">==</span></mark>",
+        "focus": false
+      }
+    },
+    {
+      "id": "h5nEgABGhZcl2IHeiV24D",
+      "component": "Block",
+      "data": {
+        "id": "3kMPrpz9fIpwB6HUPA0cS",
+        "component": "HeaderBlock",
+        "props": {},
+        "data": {
+          "type": "h1",
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">创建表格</span>"
+        },
+        "focus": false
+      }
+    },
+    {
+      "id": "UotUR5tVilhqLK4cSzR8q",
+      "component": "Block",
+      "data": {
+        "id": "FrIWTJuzn8M1WGTyB_OUq",
+        "component": "EditBlock",
+        "props": {},
+        "data": "<span class=\"pudding-text\" data-type=\"text\">表格的创建十分简单，在空的节点中，输入</span><mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>/</label><span data-markup=\"==\">==</span></mark><span class=\"pudding-text\" data-type=\"text\">唤起快捷指令，通过上下键，选择表格就可以了，也可以根据提示，生成指定行列的表格。</span>",
+        "focus": false
+      }
+    },
+    {
+      "id": "FNs-uY7lcMclI2aZhA7x1",
+      "component": "Block",
+      "data": {
+        "id": "ZdEBFzRWJYCVOhmOWLKM0",
+        "component": "HeaderBlock",
+        "props": {},
+        "focus": false,
+        "data": {
+          "type": "h1",
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">菜单功能说明</span>"
+        }
+      }
+    },
+    {
+      "id": "qJNoboJClc6613pHSOYMP",
+      "component": "Block",
+      "data": {
+        "id": "7iZ2U7C9ZcwmF5k2ZkdlB",
+        "component": "EditBlock",
+        "props": {},
+        "data": "",
+        "focus": false
+      }
+    },
+    {
+      "id": "n-cFgIjF8ES9dWlQXCWU7",
+      "component": "Block",
+      "data": {
+        "id": "B4YQYHUi4353fBVtP7gdU",
+        "component": "HeaderBlock",
+        "props": {},
+        "data": {
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">单元格功能</span>",
+          "type": "h1"
+        },
+        "focus": false
+      }
+    },
+    {
+      "id": "EgalrB9maSQzNNB8qVG7n",
+      "component": "Block",
+      "data": {
+        "id": "uNO3XhBohb-AxxRsaRJ1s",
+        "component": "HeaderBlock",
+        "props": {},
+        "data": {
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">换行</span>",
+          "type": "h2"
+        },
+        "focus": false
+      }
+    },
+    {
+      "id": "oEf_5_K_u8UJnFGpGEDqr",
+      "component": "Block",
+      "data": {
+        "id": "uVaL4XiKgg_Ul2o3GdzO7",
+        "component": "EditBlock",
+        "props": {},
+        "data": "<span class=\"pudding-text\" data-type=\"text\">在单元格内按住</span><code class=\"pudding-inline-code\" data-type=\"code\"><span data-markup=\"`\">`</span><label>Ctrol</label><span data-markup=\"`\">`</span></code><span class=\"pudding-text\" data-type=\"text\">+</span><code class=\"pudding-inline-code\" data-type=\"code\"><span data-markup=\"`\">`</span><label>Enter</label><span data-markup=\"`\">`</span></code><span class=\"pudding-text\" data-type=\"text\">则会在单元格内换行</span>",
+        "focus": false
+      }
+    },
+    {
+      "id": "FVzAN5JESGkQ4suH6BmK2",
+      "component": "Block",
+      "data": {
+        "id": "uzoDOGCRS9byVeNuvfJy1",
+        "component": "HeaderBlock",
+        "props": {},
+        "data": {
+          "type": "h2",
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">合并</span>"
+        },
+        "focus": false
+      }
+    },
+    {
+      "id": "sIpRyl0zw57mIiztc1xTo",
+      "component": "Block",
+      "data": {
+        "id": "H6Kfreg9QQQ4O3HPsm8VG",
+        "component": "EditBlock",
+        "props": {},
+        "data": "<span class=\"pudding-text\" data-type=\"text\">使用鼠标选中需要合并的单元格，选择菜单上</span><mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>合并单元格</label><span data-markup=\"==\">==</span></mark><span class=\"pudding-text\" data-type=\"text\">图标就可以合并单元格了。</span>",
+        "focus": false
+      }
+    },
+    {
+      "id": "gnHB6tbCxvvVWRe2CdUn9",
+      "component": "Block",
+      "data": {
+        "id": "L1ODb__0hVQdwhfNM0xq_",
+        "component": "ImageBlock",
+        "props": {},
+        "data": {
+          "url": "/YnDlP6yeUnjL4U_eYNGvP/1690326316868.gif"
+        },
+        "focus": false
+      }
+    },
+    {
+      "id": "iQLf62KBRA1i-XFjK6efq",
+      "component": "Block",
+      "data": {
+        "id": "4-txcETUGoowTOyCdMDDF",
+        "component": "EditBlock",
+        "props": {},
+        "data": "",
+        "focus": false
+      }
+    }
+  ],
+  "setting": {
+    "lock": false,
+    "debug": false
+  }
+}

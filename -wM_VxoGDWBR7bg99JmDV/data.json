@@ -1,0 +1,20 @@
+{
+  "title": "",
+  "blocks": [
+    {
+      "id": "trffqFuP5rpgd2SY2Ei40",
+      "component": "Block",
+      "data": {
+        "id": "oicUlDDmqLInlGhxiZTpF",
+        "component": "EditBlock",
+        "props": {},
+        "data": "<span class=\"pudding-text\" data-type=\"text\">/quote</span>",
+        "focus": false
+      }
+    }
+  ],
+  "setting": {
+    "lock": false,
+    "debug": false
+  }
+}

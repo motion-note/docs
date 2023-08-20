@@ -1,0 +1,31 @@
+{
+  "title": "功能介绍",
+  "blocks": [
+    {
+      "id": "m8wrxQsJeuAlyYKcAcRmr",
+      "component": "Block",
+      "data": {
+        "id": "PXrMBnmphNEYS7ojnxjWZ",
+        "component": "EditBlock",
+        "props": {},
+        "data": "<span class=\"pudding-text\" data-type=\"text\">这里主要介绍 motion 目前已经具有的功能与使用方法。</span>",
+        "focus": false
+      }
+    },
+    {
+      "id": "SVjhLE5Vi6E0Ji26ElNYP",
+      "component": "Block",
+      "data": {
+        "id": "AX2jipXOmXydaVW46dQa8",
+        "component": "EditBlock",
+        "props": {},
+        "data": "",
+        "focus": false
+      }
+    }
+  ],
+  "setting": {
+    "lock": false,
+    "debug": false
+  }
+}

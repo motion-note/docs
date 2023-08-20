@@ -1,7 +1,33 @@
 [
   {
     "name": "欢迎",
-    "path": "/5i4ImbYXL1q3ezjV4ZfWl"
+    "path": "/5i4ImbYXL1q3ezjV4ZfWl",
+    "open": true,
+    "children": [
+      {
+        "name": "",
+        "path": "/-wM_VxoGDWBR7bg99JmDV"
+      }
+    ]
+  },
+  {
+    "name": "功能介绍",
+    "path": "/22HdVWThhw_eEJlNX6wHB",
+    "open": false,
+    "children": [
+      {
+        "name": "快捷指令",
+        "path": "/0SDQSmG1N35tOZ11JLxUx"
+      },
+      {
+        "name": "链接",
+        "path": "/Dqt89v8SU8XiFarhCoLOg"
+      },
+      {
+        "name": "表格",
+        "path": "/YnDlP6yeUnjL4U_eYNGvP"
+      }
+    ]
   },
   {
     "name": "开发日志",
@@ -9,8 +35,20 @@
     "open": true,
     "children": [
       {
-        "name": "0.6.0",
-        "path": "/hb_PNX6lyd5UYSf6Z4TgK"
+        "name": "0.11.0",
+        "path": "/c174MEYPxj8IHxEkkmpJZ"
+      },
+      {
+        "name": "0.10.0",
+        "path": "/OaTyRG4hNYgRBveTW8eR8"
+      },
+      {
+        "name": "0.9.0",
+        "path": "/UxqbYqfiSLJ-B-26Qxd9r"
+      },
+      {
+        "name": "0.8.0",
+        "path": "/rctz5xTyIQAS0W90NBsrg"
       },
       {
         "name": "0.7.0",
@@ -19,8 +57,8 @@
         "children": []
       },
       {
-        "name": "0.8.0",
-        "path": "/rctz5xTyIQAS0W90NBsrg"
+        "name": "0.6.0",
+        "path": "/hb_PNX6lyd5UYSf6Z4TgK"
       }
     ]
   }

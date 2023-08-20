@@ -23,7 +23,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">输入网址时自动转化为链接。<pudding-caret></pudding-caret></span>"
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">输入网址时自动转化为链接。</span>"
         },
         "focus": false
       }

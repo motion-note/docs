@@ -89,7 +89,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "<span class=\"pudding-text is-active\" data-type=\"text\">优化菜单定位，防止菜单因超出无法使用<pudding-caret></pudding-caret></span>"
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">优化菜单定位，防止菜单因超出无法使用</span>"
         },
         "focus": false
       }

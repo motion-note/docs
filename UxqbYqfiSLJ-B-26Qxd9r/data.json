@@ -1,0 +1,171 @@
+{
+  "title": "0.9.0",
+  "blocks": [
+    {
+      "id": "uZC3Z25G8TrmCSKZ8IqZo",
+      "component": "Block",
+      "data": {
+        "id": "F9O1w-Ags_uvDhMsYh_3w",
+        "component": "HeaderBlock",
+        "props": {},
+        "data": {
+          "type": "h1",
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">功能</span>"
+        },
+        "focus": false
+      }
+    },
+    {
+      "id": "7ef4F6Caydu2xmGq33QPN",
+      "component": "Block",
+      "data": {
+        "id": "3I8voEbSkwrgk3G4udP_1",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">重构文档解析器，更好的支持文档的解析能力，支持的跨节点的文本渲染能力。</span>"
+        },
+        "focus": false
+      }
+    },
+    {
+      "id": "Y3qOPL1r16TP9QZIwm5QN",
+      "component": "Block",
+      "data": {
+        "id": "6hPRIBYPkGX8baxOzDBGf",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">【新】添加表格功能，具体可以查看功能模块的说明</span>"
+        },
+        "focus": false
+      }
+    },
+    {
+      "id": "E-fNvJ6wXgBFXaaBuDDdJ",
+      "component": "Block",
+      "data": {
+        "id": "WSxtEQqlcBLWbs2DC7EwH",
+        "component": "HeaderBlock",
+        "props": {},
+        "data": {
+          "type": "h2",
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">【新】标题查询功能</span>"
+        },
+        "focus": false,
+        "class": []
+      }
+    },
+    {
+      "id": "wPtG6UN5Vd4Iq39FbJL7s",
+      "component": "Block",
+      "data": {
+        "id": "c9hl641FdTiKcaENVLHKM",
+        "component": "EditBlock",
+        "props": {},
+        "data": "<span class=\"pudding-text\" data-type=\"text\">快速查询文档标题。</span>",
+        "focus": false
+      }
+    },
+    {
+      "id": "6W-w5EyE8WJVodo-EHpR2",
+      "component": "Block",
+      "data": {
+        "id": "RacOI3DXR2HpkiS0ZPDJ1",
+        "component": "ImageBlock",
+        "props": {},
+        "class": [
+          "no-marker"
+        ],
+        "data": {
+          "url": "/UxqbYqfiSLJ-B-26Qxd9r/1688425214255.gif",
+          "align": "center"
+        },
+        "focus": false
+      }
+    },
+    {
+      "id": "nLZvB2n78mOMyvSCfaPCb",
+      "component": "Block",
+      "data": {
+        "id": "9fCnMq5TVneMQ4mPhbm0j",
+        "component": "HeaderBlock",
+        "props": {},
+        "data": {
+          "type": "h1",
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">优化</span>"
+        },
+        "focus": false
+      }
+    },
+    {
+      "id": "lZuTKsomx9zGH_ZlZjVSK",
+      "component": "Block",
+      "data": {
+        "id": "BcQXm-83dNLg6i5CGBoVo",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">列表功能优化 支持移除列表序号的操作</span>"
+        },
+        "focus": false
+      }
+    },
+    {
+      "id": "8YLZbpU03bSu4tgo-Ujxq",
+      "component": "Block",
+      "data": {
+        "id": "f4JB4RXDTBlptLAOxOiRM",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">链接功能优化 优化了http相关链接的生成方式，不在默认生成</span><code class=\"pudding-inline-code\" data-type=\"code\"><span data-markup=\"`\">`</span><label>[label](link)</label><span data-markup=\"`\">`</span></code><span class=\"pudding-text\" data-type=\"text\">的方案</span>"
+        },
+        "focus": false
+      }
+    },
+    {
+      "id": "XDyxqWm8xu1asJ9lndFp5",
+      "component": "Block",
+      "data": {
+        "id": "DHSUo9ixxL1-Bv-05ASpL",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">优化了复制粘贴功能，列表也支持粘贴数据，修复html标签在粘贴时，数据丢失的问题</span>"
+        },
+        "focus": false
+      }
+    },
+    {
+      "id": "e8go6GLoX8xmA1CKTLfls",
+      "component": "Block",
+      "data": {
+        "id": "EwJOuj5ZIX9aligP95Uoe",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">优化代码块过多性能问题 0%</span>"
+        },
+        "focus": false
+      }
+    },
+    {
+      "id": "sepJApyT7VT1cKN4i5aa9",
+      "component": "Block",
+      "data": {
+        "id": "4-2T_RRpIqdjqT2NfVTnW",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">优化链接自动生成快速访问提示能力</span>"
+        },
+        "focus": false
+      }
+    }
+  ],
+  "setting": {
+    "lock": false,
+    "debug": false
+  }
+}
