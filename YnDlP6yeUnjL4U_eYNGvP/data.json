@@ -144,9 +144,140 @@
       "component": "Block",
       "data": {
         "id": "4-txcETUGoowTOyCdMDDF",
-        "component": "EditBlock",
+        "component": "HeaderBlock",
         "props": {},
-        "data": "",
+        "data": {
+          "type": "h1",
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">按键说明</span>"
+        },
+        "focus": false
+      }
+    },
+    {
+      "id": "zlB1SGp58X24ddvLcfQnM",
+      "component": "Block",
+      "data": {
+        "id": "GNd6Xo3PxkiCMHVyHsZGE",
+        "component": "TableBlock",
+        "props": {},
+        "data": {
+          "list": [
+            [
+              [
+                {
+                  "id": "n2KueSvry56um_lLjGScD",
+                  "component": "EditBlock",
+                  "doc": "<span class=\"pudding-text\" data-type=\"text\">按键</span>",
+                  "focus": false
+                }
+              ],
+              [
+                {
+                  "id": "jfSRCGAejIBA-VADfneSu",
+                  "component": "EditBlock",
+                  "doc": "<span class=\"pudding-text\" data-type=\"text\">功能</span>",
+                  "focus": false
+                }
+              ],
+              [
+                {
+                  "id": "MiQ7-of58G4bkKjkep4ao",
+                  "component": "EditBlock",
+                  "doc": "<span class=\"pudding-text\" data-type=\"text\">备注</span>",
+                  "focus": false
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "id": "Rz3i7EmycqOu4Rvvhi0Kh",
+                  "component": "EditBlock",
+                  "doc": "<mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>enter</label><span data-markup=\"==\">==</span></mark>",
+                  "focus": false
+                }
+              ],
+              [
+                {
+                  "id": "wWCdk2SIV29jSKRqWC1fu",
+                  "component": "EditBlock",
+                  "doc": "<span class=\"pudding-text\" data-type=\"text\">切换到下一个单元格</span>",
+                  "focus": false
+                }
+              ],
+              [
+                {
+                  "id": "kxG8pnh3Rbbzuc2PcKCCb",
+                  "component": "EditBlock",
+                  "doc": "",
+                  "focus": false
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "id": "XlTCu9PVPUwlokKucs_5T",
+                  "component": "EditBlock",
+                  "doc": "<mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>ctrl</label><span data-markup=\"==\">==</span></mark><span class=\"pudding-text\" data-type=\"text\">+</span><mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>enter</label><span data-markup=\"==\">==</span></mark><span class=\"pudding-text\" data-type=\"text\"></span>",
+                  "focus": false
+                }
+              ],
+              [
+                {
+                  "id": "VDOxmtsdqama3MRixKOT_",
+                  "component": "EditBlock",
+                  "doc": "<span class=\"pudding-text\" data-type=\"text\">在单元格中换行</span>",
+                  "focus": false
+                }
+              ],
+              [
+                {
+                  "id": "IiQ8kT_T-x9eyh0AgsHTM",
+                  "component": "EditBlock",
+                  "doc": "<span class=\"pudding-text\" data-type=\"text\">在macOS 中是</span><mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>command</label><span data-markup=\"==\">==</span></mark><span class=\"pudding-text\" data-type=\"text\"> + </span><mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>enter</label><span data-markup=\"==\">==</span></mark><span class=\"pudding-text\" data-type=\"text\"></span>",
+                  "focus": false
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "id": "ue2saEpVcW7dLjYT3XCw_",
+                  "focus": false,
+                  "doc": "<mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>shift</label><span data-markup=\"==\">==</span></mark><span class=\"pudding-text\" data-type=\"text\">+</span><mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>enter</label><span data-markup=\"==\">==</span></mark><span class=\"pudding-text\" data-type=\"text\"></span>"
+                }
+              ],
+              [
+                {
+                  "id": "kHDH3b7Zv1ois5pKXPZIK",
+                  "focus": false,
+                  "doc": ""
+                }
+              ],
+              [
+                {
+                  "id": "EsmP_ZPu1AuTgOiVgryif",
+                  "focus": false,
+                  "doc": ""
+                }
+              ]
+            ]
+          ],
+          "style": {
+            "width": [
+              133.13214111328125,
+              147.042724609375,
+              158.89013671875
+            ],
+            "align": [
+              "center",
+              "center",
+              "center"
+            ],
+            "merge": []
+          }
+        },
         "focus": false
       }
     }

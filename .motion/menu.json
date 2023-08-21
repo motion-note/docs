@@ -13,7 +13,7 @@
   {
     "name": "功能介绍",
     "path": "/22HdVWThhw_eEJlNX6wHB",
-    "open": false,
+    "open": true,
     "children": [
       {
         "name": "快捷指令",
@@ -26,6 +26,10 @@
       {
         "name": "表格",
         "path": "/YnDlP6yeUnjL4U_eYNGvP"
+      },
+      {
+        "name": "引用",
+        "path": "/2SHh-NC8kVocpK2UJlT-X"
       }
     ]
   },

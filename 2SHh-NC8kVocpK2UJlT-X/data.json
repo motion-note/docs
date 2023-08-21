@@ -1,0 +1,79 @@
+{
+  "title": "引用",
+  "blocks": [
+    {
+      "id": "kVSMc4-VjBJHa5NL3LZLe",
+      "component": "Block",
+      "data": {
+        "id": "adgS4bXoaagwuMFJhbHF9",
+        "component": "EditBlock",
+        "props": {},
+        "data": "<mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>0.11.0</label><span data-markup=\"==\">==</span></mark>",
+        "focus": false
+      }
+    },
+    {
+      "id": "qnJlVFYx2dwGfLmxeP5uH",
+      "component": "Block",
+      "data": {
+        "id": "Adfk3xtKQSLkjSl51S-4f",
+        "component": "HeaderBlock",
+        "props": {},
+        "data": {
+          "type": "h1",
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">创建引用模块</span>"
+        },
+        "focus": false
+      }
+    },
+    {
+      "id": "Z4A2RtRrSNbHFeoYeooxF",
+      "component": "QuoteBlock",
+      "data": [
+        {
+          "id": "eF6jbdgF095zFqNOthN89",
+          "component": "Block",
+          "data": {
+            "id": "NKy325JSaUgzHvpSUdM-2",
+            "component": "EditBlock",
+            "props": {},
+            "data": "<span class=\"pudding-text\" data-type=\"text\">通过快捷指令，选择引用就可以使用引用模块。</span>",
+            "focus": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "qEh7Z_v_KiK9-WcT34zG7",
+      "component": "Block",
+      "data": {
+        "id": "WPlFklyUIVHb2rZS6D25Q",
+        "component": "ImageBlock",
+        "props": {},
+        "data": {
+          "url": "/2SHh-NC8kVocpK2UJlT-X/1692658160041.png",
+          "width": 254.8431396484375,
+          "align": "center"
+        },
+        "focus": false
+      }
+    },
+    {
+      "id": "e1erS5RLXkUYN01r5CdTk",
+      "component": "Block",
+      "props": {},
+      "focus": false,
+      "data": {
+        "id": "lcGJPfBBmjgBetD9UxBYS",
+        "component": "EditBlock",
+        "props": {},
+        "focus": false,
+        "data": ""
+      }
+    }
+  ],
+  "setting": {
+    "lock": false,
+    "debug": false
+  }
+}
