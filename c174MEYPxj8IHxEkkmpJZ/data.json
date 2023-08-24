@@ -142,6 +142,16 @@
       }
     },
     {
+      "id": "zN59nziAW7hPu4a9BIOXS",
+      "component": "Block",
+      "data": {
+        "id": "mNyTvoyNrBqSqD3KOIZaI",
+        "component": "EditBlock",
+        "props": {},
+        "data": "<span class=\"pudding-text\" data-type=\"text\">以下是分栏效果：</span>"
+      }
+    },
+    {
       "id": "az7jUT62kqQi5xG4UYSdv",
       "component": "ColumnListBlock",
       "data": [
@@ -149,7 +159,7 @@
           "id": "UkY1fT2J3iW13Kbbo2CLI",
           "component": "ColumnBlock",
           "props": {
-            "width": 0.29482549530228763
+            "width": 0.431324129472222
           },
           "data": [
             {
@@ -168,7 +178,7 @@
           "id": "F0mhGwkvw4WAM3YQ6bZ75",
           "component": "ColumnBlock",
           "props": {
-            "width": 0.3887103311376634
+            "width": 0.5686758705277781
           },
           "data": [
             {
@@ -182,25 +192,6 @@
                   "doc": "let a = 100",
                   "lang": "js"
                 }
-              }
-            }
-          ]
-        },
-        {
-          "component": "ColumnBlock",
-          "id": "GEBcLUmBkQhqvQMUEKx7j",
-          "props": {
-            "width": 0.316464173560049
-          },
-          "data": [
-            {
-              "id": "zN59nziAW7hPu4a9BIOXS",
-              "component": "Block",
-              "data": {
-                "id": "mNyTvoyNrBqSqD3KOIZaI",
-                "component": "EditBlock",
-                "props": {},
-                "data": "<span class=\"pudding-text\" data-type=\"text\">以下是分栏效果：</span>"
               }
             }
           ]
@@ -243,7 +234,7 @@
         "data": {
           "doc": "<span class=\"pudding-text\" data-type=\"text\">修复单元格上下键无法移动</span>"
         },
-        "focus": true
+        "focus": false
       }
     },
     {
