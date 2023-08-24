@@ -31,7 +31,8 @@
         "component": "ImageBlock",
         "props": {},
         "data": {
-          "url": "/0SDQSmG1N35tOZ11JLxUx/1690295466720.gif"
+          "url": "/0SDQSmG1N35tOZ11JLxUx/1690295466720.gif",
+          "align": "center"
         },
         "focus": false
       }

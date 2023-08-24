@@ -24,23 +24,58 @@
         "data": {
           "type": "h2",
           "doc": "<span class=\"pudding-text\" data-type=\"text\">「新」引用模块</span>"
-        }
+        },
+        "focus": false
       }
     },
     {
-      "id": "sk72ZKz9BTuBh3PbZ5h-B",
+      "id": "eJZ0Zi5s1TR1Je6UBewLX",
       "component": "QuoteBlock",
       "data": [
         {
-          "id": "98Rd96Ah1FZRVYezSZAX2",
+          "id": "a_aO-sZzKk4WVl4HD-B6x",
           "component": "Block",
           "props": {},
+          "focus": false,
           "data": {
-            "id": "H28wAbYlgkYy0Ua1tgw0_",
+            "id": "sQUq2GDofy8El5pUyQYZm",
             "component": "EditBlock",
             "props": {},
-            "data": "<span class=\"pudding-text\" data-type=\"text\">新加</span><mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>引用模块</label><span data-markup=\"==\">==</span></mark><span class=\"pudding-text\" data-type=\"text\">，用于输入引用的内容信息，在空白节点，通过快捷指令，选择</span><mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>引用</label><span data-markup=\"==\">==</span></mark><span class=\"pudding-text\" data-type=\"text\">就可以选择此模块。</span>"
+            "focus": false,
+            "data": ""
           }
+        },
+        {
+          "id": "sk72ZKz9BTuBh3PbZ5h-B",
+          "component": "QuoteBlock",
+          "data": [
+            {
+              "id": "98Rd96Ah1FZRVYezSZAX2",
+              "component": "Block",
+              "props": {},
+              "data": {
+                "id": "H28wAbYlgkYy0Ua1tgw0_",
+                "component": "EditBlock",
+                "props": {},
+                "data": "<span class=\"pudding-text\" data-type=\"text\">新加</span><mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>引用模块</label><span data-markup=\"==\">==</span></mark><span class=\"pudding-text\" data-type=\"text\">，用于输入引用的内容信息，在空白节点，通过快捷指令，选择</span><mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>引用</label><span data-markup=\"==\">==</span></mark><span class=\"pudding-text\" data-type=\"text\">就可以选择此模块。</span>",
+                "focus": false
+              }
+            },
+            {
+              "id": "E-elvZAlPU9yl819WKrO3",
+              "component": "Block",
+              "data": {
+                "id": "aB4ojFKuhfhub-qlrzyat",
+                "component": "CodeBlock",
+                "props": {},
+                "data": {
+                  "doc": "",
+                  "lang": "js"
+                },
+                "focus": false
+              }
+            }
+          ]
         }
       ]
     },
@@ -65,8 +100,7 @@
           "url": "/c174MEYPxj8IHxEkkmpJZ/1692488712186.png",
           "width": 259.0931396484375,
           "align": "center"
-        },
-        "focus": false
+        }
       }
     },
     {
@@ -89,8 +123,7 @@
         "id": "2O-nvnPLuu8U1H7wfrOxz",
         "component": "EditBlock",
         "props": {},
-        "data": "<span class=\"pudding-text\" data-type=\"text\">添加分栏功能，方便文档对内容的布局，使用时通过拖拽2个节点，将一个节点放到别一个节点上，用以生成分栏。</span>",
-        "focus": false
+        "data": "<span class=\"pudding-text\" data-type=\"text\">添加分栏功能，方便文档对内容的布局，使用时通过拖拽2个节点，将一个节点放到别一个节点上，用以生成分栏。</span>"
       }
     },
     {
@@ -109,17 +142,6 @@
       }
     },
     {
-      "id": "zN59nziAW7hPu4a9BIOXS",
-      "component": "Block",
-      "data": {
-        "id": "mNyTvoyNrBqSqD3KOIZaI",
-        "component": "EditBlock",
-        "props": {},
-        "data": "<span class=\"pudding-text\" data-type=\"text\">以下是分栏效果：</span>",
-        "focus": false
-      }
-    },
-    {
       "id": "az7jUT62kqQi5xG4UYSdv",
       "component": "ColumnListBlock",
       "data": [
@@ -127,7 +149,7 @@
           "id": "UkY1fT2J3iW13Kbbo2CLI",
           "component": "ColumnBlock",
           "props": {
-            "width": 0.5
+            "width": 0.29482549530228763
           },
           "data": [
             {
@@ -137,8 +159,7 @@
                 "id": "bWw1tNhOASU_Q5zgN7Uy6",
                 "component": "EditBlock",
                 "props": {},
-                "data": "<span class=\"pudding-text\" data-type=\"text\">hello motion note</span>",
-                "focus": false
+                "data": "<span class=\"pudding-text\" data-type=\"text\">hello motion note</span>"
               }
             }
           ]
@@ -147,7 +168,7 @@
           "id": "F0mhGwkvw4WAM3YQ6bZ75",
           "component": "ColumnBlock",
           "props": {
-            "width": 0.5
+            "width": 0.3887103311376634
           },
           "data": [
             {
@@ -160,8 +181,26 @@
                 "data": {
                   "doc": "let a = 100",
                   "lang": "js"
-                },
-                "focus": false
+                }
+              }
+            }
+          ]
+        },
+        {
+          "component": "ColumnBlock",
+          "id": "GEBcLUmBkQhqvQMUEKx7j",
+          "props": {
+            "width": 0.316464173560049
+          },
+          "data": [
+            {
+              "id": "zN59nziAW7hPu4a9BIOXS",
+              "component": "Block",
+              "data": {
+                "id": "mNyTvoyNrBqSqD3KOIZaI",
+                "component": "EditBlock",
+                "props": {},
+                "data": "<span class=\"pudding-text\" data-type=\"text\">以下是分栏效果：</span>"
               }
             }
           ]
@@ -178,8 +217,7 @@
         "data": {
           "type": "h2",
           "doc": "<span class=\"pudding-text\" data-type=\"text\">表格模块</span>"
-        },
-        "focus": false
+        }
       }
     },
     {
@@ -203,8 +241,9 @@
         "props": {},
         "class": [],
         "data": {
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">合并单元格上下键移动不正常</span>"
-        }
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">修复单元格上下键无法移动</span>"
+        },
+        "focus": true
       }
     },
     {
@@ -216,8 +255,7 @@
         "props": {},
         "data": {
           "doc": "<span class=\"pudding-text\" data-type=\"text\">修复表格的</span><strong class=\"pudding-strong\" data-type=\"strong\"><span data-markup=\"**\">**</span><label>合并</label><span data-markup=\"**\">**</span></strong><span class=\"pudding-text\" data-type=\"text\">与</span><strong class=\"pudding-strong\" data-type=\"strong\"><span data-markup=\"**\">**</span><label>拆分</label><span data-markup=\"**<pudding-caret></pudding-caret>\">**</span></strong><span class=\"pudding-text\" data-type=\"text\">不保存数据问题</span>"
-        },
-        "focus": false
+        }
       }
     },
     {
@@ -237,6 +275,11 @@
                   "component": "EditBlock",
                   "doc": "",
                   "focus": false
+                },
+                {
+                  "id": "m9lR6iIblSqp6mPwraZ-6",
+                  "doc": "",
+                  "focus": false
                 }
               ],
               [
@@ -251,8 +294,7 @@
                 {
                   "id": "AgBfmacJmRohZST9J4goD",
                   "component": "EditBlock",
-                  "doc": "",
-                  "focus": false
+                  "doc": ""
                 }
               ]
             ],
@@ -261,16 +303,14 @@
                 {
                   "id": "osUP__RNhwSqWHxTggVZG",
                   "component": "EditBlock",
-                  "doc": "",
-                  "focus": false
+                  "doc": ""
                 }
               ],
               [
                 {
                   "id": "QMtRB20RIt9EvmKC-Wxnu",
                   "component": "EditBlock",
-                  "doc": "",
-                  "focus": false
+                  "doc": ""
                 }
               ],
               [
@@ -300,16 +340,14 @@
                 {
                   "id": "0tgrcjnFx3rr31nhvxc0l",
                   "component": "EditBlock",
-                  "doc": "",
-                  "focus": false
+                  "doc": ""
                 }
               ],
               [
                 {
                   "id": "kg8ZJnQuqft9ZP_-xiq7Y",
                   "component": "EditBlock",
-                  "doc": "",
-                  "focus": false
+                  "doc": ""
                 }
               ]
             ]
@@ -330,8 +368,18 @@
               }
             ]
           }
-        },
-        "focus": false
+        }
+      }
+    },
+    {
+      "id": "PKBFfuDpNLzQN0aK9ssot",
+      "component": "Block",
+      "data": {
+        "id": "nDjdCJ41a2XXOyK6gH-uF",
+        "component": "EditBlock",
+        "props": {},
+        "focus": false,
+        "data": ""
       }
     },
     {
@@ -341,7 +389,6 @@
         "id": "IFiIo-5BBfK2TKngtSZph",
         "component": "HeaderBlock",
         "props": {},
-        "focus": false,
         "data": {
           "type": "h1",
           "doc": "<span class=\"pudding-text\" data-type=\"text\">菜单调整</span>"
@@ -432,7 +479,8 @@
         "props": {},
         "data": {
           "doc": "<span class=\"pudding-text\" data-type=\"text\">优化在输入文字之后，使用向右按键时，出现光标位置不正确的问题</span>"
-        }
+        },
+        "focus": false
       }
     },
     {
@@ -457,7 +505,8 @@
         "props": {},
         "data": {
           "doc": "<strong class=\"pudding-strong\" data-type=\"strong\"><span data-markup=\"**\">**</span><label>文件目录</label><span data-markup=\"**\">**</span></strong><span class=\"pudding-text\" data-type=\"text\"> 修复查询标题后，选择文档无效</span>"
-        }
+        },
+        "focus": false
       }
     },
     {
@@ -484,7 +533,8 @@
         "class": [],
         "data": {
           "doc": "<strong class=\"pudding-strong\" data-type=\"strong\"><span data-markup=\"**\">**</span><label>行内代码块</label><span data-markup=\"**\">**</span></strong><span class=\"pudding-text\" data-type=\"text\"> 在输入前置符号时，光标丢失</span>"
-        }
+        },
+        "focus": false
       }
     },
     {
@@ -497,7 +547,8 @@
         "class": [],
         "data": {
           "doc": "<strong class=\"pudding-strong\" data-type=\"strong\"><span data-markup=\"**\">**</span><label>无序列表</label><span data-markup=\"**\">**</span></strong><span class=\"pudding-text\" data-type=\"text\">&nbsp;修复删除节点转换时，内容丢失</span>"
-        }
+        },
+        "focus": false
       }
     }
   ],
