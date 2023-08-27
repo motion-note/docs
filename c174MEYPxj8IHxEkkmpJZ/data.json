@@ -23,59 +23,40 @@
         "props": {},
         "data": {
           "type": "h2",
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">「新」引用模块</span>"
+          "doc": "<span class=\"pudding-text is-active\" data-type=\"text\">「新」引用模块</span>"
         },
         "focus": false
       }
     },
     {
-      "id": "eJZ0Zi5s1TR1Je6UBewLX",
+      "id": "sk72ZKz9BTuBh3PbZ5h-B",
       "component": "QuoteBlock",
       "data": [
         {
-          "id": "a_aO-sZzKk4WVl4HD-B6x",
+          "id": "98Rd96Ah1FZRVYezSZAX2",
           "component": "Block",
           "props": {},
-          "focus": false,
           "data": {
-            "id": "sQUq2GDofy8El5pUyQYZm",
+            "id": "H28wAbYlgkYy0Ua1tgw0_",
             "component": "EditBlock",
             "props": {},
-            "focus": false,
-            "data": ""
+            "data": "<span class=\"pudding-text\" data-type=\"text\">新加</span><mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>引用模块</label><span data-markup=\"==\">==</span></mark><span class=\"pudding-text\" data-type=\"text\">，用于输入引用的内容信息，在空白节点，通过快捷指令，选择</span><mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>引用</label><span data-markup=\"==\">==</span></mark><span class=\"pudding-text\" data-type=\"text\">就可以选择此模块。</span>",
+            "focus": false
           }
         },
         {
-          "id": "sk72ZKz9BTuBh3PbZ5h-B",
-          "component": "QuoteBlock",
-          "data": [
-            {
-              "id": "98Rd96Ah1FZRVYezSZAX2",
-              "component": "Block",
-              "props": {},
-              "data": {
-                "id": "H28wAbYlgkYy0Ua1tgw0_",
-                "component": "EditBlock",
-                "props": {},
-                "data": "<span class=\"pudding-text\" data-type=\"text\">新加</span><mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>引用模块</label><span data-markup=\"==\">==</span></mark><span class=\"pudding-text\" data-type=\"text\">，用于输入引用的内容信息，在空白节点，通过快捷指令，选择</span><mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>引用</label><span data-markup=\"==\">==</span></mark><span class=\"pudding-text\" data-type=\"text\">就可以选择此模块。</span>",
-                "focus": false
-              }
+          "id": "E-elvZAlPU9yl819WKrO3",
+          "component": "Block",
+          "data": {
+            "id": "aB4ojFKuhfhub-qlrzyat",
+            "component": "CodeBlock",
+            "props": {},
+            "data": {
+              "doc": "",
+              "lang": "js"
             },
-            {
-              "id": "E-elvZAlPU9yl819WKrO3",
-              "component": "Block",
-              "data": {
-                "id": "aB4ojFKuhfhub-qlrzyat",
-                "component": "CodeBlock",
-                "props": {},
-                "data": {
-                  "doc": "",
-                  "lang": "js"
-                },
-                "focus": false
-              }
-            }
-          ]
+            "focus": false
+          }
         }
       ]
     },
@@ -100,7 +81,8 @@
           "url": "/c174MEYPxj8IHxEkkmpJZ/1692488712186.png",
           "width": 259.0931396484375,
           "align": "center"
-        }
+        },
+        "focus": false
       }
     },
     {
@@ -407,7 +389,8 @@
           "url": "/c174MEYPxj8IHxEkkmpJZ/1692623852031.png",
           "align": "center",
           "width": 426.24884033203125
-        }
+        },
+        "focus": false
       }
     },
     {

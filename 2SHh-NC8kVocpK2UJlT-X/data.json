@@ -59,6 +59,50 @@
       }
     },
     {
+      "id": "p9dr42jYpP9p_rZkfzeiN",
+      "component": "Block",
+      "data": {
+        "id": "PiyN4eEJygbeen3nKkW4l",
+        "component": "HeaderBlock",
+        "props": {},
+        "data": {
+          "type": "h1",
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">删除模块</span>"
+        },
+        "focus": false
+      }
+    },
+    {
+      "id": "wEEDV8d2f6XpDkXwo1sVh",
+      "component": "Block",
+      "data": {
+        "id": "eg6KPLsjjvmyPD3M0r6GC",
+        "component": "EditBlock",
+        "props": {},
+        "data": "<span class=\"pudding-text\" data-type=\"text\">当模块中没有节点内容时，会自动删除，或是在模块中只有一个空文本节点时，使用</span><code class=\"pudding-inline-code\" data-type=\"code\"><span data-markup=\"`\">`</span><label>delete</label><span data-markup=\"`\">`</span></code><span class=\"pudding-text\" data-type=\"text\">键手动删除。</span>",
+        "focus": false
+      }
+    },
+    {
+      "id": "nYIPaStZayy0H2KD4Hwq1",
+      "component": "QuoteBlock",
+      "data": [
+        {
+          "id": "P7qsrGuvar61n7k0ez3ez",
+          "component": "Block",
+          "props": {},
+          "focus": false,
+          "data": {
+            "id": "Hor-QLOXM1m_kXRk7HQie",
+            "component": "EditBlock",
+            "props": {},
+            "focus": false,
+            "data": ""
+          }
+        }
+      ]
+    },
+    {
       "id": "e1erS5RLXkUYN01r5CdTk",
       "component": "Block",
       "props": {},
