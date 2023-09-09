@@ -1,0 +1,42 @@
+{
+  "title": "0.12.0",
+  "blocks": [
+    {
+      "id": "_MzlLD8PMKcSR3FFkslzD",
+      "component": "Block",
+      "data": {
+        "id": "TARx27NWb5viuSjn9OsqP",
+        "component": "EditBlock",
+        "props": {},
+        "data": "",
+        "focus": false
+      }
+    },
+    {
+      "id": "xeU0f2w1Cjw1R-wlrI2kD",
+      "component": "Block",
+      "data": {
+        "id": "NWO7tnmIiQB1tTK56NAHK",
+        "component": "EditBlock",
+        "props": {},
+        "data": "",
+        "focus": false
+      }
+    },
+    {
+      "id": "jicgYwLvPwvslcgayL-QP",
+      "component": "Block",
+      "data": {
+        "id": "ZV4eonhNKARJ_An4gOr13",
+        "component": "EditBlock",
+        "props": {},
+        "data": "",
+        "focus": false
+      }
+    }
+  ],
+  "setting": {
+    "lock": false,
+    "debug": false
+  }
+}
