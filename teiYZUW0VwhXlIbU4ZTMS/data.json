@@ -1,0 +1,135 @@
+{
+  "title": "0.15.0",
+  "blocks": [
+    {
+      "id": "bBWs2HMP0YKwhTVjnnwPv",
+      "component": "Block",
+      "data": {
+        "id": "CB3VmCkOkbTcgGof0awOT",
+        "component": "HeaderBlock",
+        "props": {},
+        "data": {
+          "type": "h1",
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">优化历史记录</span>"
+        }
+      }
+    },
+    {
+      "id": "BxNpoZTnxl6IuBnVTu9wk",
+      "component": "Block",
+      "data": {
+        "id": "Mxj9uQTdSq5YXIMIax9DG",
+        "component": "EditBlock",
+        "props": {},
+        "data": "<span class=\"pudding-text\" data-type=\"text\">优化历史操作记录，对于开发添加历史记录面板，方便跟踪历史记录信息。优化后的历史记录，将占用更少的内存，更好的使用体验，目前更新的模块有</span>",
+        "focus": false
+      }
+    },
+    {
+      "id": "4M_PwD2fI0yWHBvl41n8o",
+      "component": "Block",
+      "data": {
+        "id": "alsbK0tTrt0CEvDZJNkMe",
+        "component": "ListItemBlock",
+        "props": {},
+        "class": [],
+        "data": {
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">文本节点转换</span>"
+        },
+        "focus": false
+      }
+    },
+    {
+      "id": "GiMn9q7EUFxDL_ANktpWn",
+      "component": "Block",
+      "data": {
+        "id": "U5P-yX4aT5QmHigtwabb-",
+        "component": "ListItemBlock",
+        "props": {},
+        "class": [],
+        "data": {
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">快捷指令的转换</span>"
+        },
+        "focus": false
+      }
+    },
+    {
+      "id": "_FCamrXCjpQQ_yoEI5S3h",
+      "component": "Block",
+      "data": {
+        "id": "NGEZ54O1EiAWLVttatiJS",
+        "component": "HeaderBlock",
+        "props": {},
+        "data": {
+          "type": "h1",
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">优化查询</span>"
+        },
+        "focus": false
+      }
+    },
+    {
+      "id": "obftd69qLmgIK6PUYHlmC",
+      "component": "Block",
+      "data": {
+        "id": "Zo_jiUZ6QyZ39KDltFiuX",
+        "component": "EditBlock",
+        "props": {},
+        "data": "<span class=\"pudding-text\" data-type=\"text\">添加文件列表，筛选高亮文字。</span>"
+      }
+    },
+    {
+      "id": "zhQvloHrxrJwetwJ47Unu",
+      "component": "Block",
+      "data": {
+        "id": "JgFF35FkxIgXc_eJWddRT",
+        "component": "ImageBlock",
+        "props": {},
+        "data": {
+          "url": "/teiYZUW0VwhXlIbU4ZTMS/1719716356612.gif",
+          "width": 139.8271484375,
+          "align": "center"
+        },
+        "focus": false
+      }
+    },
+    {
+      "id": "rcFeIfbXR5sP_WAR4PbMP",
+      "component": "Block",
+      "data": {
+        "id": "hxax57YsUGHoSTWhZVsDQ",
+        "component": "HeaderBlock",
+        "props": {},
+        "data": {
+          "type": "h1",
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">优化文档查询</span>"
+        }
+      }
+    },
+    {
+      "id": "DPPTZ_RntfSu_MeH1Dq4n",
+      "component": "Block",
+      "data": {
+        "id": "_WP_vHIBhGiG8EABz7Mgv",
+        "component": "EditBlock",
+        "props": {},
+        "data": "<span class=\"pudding-text\" data-type=\"text\">优化文档中查询显示与切换</span>"
+      }
+    },
+    {
+      "id": "Va5l1agvmbfKp1dSQXsK5",
+      "component": "Block",
+      "data": {
+        "id": "cqXjB686u5iCxn7ouDHC8",
+        "component": "EditBlock",
+        "props": {},
+        "data": "<span class=\"pudding-text\" data-type=\"text\">优化在MAC中点击不了问题</span>",
+        "focus": false
+      }
+    }
+  ],
+  "setting": {
+    "lock": false,
+    "debug": false,
+    "historyPanel": false
+  }
+}

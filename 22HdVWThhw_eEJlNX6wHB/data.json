@@ -17,11 +17,82 @@
       "component": "Block",
       "data": {
         "id": "AX2jipXOmXydaVW46dQa8",
-        "component": "EditBlock",
+        "component": "ListItemBlock",
         "props": {},
-        "data": "",
+        "data": {
+          "doc": "<span class=\"pudding-text\" data-type=\"text\"></span><a class=\"pudding-link\" data-type=\"link\" href=\"local:/0SDQSmG1N35tOZ11JLxUx\"><span data-markup=\"[\">[</span><label>快捷指令</label><span data-markup=\"](\">](</span><span class=\"pudding-link-url\">local:/0SDQSmG1N35tOZ11JLxUx</span><span data-markup=\")\">)</span></a>"
+        },
         "focus": false
       }
+    },
+    {
+      "id": "Cx1k8sL5eE5CihUh_u25e",
+      "component": "Block",
+      "data": {
+        "id": "Wa1ipBY8vZuisFEyGwwe1",
+        "component": "ListItemBlock",
+        "props": {},
+        "class": [],
+        "data": {
+          "doc": "<a class=\"pudding-link\" data-type=\"link\" href=\"local:/Dqt89v8SU8XiFarhCoLOg\"><span data-markup=\"[\">[</span><label>链接</label><span data-markup=\"](\">](</span><span class=\"pudding-link-url\">local:/Dqt89v8SU8XiFarhCoLOg</span><span data-markup=\")\">)</span></a><span class=\"pudding-text\" data-type=\"text\"></span>"
+        },
+        "focus": false
+      }
+    },
+    {
+      "id": "A-6MaoChvOosLFrc6mSEf",
+      "component": "Block",
+      "data": {
+        "id": "XlQHwa5DxzS1poZn7wjy6",
+        "component": "ListItemBlock",
+        "props": {},
+        "class": [],
+        "data": {
+          "doc": "<a class=\"pudding-link\" data-type=\"link\" href=\"local:/Dqt89v8SU8XiFarhCoLOg\"><span data-markup=\"[\">[</span><label>链接</label><span data-markup=\"](\">](</span><span class=\"pudding-link-url\">local:/Dqt89v8SU8XiFarhCoLOg</span><span data-markup=\")\">)</span></a><span class=\"pudding-text\" data-type=\"text\"></span>"
+        },
+        "focus": false
+      }
+    },
+    {
+      "id": "7zPcBTe-5odmbDJxcRs0o",
+      "component": "Block",
+      "data": {
+        "id": "aaTIzvARZ-WI5czdudMOe",
+        "component": "ListItemBlock",
+        "props": {},
+        "class": [],
+        "data": {
+          "doc": "<a class=\"pudding-link\" data-type=\"link\" href=\"local:/YnDlP6yeUnjL4U_eYNGvP\"><span data-markup=\"[\">[</span><label>表格</label><span data-markup=\"](\">](</span><span class=\"pudding-link-url\">local:/YnDlP6yeUnjL4U_eYNGvP</span><span data-markup=\")\">)</span></a><span class=\"pudding-text\" data-type=\"text\"></span>"
+        },
+        "focus": false
+      }
+    },
+    {
+      "id": "knof5odSmjr_LRd5CzXnc",
+      "component": "Block",
+      "data": {
+        "id": "j5YWnGmWcINEbOgdUz_Sb",
+        "component": "ListItemBlock",
+        "props": {},
+        "class": [],
+        "data": {
+          "doc": "<a class=\"pudding-link\" data-type=\"link\" href=\"local:/2SHh-NC8kVocpK2UJlT-X\"><span data-markup=\"[\">[</span><label>引用</label><span data-markup=\"](\">](</span><span class=\"pudding-link-url\">local:/2SHh-NC8kVocpK2UJlT-X</span><span data-markup=\")\">)</span></a><span class=\"pudding-text\" data-type=\"text\"></span>"
+        },
+        "focus": false
+      }
+    },
+    {
+      "id": "GIMfpPKetjlnkT8N0gtCu",
+      "component": "Block",
+      "data": {
+        "id": "9qF6YTLacupWi0X8AK3XL",
+        "component": "EditBlock",
+        "props": {},
+        "class": [],
+        "data": "",
+        "focus": true
+      },
+      "props": {}
     }
   ],
   "setting": {

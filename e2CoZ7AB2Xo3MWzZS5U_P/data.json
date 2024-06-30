@@ -6,9 +6,196 @@
       "component": "Block",
       "data": {
         "id": "TARx27NWb5viuSjn9OsqP",
+        "component": "HeaderBlock",
+        "props": {},
+        "data": {
+          "type": "h1",
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">功能</span>"
+        }
+      }
+    },
+    {
+      "id": "IpbRcVwmoHMxVmh1mKU1e",
+      "component": "Block",
+      "data": {
+        "id": "eqp822rT_RTD8T2ciNmSy",
+        "component": "HeaderBlock",
+        "props": {},
+        "data": {
+          "type": "h2",
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">PDF 导出</span>"
+        }
+      }
+    },
+    {
+      "id": "Z4yLKufyzaIRXtPP0ODOV",
+      "component": "Block",
+      "data": {
+        "id": "_tm9aMDILSMpxpMF5U77M",
+        "component": "EditBlock",
+        "props": {},
+        "data": "<span class=\"pudding-text\" data-type=\"text\">新加导出文件为 PDF 的功能。通过【菜单】》【文件】》【导出 PDF】可以将当前聚焦的文档导出为 PDF。</span>"
+      }
+    },
+    {
+      "id": "tM3cWClRX7u5KaqQVmBq5",
+      "component": "Block",
+      "data": {
+        "id": "cuXER2UNFOQ_ws_EJxArh",
         "component": "EditBlock",
         "props": {},
         "data": "",
+        "focus": false
+      }
+    },
+    {
+      "id": "hSZ2tSsgSMbpMaQ0IT-05",
+      "component": "Block",
+      "data": {
+        "id": "ZhxbY1Kb6Z2SikoJ1j5Tu",
+        "component": "HeaderBlock",
+        "props": {},
+        "data": {
+          "type": "h2",
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">书签功能</span>"
+        }
+      }
+    },
+    {
+      "id": "dY6_hBdQg_JdjqJGRPymd",
+      "component": "Block",
+      "data": {
+        "id": "hQHdXTgvNIUqXWRt5Rysx",
+        "component": "EditBlock",
+        "props": {},
+        "data": "<span class=\"pudding-text\" data-type=\"text\">新加快捷指令</span><mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>/bookmark</label><span data-markup=\"==\">==</span></mark><span class=\"pudding-text\" data-type=\"text\">或</span><mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>/sq</label><span data-markup=\"==\">==</span></mark><span class=\"pudding-text\" data-type=\"text\">用于生成书签模块。输入网址后，自动解析标题与简介信息。</span>"
+      }
+    },
+    {
+      "id": "MhpDFf0SoWPfoK2ZfHV1J",
+      "component": "Block",
+      "data": {
+        "id": "7wcUHgdfuxH7gdI4kXfxe",
+        "component": "EditBlock",
+        "props": {},
+        "data": "<span class=\"pudding-text\" data-type=\"text\">书签同时也支持自定义想要的内容与地址。</span>"
+      }
+    },
+    {
+      "id": "Waxus0E_teFdroeeGkNVu",
+      "component": "Block",
+      "data": {
+        "id": "Z2NSFuYg2TFDmRlLnY95b",
+        "component": "EditBlock",
+        "props": {},
+        "data": ""
+      }
+    },
+    {
+      "id": "zKrEagiWq0kJUgRMMXfBB",
+      "component": "Block",
+      "data": {
+        "id": "9xxhL2RrcPP9ejuRFDQCw",
+        "component": "HeaderBlock",
+        "props": {},
+        "data": {
+          "type": "h1",
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">优化</span>"
+        }
+      }
+    },
+    {
+      "id": "Xk8GMlreVX3aLeAuh6zDb",
+      "component": "Block",
+      "data": {
+        "id": "WSe1aleAHUwkZ1iyLy-GA",
+        "component": "HeaderBlock",
+        "props": {},
+        "data": {
+          "type": "h2",
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">分栏模块</span>"
+        }
+      }
+    },
+    {
+      "id": "NwJ4Ujv4SGfB5tpq8n9yz",
+      "component": "Block",
+      "data": {
+        "id": "k7JJMzsStn3etsDkQLq2N",
+        "component": "EditBlock",
+        "props": {},
+        "data": "<span class=\"pudding-text\" data-type=\"text\">优化分栏的拖动功能，防止内容超出导致页面错乱。</span>"
+      }
+    },
+    {
+      "id": "QYUZGp8uzCUNegacEvlw4",
+      "component": "Block",
+      "data": {
+        "id": "QAUjYv2WPyyekbatDrldm",
+        "component": "HeaderBlock",
+        "props": {},
+        "data": {
+          "type": "h2",
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">列表与缩进</span>"
+        }
+      }
+    },
+    {
+      "id": "b-LjypeltkI222GB98Vjy",
+      "component": "Block",
+      "data": {
+        "id": "tmx1Np2woSFMVy6NoGSFm",
+        "component": "EditBlock",
+        "props": {},
+        "data": "<span class=\"pudding-text\" data-type=\"text\">优化列表缩进与回退问题。</span>"
+      }
+    },
+    {
+      "id": "lTsAbS0JS2c-0Lqz6I0ss",
+      "component": "Block",
+      "data": {
+        "id": "52j2MzjrPswCM8nj0pxC_",
+        "component": "EditBlock",
+        "props": {},
+        "data": "<span class=\"pudding-text\" data-type=\"text\">同时添加了空节点的缩进能力，使用</span><mark class=\"pudding-mark\" data-type=\"mark\" \n><span data-markup=\"==\">==</span\n><label>Tab</label\n><span data-markup=\"==\">==</span\n></mark><span class=\"pudding-text\" data-type=\"text\">键可以增加缩进效果，使用</span><mark class=\"pudding-mark\" data-type=\"mark\" \n><span data-markup=\"==\">==</span\n><label>Shift+Tab</label\n><span data-markup=\"==\">==</span\n></mark><span class=\"pudding-text is-active\" data-type=\"text\">可以回退缩进。</span>"
+      },
+      "props": {
+        "tab": 0
+      }
+    },
+    {
+      "id": "SZ1EYNyZ8Zgh8c6hIMcd-",
+      "component": "Block",
+      "data": {
+        "id": "zH73xlYvIf-ES2_X3vHa4",
+        "component": "EditBlock",
+        "props": {},
+        "data": "<span class=\"pudding-text\" data-type=\"text\">此外，在文本节点首位时，使用</span><mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>Back（删除键）</label><span data-markup=\"==\">==</span></mark><span class=\"pudding-text\" data-type=\"text\">时优先处理缩进，然后才是文本的合并。</span>"
+      }
+    },
+    {
+      "id": "jHFAs1M4OMtnNI4TWi85U",
+      "component": "Block",
+      "data": {
+        "id": "hZ78ErVxfn4A-s--6Ta-L",
+        "component": "HeaderBlock",
+        "props": {},
+        "data": {
+          "type": "h2",
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">其它细节调整</span>"
+        }
+      }
+    },
+    {
+      "id": "WFOe37Lo4OEryuBpQx1p1",
+      "component": "Block",
+      "data": {
+        "id": "c9eiawJjDkQFfPKsJwYYi",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">调整文档创建，将之前在文件菜单末尾移动到与笔记本切换一起，方便操作。</span>"
+        },
         "focus": false
       }
     },
@@ -17,22 +204,119 @@
       "component": "Block",
       "data": {
         "id": "NWO7tnmIiQB1tTK56NAHK",
-        "component": "EditBlock",
+        "component": "ListItemBlock",
         "props": {},
-        "data": "",
+        "data": {
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">修复列表在使用复制内容时无效问题</span>"
+        },
+        "focus": false
+      },
+      "props": {
+        "tab": 0
+      }
+    },
+    {
+      "id": "9vFdeSWT9oho-uAIgrIXI",
+      "component": "ColumnListBlock",
+      "data": [
+        {
+          "id": "85yrh4zfSKmA6tSBjhowq",
+          "component": "ColumnBlock",
+          "props": {
+            "width": 0.5
+          },
+          "data": [
+            {
+              "id": "EY5CSz4w0suLEC20Jyga4",
+              "component": "Block",
+              "data": {
+                "id": "LE-zYe_Tsbp41Np6_-WtD",
+                "component": "EditBlock",
+                "props": {},
+                "class": [],
+                "data": "<span class=\"pudding-text\" data-type=\"text\">修复前</span>",
+                "focus": false
+              },
+              "props": {}
+            },
+            {
+              "id": "d-0RPLkSv8ui0ny3gAzpP",
+              "component": "Block",
+              "data": {
+                "id": "fpK0QOlUCD22Hmz-H67ft",
+                "component": "ImageBlock",
+                "props": {},
+                "data": {
+                  "url": "/e2CoZ7AB2Xo3MWzZS5U_P/1694698001968.gif"
+                },
+                "focus": false
+              }
+            }
+          ]
+        },
+        {
+          "id": "OmIuzlqWWafahb0BNxE0c",
+          "component": "ColumnBlock",
+          "props": {
+            "width": 0.5
+          },
+          "data": [
+            {
+              "id": "CxdkR3jwseegl1jArWjpQ",
+              "component": "Block",
+              "data": {
+                "id": "3VrrbH0SVgHy10Oy4_nq4",
+                "component": "EditBlock",
+                "props": {},
+                "class": [],
+                "data": "<span class=\"pudding-text\" data-type=\"text\">修复后</span>",
+                "focus": false
+              },
+              "props": {}
+            },
+            {
+              "id": "zsjDWLEt1i3gscnhj3RaZ",
+              "component": "Block",
+              "data": {
+                "id": "Ly6enrjOdO_g4pXfU2Fwz",
+                "component": "ImageBlock",
+                "props": {},
+                "data": {
+                  "url": "/e2CoZ7AB2Xo3MWzZS5U_P/1694697988921.gif"
+                },
+                "focus": false
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ew0dwMmNPyc6nPLe6pWmz",
+      "component": "Block",
+      "data": {
+        "id": "yEMKH7KxAI0_pKWHxm19k",
+        "component": "ListItemBlock",
+        "props": {},
+        "class": [],
+        "data": {
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">链接菜单添加复制</span>"
+        },
         "focus": false
       }
     },
     {
-      "id": "jicgYwLvPwvslcgayL-QP",
+      "id": "xwwf7aDRs6cuxobDGI_Rp",
       "component": "Block",
       "data": {
-        "id": "ZV4eonhNKARJ_An4gOr13",
+        "id": "-64WvYadhSHiIIlmr8Ju3",
         "component": "EditBlock",
         "props": {},
+        "class": [],
         "data": "",
         "focus": false
-      }
+      },
+      "props": {}
     }
   ],
   "setting": {

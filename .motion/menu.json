@@ -3,12 +3,7 @@
     "name": "欢迎",
     "path": "/5i4ImbYXL1q3ezjV4ZfWl",
     "open": true,
-    "children": [
-      {
-        "name": "",
-        "path": "/-wM_VxoGDWBR7bg99JmDV"
-      }
-    ]
+    "children": []
   },
   {
     "name": "功能介绍",
@@ -38,6 +33,18 @@
     "path": "/ObbRUzgDI2dBxO5a3wPhy",
     "open": true,
     "children": [
+      {
+        "name": "0.15.0",
+        "path": "/teiYZUW0VwhXlIbU4ZTMS"
+      },
+      {
+        "name": "0.14.0",
+        "path": "/uWUm9DF32LK9N_dKUo0LZ"
+      },
+      {
+        "name": "0.13.0",
+        "path": "/GKyaMBilQ4etRoRMuRQ0U"
+      },
       {
         "name": "0.12.0",
         "path": "/e2CoZ7AB2Xo3MWzZS5U_P"

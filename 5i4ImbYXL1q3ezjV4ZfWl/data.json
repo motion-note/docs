@@ -115,11 +115,51 @@
       "component": "Block",
       "data": {
         "id": "vrTEirvZapypS8zjn0fDU",
-        "component": "EditBlock",
+        "component": "HeaderBlock",
         "props": {},
-        "data": "",
+        "data": {
+          "type": "h1",
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">联系我们</span>"
+        },
         "focus": false
       }
+    },
+    {
+      "id": "e2rofWNRLKz7rDshuXW5B",
+      "component": "Block",
+      "data": {
+        "id": "WHZWLMoJ6NsFbmq80QBoO",
+        "component": "EditBlock",
+        "props": {},
+        "data": "<span class=\"pudding-text\" data-type=\"text\">如果有什么想法与建议，可以通过以下方式联系我们：</span>",
+        "focus": false
+      }
+    },
+    {
+      "id": "7rVDwLvm3SDqXUovNdBZv",
+      "component": "Block",
+      "data": {
+        "id": "3G0DAcR_i9JLwRsfNeRUS",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "<strong class=\"pudding-strong\" data-type=\"strong\"><span data-markup=\"**\">**</span><label>530675800@qq.com</label><span data-markup=\"**<pudding-caret></pudding-caret>\">**</span></strong><span class=\"pudding-text\" data-type=\"text\"></span>"
+        },
+        "focus": false
+      }
+    },
+    {
+      "id": "WPeDdJM9hxMJWOWmxtfnq",
+      "component": "Block",
+      "data": {
+        "id": "h7dYoU-03hiwlaeOkN_VW",
+        "component": "EditBlock",
+        "props": {},
+        "class": [],
+        "data": "",
+        "focus": false
+      },
+      "props": {}
     }
   ],
   "setting": {

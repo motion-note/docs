@@ -8,7 +8,7 @@
         "id": "Ki3eYdD4fR6Ewe4YZJhFN",
         "component": "EditBlock",
         "props": {},
-        "data": "",
+        "data": "<span class=\"pudding-text\" data-type=\"text\">这里主要记录每个版本的变化内容。</span>",
         "focus": false
       }
     },
