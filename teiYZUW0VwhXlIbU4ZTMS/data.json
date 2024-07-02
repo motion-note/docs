@@ -101,8 +101,96 @@
         "props": {},
         "data": {
           "type": "h1",
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">优化文档查询</span>"
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">图片优化</span>"
+        },
+        "focus": false
+      }
+    },
+    {
+      "id": "YUu0VDYMIzRQVAf7zHBVn",
+      "component": "Block",
+      "data": {
+        "id": "tjuP28DITbx_3SsZr5-Hg",
+        "component": "EditBlock",
+        "props": {},
+        "data": "<span class=\"pudding-text\" data-type=\"text\">优化加载失败时图片的展示，提示出错的图片信息。</span>",
+        "focus": false
+      }
+    },
+    {
+      "id": "z-VXEduWGjvreSJQ8hpBw",
+      "component": "ColumnListBlock",
+      "data": [
+        {
+          "id": "A6fo3gm90geAgcUbLL2TI",
+          "component": "ColumnBlock",
+          "props": {
+            "width": 0.5
+          },
+          "data": [
+            {
+              "id": "auLmnVWsugJhal9HOpDV3",
+              "component": "Block",
+              "data": {
+                "id": "Bjqsy4YEHNGXJ5EHY4CTz",
+                "component": "ImageBlock",
+                "props": {},
+                "data": {
+                  "url": "\\teiYZUW0VwhXlIbU4ZTMS\\1719802957357.png"
+                },
+                "focus": false
+              }
+            }
+          ]
+        },
+        {
+          "id": "ROLwxI8xV8zA2Nz7wwhH6",
+          "component": "ColumnBlock",
+          "props": {
+            "width": 0.5
+          },
+          "data": [
+            {
+              "id": "RQWITYw6EO3OZWkar_7w1",
+              "component": "Block",
+              "props": {},
+              "data": {
+                "id": "fJR2ISxYluotLKRFmCSMX",
+                "component": "ImageBlock",
+                "props": {},
+                "data": {
+                  "url": "\\teiYZUW0VwhXlIbU4ZTMS\\1719802992712.png"
+                },
+                "focus": false
+              }
+            }
+          ]
         }
+      ]
+    },
+    {
+      "id": "KAmo6HaX4URV3F_3jEefp",
+      "component": "Block",
+      "props": {},
+      "data": {
+        "id": "R8QvG6O5oqXdtopXwjAlB",
+        "component": "EditBlock",
+        "props": {},
+        "data": "<span class=\"pudding-text\" data-type=\"text\">优化图片的删除，对于加载出错的图片，支持删除</span>",
+        "focus": false
+      }
+    },
+    {
+      "id": "0wo1XXWqo91PB-NHjLxoj",
+      "component": "Block",
+      "data": {
+        "id": "1GB8MwHudnXmTtStSbllR",
+        "component": "ImageBlock",
+        "props": {},
+        "data": {
+          "url": "\\teiYZUW0VwhXlIbU4ZTMS\\1719803564219.gif"
+        },
+        "focus": false
       }
     },
     {
@@ -112,7 +200,8 @@
         "id": "_WP_vHIBhGiG8EABz7Mgv",
         "component": "EditBlock",
         "props": {},
-        "data": "<span class=\"pudding-text\" data-type=\"text\">优化文档中查询显示与切换</span>"
+        "data": "<span class=\"pudding-text\" data-type=\"text\">添加快捷键删除，在选中时，可以使用删除键快速删除图片节点</span>",
+        "focus": false
       }
     },
     {
@@ -123,7 +212,7 @@
         "component": "EditBlock",
         "props": {},
         "data": "<span class=\"pudding-text\" data-type=\"text\">优化在MAC中点击不了问题</span>",
-        "focus": false
+        "focus": true
       }
     }
   ],
