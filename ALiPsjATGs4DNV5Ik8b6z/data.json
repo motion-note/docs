@@ -1,0 +1,131 @@
+{
+  "title": "图片",
+  "blocks": [
+    {
+      "id": "nOF9GEIf9Y25iLXf9KBNu",
+      "component": "Block",
+      "data": {
+        "id": "dieCzILGO04nwTcX_kLsP",
+        "component": "EditBlock",
+        "props": {},
+        "data": "<span class=\"pudding-text\" data-type=\"text\">用于展示图片的相关信息</span>",
+        "focus": false
+      }
+    },
+    {
+      "id": "jjvaedaFkBZXtckv-pEVv",
+      "component": "Block",
+      "data": {
+        "id": "7DxGJn_o5dArc0Nwmnaod",
+        "component": "EditBlock",
+        "props": {},
+        "data": "",
+        "focus": false
+      }
+    },
+    {
+      "id": "S_d9Lh_KqapPfIy43gpEj",
+      "component": "Block",
+      "data": {
+        "id": "iK8-aV19SeBEWy3WoTr4B",
+        "component": "HeaderBlock",
+        "props": {},
+        "data": {
+          "type": "h1",
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">使用</span>"
+        }
+      }
+    },
+    {
+      "id": "icUM1_UTRsrtIenESHrX7",
+      "component": "Block",
+      "data": {
+        "id": "6vemMNssCYKcGQfkXn6n4",
+        "component": "EditBlock",
+        "props": {},
+        "data": "<span class=\"pudding-text\" data-type=\"text\">图片的使用主要通过复制粘贴的形式。</span>",
+        "focus": false
+      }
+    },
+    {
+      "id": "AI5oIQbeucRFKJg6dKTFX",
+      "component": "Block",
+      "data": {
+        "id": "s6okscdsobYG9cLFPwxOv",
+        "component": "EditBlock",
+        "props": {},
+        "data": "<span class=\"pudding-text\" data-type=\"text\">在系统中或是网页上，选择一个图片后，复制图片，然后就可以在编辑器中粘贴，让图片保存在笔记中了。</span>",
+        "focus": false
+      }
+    },
+    {
+      "id": "LgRpcfFz3en-pjtJlMHGE",
+      "component": "Block",
+      "data": {
+        "id": "ykW9W-9D5fnie4QwZOr5y",
+        "component": "HeaderBlock",
+        "props": {},
+        "data": {
+          "type": "h1",
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">操作</span>"
+        },
+        "focus": false
+      }
+    },
+    {
+      "id": "qLhPFCvbz2JOSF-fmjjVK",
+      "component": "Block",
+      "data": {
+        "id": "Zaa-N-0_O--PBQOANHDsP",
+        "component": "HeaderBlock",
+        "props": {},
+        "data": {
+          "type": "h2",
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">显示大小控制</span>"
+        },
+        "focus": false
+      }
+    },
+    {
+      "id": "7bD3egauKYXVQJ2Ah51vD",
+      "component": "Block",
+      "data": {
+        "id": "4v8ec96OmA-wrOzmPIHAv",
+        "component": "EditBlock",
+        "props": {},
+        "data": "<span class=\"pudding-text\" data-type=\"text\">图片默认展示原始大小，你可以自己通过图片左右滑块操作设置它的大小。</span>",
+        "focus": false
+      }
+    },
+    {
+      "id": "RF81YtnwiQK_IpVboG3qH",
+      "component": "Block",
+      "data": {
+        "id": "Ga2jTu3WB2xD7EBJuRJbm",
+        "component": "HeaderBlock",
+        "props": {},
+        "data": {
+          "type": "h2",
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">图片菜单</span>"
+        },
+        "focus": false
+      }
+    },
+    {
+      "id": "hNHiKbidQlt3aWnUEtD1X",
+      "component": "Block",
+      "data": {
+        "id": "qZKGdEf--DSj_mIr4uhwq",
+        "component": "EditBlock",
+        "props": {},
+        "data": "",
+        "focus": false
+      }
+    }
+  ],
+  "setting": {
+    "lock": false,
+    "debug": false,
+    "historyPanel": false
+  }
+}

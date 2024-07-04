@@ -200,7 +200,77 @@
         "id": "_WP_vHIBhGiG8EABz7Mgv",
         "component": "EditBlock",
         "props": {},
-        "data": "<span class=\"pudding-text\" data-type=\"text\">添加快捷键删除，在选中时，可以使用删除键快速删除图片节点</span>",
+        "data": "<span class=\"pudding-text\" data-type=\"text\">添加快捷键删除，在选中时，可以使用</span><strong class=\"pudding-strong\" data-type=\"strong\"><span data-markup=\"**\">**</span><label>删除键</label><span data-markup=\"**\">**</span></strong><span class=\"pudding-text\" data-type=\"text\">快速删除图片节点</span>",
+        "focus": false
+      }
+    },
+    {
+      "id": "7b7pQ5BS8_KepEoNe2uTE",
+      "component": "Block",
+      "data": {
+        "id": "D2NiniFP8Ih55AfDpLM8e",
+        "component": "EditBlock",
+        "props": {},
+        "data": "<span class=\"pudding-text\" data-type=\"text\">优化图片选中效果，调整预览操作为</span><strong class=\"pudding-strong\" data-type=\"strong\"><span data-markup=\"**\">**</span><label>双击预览</label><span data-markup=\"**<pudding-caret></pudding-caret>\">**</span></strong><span class=\"pudding-text\" data-type=\"text\">，减少误点击时，图片自动预览问题。</span>",
+        "focus": false
+      },
+      "props": {}
+    },
+    {
+      "id": "cSQNWY-Ofa6oBT5wL-b33",
+      "component": "Block",
+      "data": {
+        "id": "XGVPRYA6CzgOb75F-Ti4m",
+        "component": "EditBlock",
+        "props": {},
+        "data": "<span class=\"pudding-text\" data-type=\"text\">其它更多功能，参考功能介绍图片</span>",
+        "focus": false
+      }
+    },
+    {
+      "id": "kaH8PXVtrV9T-gpd_Cn6g",
+      "component": "Block",
+      "data": {
+        "id": "7XDP_tIEBUz0qWJFGGVWg",
+        "component": "HeaderBlock",
+        "props": {},
+        "data": {
+          "type": "h1",
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">表格</span>"
+        },
+        "focus": false
+      }
+    },
+    {
+      "id": "gcVHgpA1JdbodmBRi7YDw",
+      "component": "Block",
+      "data": {
+        "id": "TAaThX5N5tZ0iETi6LqMA",
+        "component": "EditBlock",
+        "props": {},
+        "data": "<span class=\"pudding-text\" data-type=\"text\">优化表格的添加行列功能，修复列数过多时，表格宽度不正常的问题。</span>",
+        "focus": false
+      }
+    },
+    {
+      "id": "hpRwent-wIl0XxKxhTp8F",
+      "component": "Block",
+      "data": {
+        "id": "iS7qR_iHWERbPW5GgyHPA",
+        "component": "EditBlock",
+        "props": {},
+        "data": "<span class=\"pudding-text\" data-type=\"text\">现在添加列时，合并单元格也会一起移动。</span>",
+        "focus": false
+      }
+    },
+    {
+      "id": "3dP6BXjtZ3Z_6eW2h20_O",
+      "component": "Block",
+      "data": {
+        "id": "gTi16owUioxfhO_1wBuL5",
+        "component": "EditBlock",
+        "props": {},
+        "data": "<span class=\"pudding-text\" data-type=\"text\">（这里添加一个动态图）</span>",
         "focus": false
       }
     },
@@ -209,9 +279,25 @@
       "component": "Block",
       "data": {
         "id": "cqXjB686u5iCxn7ouDHC8",
-        "component": "EditBlock",
+        "component": "HeaderBlock",
         "props": {},
-        "data": "<span class=\"pudding-text\" data-type=\"text\">优化在MAC中点击不了问题</span>",
+        "data": {
+          "type": "h1",
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">其它细节优化</span>"
+        },
+        "focus": false
+      }
+    },
+    {
+      "id": "K_zDtjkUlbJs693Uih88s",
+      "component": "Block",
+      "data": {
+        "id": "Xe9NTZsMZzhIw1fRTxyj4",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "<span class=\"pudding-text\" data-type=\"text\">侧边菜单样式优化</span>"
+        },
         "focus": true
       }
     }
