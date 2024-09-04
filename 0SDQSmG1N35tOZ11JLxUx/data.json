@@ -1,27 +1,10 @@
 {
-  "title": "快捷指令",
+  "title": "🚧 快捷指令",
   "blocks": [
     {
       "id": "bvQ5bKNJpIL_nWacc4Hqj",
-      "component": "Block",
-      "data": {
-        "id": "oYm1ixjwUz7N1SfgFb3jg",
-        "component": "EditBlock",
-        "props": {},
-        "data": "<mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>0.10.0</label><span data-markup=\"==\">==</span></mark>",
-        "focus": false
-      }
-    },
-    {
-      "id": "2U9V43T1-vkPvNggtyEfZ",
-      "component": "Block",
-      "data": {
-        "id": "_r1EDdMOq9cULUTNOGtke",
-        "component": "EditBlock",
-        "props": {},
-        "data": "<span class=\"pudding-text\" data-type=\"text\">快捷指令将常用的格式内容放在一起，当用户在空的节点中输入</span><mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>/</label><span data-markup=\"==\">==</span></mark><span class=\"pudding-text\" data-type=\"text\">时将自动唤起选项，通过上下键或鼠标选择想要的节点格式，按</span><mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>Enter</label><span data-markup=\"==\">==</span></mark><span class=\"pudding-text\" data-type=\"text\">或</span><strong class=\"pudding-strong\" data-type=\"strong\"><span data-markup=\"**\">**</span><label>鼠标点击</label><span data-markup=\"**<pudding-caret></pudding-caret>\">**</span></strong><span class=\"pudding-text\" data-type=\"text\">自动生成指定格式的节点段落。</span>",
-        "focus": false
-      }
+      "component": "EditNode",
+      "data": "快捷指令将常用的格式内容放在一起，当用户在空的节点中输入=====时将自动唤起选项，通过上下键或鼠标选择想要的节点格式，按==Enter==或**鼠标点击**自动生成指定格式的节点段落。"
     },
     {
       "id": "7lWrgN2KaeJYgcTMh4qAQ",
@@ -39,14 +22,8 @@
     },
     {
       "id": "0kyrrnB0pHntJOPCPhelE",
-      "component": "Block",
-      "data": {
-        "id": "xX7cgZp_HNJL27y4w6t4t",
-        "component": "EditBlock",
-        "props": {},
-        "data": "",
-        "focus": false
-      }
+      "component": "EditNode",
+      "data": ""
     }
   ],
   "setting": {

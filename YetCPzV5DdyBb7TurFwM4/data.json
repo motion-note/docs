@@ -1,0 +1,20 @@
+{
+  "title": "入门",
+  "blocks": [
+    {
+      "id": "TLPb4dSKs3c2hVlxXNH0Q",
+      "component": "EditNode",
+      "data": ""
+    },
+    {
+      "id": "w0fFqVP3KdYSk8mIdZREc",
+      "component": "EditNode",
+      "data": ""
+    }
+  ],
+  "setting": {
+    "lock": false,
+    "debug": false,
+    "historyPanel": false
+  }
+}

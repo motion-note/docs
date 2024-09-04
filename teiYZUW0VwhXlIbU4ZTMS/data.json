@@ -10,20 +10,14 @@
         "props": {},
         "data": {
           "type": "h1",
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">优化历史记录</span>"
+          "doc": "优化历史记录"
         }
       }
     },
     {
       "id": "BxNpoZTnxl6IuBnVTu9wk",
-      "component": "Block",
-      "data": {
-        "id": "Mxj9uQTdSq5YXIMIax9DG",
-        "component": "EditBlock",
-        "props": {},
-        "data": "<span class=\"pudding-text\" data-type=\"text\">优化历史操作记录，对于开发添加历史记录面板，方便跟踪历史记录信息。优化后的历史记录，将占用更少的内存，更好的使用体验，目前更新的模块有</span>",
-        "focus": false
-      }
+      "component": "EditNode",
+      "data": "优化历史操作记录，对于开发添加历史记录面板，方便跟踪历史记录信息。优化后的历史记录，将占用更少的内存，更好的使用体验，目前更新的模块有"
     },
     {
       "id": "4M_PwD2fI0yWHBvl41n8o",
@@ -34,7 +28,7 @@
         "props": {},
         "class": [],
         "data": {
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">文本节点转换</span>"
+          "doc": "文本节点转换"
         },
         "focus": false
       }
@@ -48,7 +42,7 @@
         "props": {},
         "class": [],
         "data": {
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">快捷指令的转换</span>"
+          "doc": "快捷指令的转换"
         },
         "focus": false
       }
@@ -62,20 +56,15 @@
         "props": {},
         "data": {
           "type": "h1",
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">优化查询</span>"
+          "doc": "优化查询"
         },
         "focus": false
       }
     },
     {
       "id": "obftd69qLmgIK6PUYHlmC",
-      "component": "Block",
-      "data": {
-        "id": "Zo_jiUZ6QyZ39KDltFiuX",
-        "component": "EditBlock",
-        "props": {},
-        "data": "<span class=\"pudding-text\" data-type=\"text\">添加文件列表，筛选高亮文字。</span>"
-      }
+      "component": "EditNode",
+      "data": "添加文件列表，筛选高亮文字。"
     },
     {
       "id": "zhQvloHrxrJwetwJ47Unu",
@@ -101,21 +90,15 @@
         "props": {},
         "data": {
           "type": "h1",
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">图片优化</span>"
+          "doc": "图片优化"
         },
         "focus": false
       }
     },
     {
       "id": "YUu0VDYMIzRQVAf7zHBVn",
-      "component": "Block",
-      "data": {
-        "id": "tjuP28DITbx_3SsZr5-Hg",
-        "component": "EditBlock",
-        "props": {},
-        "data": "<span class=\"pudding-text\" data-type=\"text\">优化加载失败时图片的展示，提示出错的图片信息。</span>",
-        "focus": false
-      }
+      "component": "EditNode",
+      "data": "优化加载失败时图片的展示，提示出错的图片信息。"
     },
     {
       "id": "z-VXEduWGjvreSJQ8hpBw",
@@ -170,15 +153,9 @@
     },
     {
       "id": "KAmo6HaX4URV3F_3jEefp",
-      "component": "Block",
+      "component": "EditNode",
       "props": {},
-      "data": {
-        "id": "R8QvG6O5oqXdtopXwjAlB",
-        "component": "EditBlock",
-        "props": {},
-        "data": "<span class=\"pudding-text\" data-type=\"text\">优化图片的删除，对于加载出错的图片，支持删除</span>",
-        "focus": false
-      }
+      "data": "优化图片的删除，对于加载出错的图片，支持删除"
     },
     {
       "id": "0wo1XXWqo91PB-NHjLxoj",
@@ -195,37 +172,19 @@
     },
     {
       "id": "DPPTZ_RntfSu_MeH1Dq4n",
-      "component": "Block",
-      "data": {
-        "id": "_WP_vHIBhGiG8EABz7Mgv",
-        "component": "EditBlock",
-        "props": {},
-        "data": "<span class=\"pudding-text\" data-type=\"text\">添加快捷键删除，在选中时，可以使用</span><strong class=\"pudding-strong\" data-type=\"strong\"><span data-markup=\"**\">**</span><label>删除键</label><span data-markup=\"**\">**</span></strong><span class=\"pudding-text\" data-type=\"text\">快速删除图片节点</span>",
-        "focus": false
-      }
+      "component": "EditNode",
+      "data": "添加快捷键删除，在选中时，可以使用**删除键**快速删除图片节点"
     },
     {
       "id": "7b7pQ5BS8_KepEoNe2uTE",
-      "component": "Block",
-      "data": {
-        "id": "D2NiniFP8Ih55AfDpLM8e",
-        "component": "EditBlock",
-        "props": {},
-        "data": "<span class=\"pudding-text\" data-type=\"text\">优化图片选中效果，调整预览操作为</span><strong class=\"pudding-strong\" data-type=\"strong\"><span data-markup=\"**\">**</span><label>双击预览</label><span data-markup=\"**<pudding-caret></pudding-caret>\">**</span></strong><span class=\"pudding-text\" data-type=\"text\">，减少误点击时，图片自动预览问题。</span>",
-        "focus": false
-      },
+      "component": "EditNode",
+      "data": "优化图片选中效果，调整预览操作为**双击预览**，减少误点击时，图片自动预览问题。",
       "props": {}
     },
     {
       "id": "cSQNWY-Ofa6oBT5wL-b33",
-      "component": "Block",
-      "data": {
-        "id": "XGVPRYA6CzgOb75F-Ti4m",
-        "component": "EditBlock",
-        "props": {},
-        "data": "<span class=\"pudding-text\" data-type=\"text\">其它更多功能，参考功能介绍图片</span>",
-        "focus": false
-      }
+      "component": "EditNode",
+      "data": "其它更多功能，参考功能介绍图片"
     },
     {
       "id": "kaH8PXVtrV9T-gpd_Cn6g",
@@ -236,43 +195,25 @@
         "props": {},
         "data": {
           "type": "h1",
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">表格</span>"
+          "doc": "表格"
         },
         "focus": false
       }
     },
     {
       "id": "gcVHgpA1JdbodmBRi7YDw",
-      "component": "Block",
-      "data": {
-        "id": "TAaThX5N5tZ0iETi6LqMA",
-        "component": "EditBlock",
-        "props": {},
-        "data": "<span class=\"pudding-text\" data-type=\"text\">优化表格的添加行列功能，修复列数过多时，表格宽度不正常的问题。</span>",
-        "focus": false
-      }
+      "component": "EditNode",
+      "data": "优化表格的添加行列功能，修复列数过多时，表格宽度不正常的问题。"
     },
     {
       "id": "hpRwent-wIl0XxKxhTp8F",
-      "component": "Block",
-      "data": {
-        "id": "iS7qR_iHWERbPW5GgyHPA",
-        "component": "EditBlock",
-        "props": {},
-        "data": "<span class=\"pudding-text\" data-type=\"text\">现在添加列时，合并单元格也会一起移动。</span>",
-        "focus": false
-      }
+      "component": "EditNode",
+      "data": "现在添加列时，合并单元格也会一起移动。"
     },
     {
       "id": "3dP6BXjtZ3Z_6eW2h20_O",
-      "component": "Block",
-      "data": {
-        "id": "gTi16owUioxfhO_1wBuL5",
-        "component": "EditBlock",
-        "props": {},
-        "data": "<span class=\"pudding-text\" data-type=\"text\">（这里添加一个动态图）</span>",
-        "focus": false
-      }
+      "component": "EditNode",
+      "data": "（这里添加一个动态图）"
     },
     {
       "id": "Va5l1agvmbfKp1dSQXsK5",
@@ -283,7 +224,7 @@
         "props": {},
         "data": {
           "type": "h1",
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">其它细节优化</span>"
+          "doc": "其它细节优化"
         },
         "focus": false
       }
@@ -296,7 +237,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">侧边菜单样式优化</span>"
+          "doc": "侧边菜单样式优化"
         },
         "focus": true
       }

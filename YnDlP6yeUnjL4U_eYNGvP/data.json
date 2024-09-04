@@ -1,41 +1,28 @@
 {
-  "title": "表格",
+  "title": "🚧 表格",
   "blocks": [
     {
       "id": "oyYNrbsrrGdBGboYJFFQx",
       "component": "Block",
       "data": {
-        "id": "kn3Ui425Oa0todVoMtOjM",
-        "component": "EditBlock",
-        "props": {},
-        "data": "<mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>v0.9.0</label><span data-markup=\"==\">==</span></mark>",
-        "focus": false
-      }
-    },
-    {
-      "id": "h5nEgABGhZcl2IHeiV24D",
-      "component": "Block",
-      "data": {
-        "id": "3kMPrpz9fIpwB6HUPA0cS",
+        "id": "5BsFQM31MVu14HK50ZLnv",
         "component": "HeaderBlock",
         "props": {},
         "data": {
           "type": "h1",
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">创建表格</span>"
-        },
-        "focus": false
+          "doc": "创建表格"
+        }
       }
     },
     {
+      "id": "lyXVKejvvkhJgATaFfojI",
+      "component": "EditNode",
+      "data": "表格的创建十分简单，在空的节点中，输入=====唤起快捷指令，通过鼠标或上下键，选择表格就可以了；也可以根据提示，生成指定行列的表格。"
+    },
+    {
       "id": "UotUR5tVilhqLK4cSzR8q",
-      "component": "Block",
-      "data": {
-        "id": "FrIWTJuzn8M1WGTyB_OUq",
-        "component": "EditBlock",
-        "props": {},
-        "data": "<span class=\"pudding-text\" data-type=\"text\">表格的创建十分简单，在空的节点中，输入</span><mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>/</label><span data-markup=\"==\">==</span></mark><span class=\"pudding-text\" data-type=\"text\">唤起快捷指令，通过上下键，选择表格就可以了，也可以根据提示，生成指定行列的表格。</span>",
-        "focus": false
-      }
+      "component": "EditNode",
+      "data": ""
     },
     {
       "id": "dN69lrSEAgcb37vbCUgNL",
@@ -59,23 +46,30 @@
         "id": "ZdEBFzRWJYCVOhmOWLKM0",
         "component": "HeaderBlock",
         "props": {},
-        "focus": false,
         "data": {
           "type": "h1",
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">菜单功能说明</span>"
+          "doc": "菜单功能说明",
+          "data": "菜单栏功能说明"
+        }
+      }
+    },
+    {
+      "id": "xx08_yuXQNr6kfsV1MSK4",
+      "component": "Block",
+      "data": {
+        "id": "QWCtRjBn4G62MWY9FrQt-",
+        "component": "HeaderBlock",
+        "props": {},
+        "data": {
+          "type": "h2",
+          "doc": "单元格文本位置"
         }
       }
     },
     {
       "id": "qJNoboJClc6613pHSOYMP",
-      "component": "Block",
-      "data": {
-        "id": "7iZ2U7C9ZcwmF5k2ZkdlB",
-        "component": "EditBlock",
-        "props": {},
-        "data": "",
-        "focus": false
-      }
+      "component": "EditNode",
+      "data": "添加图片演示"
     },
     {
       "id": "n-cFgIjF8ES9dWlQXCWU7",
@@ -85,10 +79,9 @@
         "component": "HeaderBlock",
         "props": {},
         "data": {
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">单元格功能</span>",
+          "doc": "单元格功能",
           "type": "h1"
-        },
-        "focus": false
+        }
       }
     },
     {
@@ -99,22 +92,38 @@
         "component": "HeaderBlock",
         "props": {},
         "data": {
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">换行</span>",
+          "doc": "换行",
           "type": "h2"
-        },
-        "focus": false
+        }
       }
     },
     {
       "id": "oEf_5_K_u8UJnFGpGEDqr",
+      "component": "EditNode",
+      "data": "在单元格内按住`Alt`+`Enter`则会在单元格内换行"
+    },
+    {
+      "id": "8HSdO6s3n8g0dYZe3bz9J",
       "component": "Block",
       "data": {
-        "id": "uVaL4XiKgg_Ul2o3GdzO7",
-        "component": "EditBlock",
+        "id": "eBjtp7z-ZrcmqgrDKsVUB",
+        "component": "HeaderBlock",
         "props": {},
-        "data": "<span class=\"pudding-text\" data-type=\"text\">在单元格内按住</span><code class=\"pudding-inline-code\" data-type=\"code\"><span data-markup=\"`\">`</span><label>Ctrol</label><span data-markup=\"`\">`</span></code><span class=\"pudding-text\" data-type=\"text\">+</span><code class=\"pudding-inline-code\" data-type=\"code\"><span data-markup=\"`\">`</span><label>Enter</label><span data-markup=\"`\">`</span></code><span class=\"pudding-text\" data-type=\"text\">则会在单元格内换行</span>",
-        "focus": false
+        "data": {
+          "type": "h2",
+          "doc": "跳出表格"
+        }
       }
+    },
+    {
+      "id": "kFaJwPSrTa2ZQ0De5wXXK",
+      "component": "EditNode",
+      "data": "使用 ==ctrl+ enter== 可以快速跳出表格，并在表格下方生成一个文本节点。"
+    },
+    {
+      "id": "prqjAB9oV9fgcLxjvF38d",
+      "component": "EditNode",
+      "data": ""
     },
     {
       "id": "FVzAN5JESGkQ4suH6BmK2",
@@ -125,21 +134,14 @@
         "props": {},
         "data": {
           "type": "h2",
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">合并</span>"
-        },
-        "focus": false
+          "doc": "合并"
+        }
       }
     },
     {
       "id": "sIpRyl0zw57mIiztc1xTo",
-      "component": "Block",
-      "data": {
-        "id": "H6Kfreg9QQQ4O3HPsm8VG",
-        "component": "EditBlock",
-        "props": {},
-        "data": "<span class=\"pudding-text\" data-type=\"text\">使用鼠标选中需要合并的单元格，选择菜单上</span><mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>合并单元格</label><span data-markup=\"==\">==</span></mark><span class=\"pudding-text\" data-type=\"text\">图标就可以合并单元格了。</span>",
-        "focus": false
-      }
+      "component": "EditNode",
+      "data": "使用鼠标选中需要合并的单元格，选择菜单上==合并单元格==图标就可以合并单元格了。"
     },
     {
       "id": "gnHB6tbCxvvVWRe2CdUn9",
@@ -163,9 +165,8 @@
         "props": {},
         "data": {
           "type": "h1",
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">按键说明</span>"
-        },
-        "focus": false
+          "doc": "按键说明"
+        }
       }
     },
     {
@@ -181,25 +182,22 @@
               [
                 {
                   "id": "n2KueSvry56um_lLjGScD",
-                  "component": "EditBlock",
-                  "doc": "<span class=\"pudding-text\" data-type=\"text\">按键</span>",
-                  "focus": false
+                  "component": "EditNode",
+                  "data": "**按键**"
                 }
               ],
               [
                 {
                   "id": "jfSRCGAejIBA-VADfneSu",
-                  "component": "EditBlock",
-                  "doc": "<span class=\"pudding-text\" data-type=\"text\">功能</span>",
-                  "focus": false
+                  "component": "EditNode",
+                  "data": "**功能**"
                 }
               ],
               [
                 {
                   "id": "MiQ7-of58G4bkKjkep4ao",
-                  "component": "EditBlock",
-                  "doc": "<span class=\"pudding-text\" data-type=\"text\">备注</span>",
-                  "focus": false
+                  "component": "EditNode",
+                  "data": "**备注**"
                 }
               ]
             ],
@@ -207,25 +205,97 @@
               [
                 {
                   "id": "Rz3i7EmycqOu4Rvvhi0Kh",
-                  "component": "EditBlock",
-                  "doc": "<mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>enter</label><span data-markup=\"==\">==</span></mark>",
-                  "focus": false
+                  "component": "EditNode",
+                  "data": "==enter=="
                 }
               ],
               [
                 {
                   "id": "wWCdk2SIV29jSKRqWC1fu",
-                  "component": "EditBlock",
-                  "doc": "<span class=\"pudding-text\" data-type=\"text\">切换到下一个单元格</span>",
-                  "focus": false
+                  "component": "EditNode",
+                  "data": "切换到下一行的单元格，当在表格最后一行时，则生成一个文本节点"
                 }
               ],
               [
                 {
                   "id": "kxG8pnh3Rbbzuc2PcKCCb",
-                  "component": "EditBlock",
+                  "component": "EditNode",
+                  "data": ""
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "component": "EditNode",
+                  "id": "tNSxpHA5ardrxY7UrGz5O",
                   "doc": "",
-                  "focus": false
+                  "data": "==shift+enter=="
+                }
+              ],
+              [
+                {
+                  "component": "EditNode",
+                  "id": "OncmikHiCVzqqONIK7d8B",
+                  "doc": "",
+                  "data": "切换到上一行的单元格"
+                }
+              ],
+              [
+                {
+                  "component": "EditNode",
+                  "id": "p__axi5CpnU8wkmBcPQjD",
+                  "doc": ""
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "component": "EditNode",
+                  "id": "nC_eJI2W4zpFHLRk8TKc5",
+                  "doc": "",
+                  "data": "==tab=="
+                }
+              ],
+              [
+                {
+                  "component": "EditNode",
+                  "id": "-NfA9kXkCbRGc--UmTslO",
+                  "doc": "",
+                  "data": "切换到同行下一个单元格"
+                }
+              ],
+              [
+                {
+                  "component": "EditNode",
+                  "id": "j03VC-rErEnNRIOLCrrWu",
+                  "doc": ""
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "component": "EditNode",
+                  "id": "VXI76Xrfs3d2AcfJjwWir",
+                  "doc": "",
+                  "data": "==shift+tab=="
+                }
+              ],
+              [
+                {
+                  "component": "EditNode",
+                  "id": "fZ6c1uWx72IIGZsLp6NkA",
+                  "doc": "",
+                  "data": "切换到同行前一个单元格"
+                }
+              ],
+              [
+                {
+                  "component": "EditNode",
+                  "id": "5n50Ryy-cwx-wDq3ae5vt",
+                  "doc": ""
                 }
               ]
             ],
@@ -233,48 +303,22 @@
               [
                 {
                   "id": "XlTCu9PVPUwlokKucs_5T",
-                  "component": "EditBlock",
-                  "doc": "<mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>ctrl</label><span data-markup=\"==\">==</span></mark><span class=\"pudding-text\" data-type=\"text\">+</span><mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>enter</label><span data-markup=\"==\">==</span></mark><span class=\"pudding-text\" data-type=\"text\"></span>",
-                  "focus": false
+                  "component": "EditNode",
+                  "data": "==ctrl==+==enter=="
                 }
               ],
               [
                 {
                   "id": "VDOxmtsdqama3MRixKOT_",
-                  "component": "EditBlock",
-                  "doc": "<span class=\"pudding-text\" data-type=\"text\">在单元格中换行</span>",
-                  "focus": false
+                  "component": "EditNode",
+                  "data": "快速在表格下方生成一个文本节点"
                 }
               ],
               [
                 {
                   "id": "IiQ8kT_T-x9eyh0AgsHTM",
-                  "component": "EditBlock",
-                  "doc": "<span class=\"pudding-text\" data-type=\"text\">在macOS 中是</span><mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>command</label><span data-markup=\"==\">==</span></mark><span class=\"pudding-text\" data-type=\"text\"> + </span><mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>enter</label><span data-markup=\"==\">==</span></mark><span class=\"pudding-text\" data-type=\"text\"></span>",
-                  "focus": false
-                }
-              ]
-            ],
-            [
-              [
-                {
-                  "id": "ue2saEpVcW7dLjYT3XCw_",
-                  "focus": false,
-                  "doc": "<mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>shift</label><span data-markup=\"==\">==</span></mark><span class=\"pudding-text\" data-type=\"text\">+</span><mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>enter</label><span data-markup=\"==\">==</span></mark><span class=\"pudding-text\" data-type=\"text\"></span>"
-                }
-              ],
-              [
-                {
-                  "id": "kHDH3b7Zv1ois5pKXPZIK",
-                  "focus": false,
-                  "doc": ""
-                }
-              ],
-              [
-                {
-                  "id": "EsmP_ZPu1AuTgOiVgryif",
-                  "focus": false,
-                  "doc": ""
+                  "component": "EditNode",
+                  "data": "在macOS 中是==command== + ==enter=="
                 }
               ]
             ]
@@ -282,19 +326,23 @@
           "style": {
             "width": [
               133.13214111328125,
-              147.042724609375,
+              202.042724609375,
               158.89013671875
             ],
             "align": [
               "center",
-              "center",
-              "center"
+              "left",
+              "left"
             ],
             "merge": []
           }
-        },
-        "focus": false
+        }
       }
+    },
+    {
+      "id": "OBy7CweaWiro9vB-rWw6G",
+      "component": "EditNode",
+      "data": ""
     }
   ],
   "setting": {
