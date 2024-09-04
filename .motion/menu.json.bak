@@ -6,12 +6,16 @@
     "children": []
   },
   {
+    "name": "入门45",
+    "path": "/YetCPzV5DdyBb7TurFwM4"
+  },
+  {
     "name": "功能介绍",
     "path": "/22HdVWThhw_eEJlNX6wHB",
     "open": true,
     "children": [
       {
-        "name": "快捷指令",
+        "name": "🚧 快捷指令",
         "path": "/0SDQSmG1N35tOZ11JLxUx"
       },
       {
@@ -19,7 +23,7 @@
         "path": "/Dqt89v8SU8XiFarhCoLOg"
       },
       {
-        "name": "表格",
+        "name": "🚧 表格",
         "path": "/YnDlP6yeUnjL4U_eYNGvP"
       },
       {
@@ -27,7 +31,7 @@
         "path": "/2SHh-NC8kVocpK2UJlT-X"
       },
       {
-        "name": "图片",
+        "name": "🚧 图片",
         "path": "/ALiPsjATGs4DNV5Ik8b6z"
       }
     ]

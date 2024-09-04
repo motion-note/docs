@@ -1,27 +1,15 @@
 {
-  "title": "图片",
+  "title": "🚧 图片",
   "blocks": [
     {
       "id": "nOF9GEIf9Y25iLXf9KBNu",
-      "component": "Block",
-      "data": {
-        "id": "dieCzILGO04nwTcX_kLsP",
-        "component": "EditBlock",
-        "props": {},
-        "data": "<span class=\"pudding-text\" data-type=\"text\">用于展示图片的相关信息</span>",
-        "focus": false
-      }
+      "component": "EditNode",
+      "data": "用于展示图片的相关信息。"
     },
     {
       "id": "jjvaedaFkBZXtckv-pEVv",
-      "component": "Block",
-      "data": {
-        "id": "7DxGJn_o5dArc0Nwmnaod",
-        "component": "EditBlock",
-        "props": {},
-        "data": "",
-        "focus": false
-      }
+      "component": "EditNode",
+      "data": ""
     },
     {
       "id": "S_d9Lh_KqapPfIy43gpEj",
@@ -32,31 +20,19 @@
         "props": {},
         "data": {
           "type": "h1",
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">使用</span>"
+          "doc": "使用"
         }
       }
     },
     {
       "id": "icUM1_UTRsrtIenESHrX7",
-      "component": "Block",
-      "data": {
-        "id": "6vemMNssCYKcGQfkXn6n4",
-        "component": "EditBlock",
-        "props": {},
-        "data": "<span class=\"pudding-text\" data-type=\"text\">图片的使用主要通过</span><strong class=\"pudding-strong\" data-type=\"strong\"><span data-markup=\"**\">**</span><label>复制粘贴</label><span data-markup=\"**<pudding-caret></pudding-caret>\">**</span></strong><span class=\"pudding-text\" data-type=\"text\">的形式。</span>",
-        "focus": false
-      }
+      "component": "EditNode",
+      "data": "图片的使用主要通过复制粘贴的形式。"
     },
     {
       "id": "AI5oIQbeucRFKJg6dKTFX",
-      "component": "Block",
-      "data": {
-        "id": "s6okscdsobYG9cLFPwxOv",
-        "component": "EditBlock",
-        "props": {},
-        "data": "<span class=\"pudding-text\" data-type=\"text\">在系统中或是网页上，选择一个图片后，复制图片，然后就可以在编辑器中粘贴，让图片保存在笔记中了。</span>",
-        "focus": false
-      }
+      "component": "EditNode",
+      "data": "在系统中或是网页上，选择一个图片后，复制图片，然后就可以在编辑器中粘贴，让图片保存在笔记中了。"
     },
     {
       "id": "LgRpcfFz3en-pjtJlMHGE",
@@ -67,7 +43,7 @@
         "props": {},
         "data": {
           "type": "h1",
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">操作</span>"
+          "doc": "操作"
         },
         "focus": false
       }
@@ -81,21 +57,15 @@
         "props": {},
         "data": {
           "type": "h2",
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">显示大小控制</span>"
+          "doc": "大小控制"
         },
         "focus": false
       }
     },
     {
       "id": "7bD3egauKYXVQJ2Ah51vD",
-      "component": "Block",
-      "data": {
-        "id": "4v8ec96OmA-wrOzmPIHAv",
-        "component": "EditBlock",
-        "props": {},
-        "data": "<span class=\"pudding-text\" data-type=\"text\">图片默认展示原始大小，你可以自己通过图片左右滑块操作设置它的大小。</span>",
-        "focus": false
-      }
+      "component": "EditNode",
+      "data": "图片默认展示原始大小，你可以自己通过图片左右滑块操作设置它的大小。"
     },
     {
       "id": "RF81YtnwiQK_IpVboG3qH",
@@ -106,21 +76,15 @@
         "props": {},
         "data": {
           "type": "h2",
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">图片菜单</span>"
+          "doc": "图片菜单"
         },
         "focus": false
       }
     },
     {
       "id": "hNHiKbidQlt3aWnUEtD1X",
-      "component": "Block",
-      "data": {
-        "id": "qZKGdEf--DSj_mIr4uhwq",
-        "component": "EditBlock",
-        "props": {},
-        "data": "",
-        "focus": false
-      }
+      "component": "EditNode",
+      "data": ""
     }
   ],
   "setting": {

@@ -10,21 +10,15 @@
         "props": {},
         "data": {
           "type": "h1",
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">简介</span>"
+          "doc": "简介"
         },
         "focus": false
       }
     },
     {
       "id": "wJ6f0fHs0DkrWQhuEuCn3",
-      "component": "Block",
-      "data": {
-        "id": "UavBNhu98VxSNjBHCUxKL",
-        "component": "EditBlock",
-        "props": {},
-        "data": "<span class=\"pudding-text\" data-type=\"text\">在motion中，当用户输入以下格式时，将自动生成一个链接效果：</span>",
-        "focus": false
-      }
+      "component": "EditNode",
+      "data": "在motion中，当用户输入以下格式时，将自动生成一个链接效果："
     },
     {
       "id": "re1uWCWJITe0weRslv2Jl",
@@ -61,7 +55,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">label 是要显示的内容</span>"
+          "doc": "label 是要显示的内容"
         },
         "focus": false
       }
@@ -74,32 +68,20 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">link 是一个链接地址，注意这时不判断路径的合法性，原则上支持所有的内容，不同的内容格式会跳转不同的目标，下面是具体情况的示例。</span>"
+          "doc": "link 是一个链接地址，注意这时不判断路径的合法性，原则上支持所有的内容，不同的内容格式会跳转不同的目标，下面是具体情况的示例。"
         },
         "focus": false
       }
     },
     {
       "id": "14TGHah4p6XkgKs9KslNL",
-      "component": "Block",
-      "data": {
-        "id": "ZXW--f4bl_zmVEci2hU9U",
-        "component": "EditBlock",
-        "props": {},
-        "data": "<span class=\"pudding-text\" data-type=\"text\">在 0.9.0 以上版本时，输入具有 </span><code class=\"pudding-inline-code\" data-type=\"code\"><span data-markup=\"`\">`</span><label>http</label><span data-markup=\"`\">`</span></code><span class=\"pudding-text\" data-type=\"text\">或</span><code class=\"pudding-inline-code\" data-type=\"code\"><span data-markup=\"`\">`</span><label>https</label><span data-markup=\"`\">`</span></code><span class=\"pudding-text\" data-type=\"text\"> 开头的内容时，也会自动生成一个链接。</span>",
-        "focus": false
-      }
+      "component": "EditNode",
+      "data": "在 0.9.0 以上版本时，输入具有 `http`或`https` 开头的内容时，也会自动生成一个链接。"
     },
     {
       "id": "QYJqjHFw1sef9I0bbg1e-",
-      "component": "Block",
-      "data": {
-        "id": "Y05D0lav2nXf1sh7LcJ0J",
-        "component": "EditBlock",
-        "props": {},
-        "data": "<mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>注意</label><span data-markup=\"==\">==</span></mark><span class=\"pudding-text\" data-type=\"text\">有空格或括号(</span><code class=\"pudding-inline-code\" data-type=\"code\"><span data-markup=\"`\">`</span><label>(</label><span data-markup=\"`\">`</span></code><span class=\"pudding-text\" data-type=\"text\">)时则会断开。</span>",
-        "focus": false
-      }
+      "component": "EditNode",
+      "data": "==注意==有空格或括号(`(`)时则会断开。"
     },
     {
       "id": "bIBByqMFk3IjzKCmZcg7j",
@@ -110,7 +92,7 @@
         "props": {},
         "data": {
           "type": "h1",
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">跳转设置</span>"
+          "doc": "跳转设置"
         },
         "focus": false
       }
@@ -124,21 +106,15 @@
         "props": {},
         "data": {
           "type": "h2",
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">通过浏览器打开网页</span>"
+          "doc": "通过浏览器打开网页"
         },
         "focus": false
       }
     },
     {
       "id": "jOfoIrL-gxxjekxRwBTp7",
-      "component": "Block",
-      "data": {
-        "id": "YZ6ySMlf1gPm4wg5l9oxD",
-        "component": "EditBlock",
-        "props": {},
-        "data": "<strong class=\"pudding-strong\" data-type=\"strong\"><span data-markup=\"**\">**</span><label>link</label><span data-markup=\"**\">**</span></strong><span class=\"pudding-text\" data-type=\"text\"> 内容以 </span><mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>http/https</label><span data-markup=\"==\">==</span></mark><span class=\"pudding-text\" data-type=\"text\"> 会被</span><strong class=\"pudding-strong\" data-type=\"strong\"><span data-markup=\"**\">**</span><label>默认浏览器</label><span data-markup=\"**\">**</span></strong><span class=\"pudding-text\" data-type=\"text\">自动打开。</span>",
-        "focus": false
-      }
+      "component": "EditNode",
+      "data": "**link** 内容以 ==http/https== 会被**默认浏览器**自动打开。"
     },
     {
       "id": "WlylUwNFEUN0vpafyIL9b",
@@ -156,14 +132,8 @@
     },
     {
       "id": "bmtjApOjvihfYh9hmrGGg",
-      "component": "Block",
-      "data": {
-        "id": "Nf_ewSRvqjMggG96NWqj2",
-        "component": "EditBlock",
-        "props": {},
-        "data": "<div class=\"pudding-link\" data-type=\"link\"><span data-markup=\"[\">[</span><label>baidu</label><span data-markup=\"](\">](</span><span class=\"pudding-link-url\">https://baidu.com</span><span data-markup=\")\">)</span></div>",
-        "focus": false
-      }
+      "component": "EditNode",
+      "data": "[baidu](https://baidu.com)"
     },
     {
       "id": "3PVWscxqAWL_9Z56UNs6x",
@@ -174,21 +144,15 @@
         "props": {},
         "data": {
           "type": "h2",
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">Motion 内跳转</span>"
+          "doc": "Motion 内跳转"
         },
         "focus": false
       }
     },
     {
       "id": "Z2pcNqvuyxbVBSbrjPCQY",
-      "component": "Block",
-      "data": {
-        "id": "4DnJv9FqtXVXtktyS6OCc",
-        "component": "EditBlock",
-        "props": {},
-        "data": "<span class=\"pudding-text\" data-type=\"text\">如果想法在笔记中跳转，你可以先找到你想到跳转到的文档，复制其地址就可以：</span>",
-        "focus": false
-      }
+      "component": "EditNode",
+      "data": "如果想法在笔记中跳转，你可以先找到你想到跳转到的文档，复制其地址就可以："
     },
     {
       "id": "sOaFZovzIgt4MKUE_Boi0",
@@ -205,25 +169,13 @@
     },
     {
       "id": "ljugpfl_7liS9NnVVPdoV",
-      "component": "Block",
-      "data": {
-        "id": "HpjzRvg5o1tt_tVgbQRo3",
-        "component": "EditBlock",
-        "props": {},
-        "data": "<span class=\"pudding-text\" data-type=\"text\">然后在新文档中输入，例如：</span><div class=\"pudding-link\" data-type=\"link\"><span data-markup=\"[\">[</span><label>欢迎</label><span data-markup=\"](\">](</span><span class=\"pudding-link-url\">local:/5i4ImbYXL1q3ezjV4ZfWl</span><span data-markup=\")\">)</span></div><span class=\"pudding-text\" data-type=\"text\">&nbsp;，你还可以修复名称，只要地址不变就可以有效，例如：</span><div class=\"pudding-link\" data-type=\"link\"><span data-markup=\"[\">[</span><label>这时跳转到【欢迎】页面</label><span data-markup=\"](\">](</span><span class=\"pudding-link-url\">local:/5i4ImbYXL1q3ezjV4ZfWl</span><span data-markup=\")\">)</span></div>",
-        "focus": false
-      }
+      "component": "EditNode",
+      "data": "然后在新文档中输入，例如：[欢迎](local:/5i4ImbYXL1q3ezjV4ZfWl) ，你还可以修复名称，只要地址不变就可以有效，例如：[这时跳转到【欢迎】页面](local:/5i4ImbYXL1q3ezjV4ZfWl)"
     },
     {
       "id": "kMl6pRL-LIuQS9YYLWWTT",
-      "component": "Block",
-      "data": {
-        "id": "lim1S0OQNmmaBkDituAgR",
-        "component": "EditBlock",
-        "props": {},
-        "data": "",
-        "focus": false
-      }
+      "component": "EditNode",
+      "data": ""
     }
   ],
   "setting": {
