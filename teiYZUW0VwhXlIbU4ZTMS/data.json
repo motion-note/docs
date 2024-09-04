@@ -268,9 +268,112 @@
       "component": "Block",
       "data": {
         "id": "gTi16owUioxfhO_1wBuL5",
-        "component": "EditBlock",
+        "component": "TableBlock",
         "props": {},
-        "data": "<span class=\"pudding-text\" data-type=\"text\">（这里添加一个动态图）</span>",
+        "data": {
+          "list": [
+            [
+              [
+                {
+                  "id": "MxsQAEE7U2Ox5Aqcozihb",
+                  "component": "EditBlock",
+                  "doc": "",
+                  "focus": false
+                }
+              ],
+              [
+                {
+                  "id": "JbHuxkrz4FWqg4_EDzV0c",
+                  "component": "EditBlock",
+                  "doc": "",
+                  "focus": false
+                }
+              ],
+              [
+                {
+                  "id": "YdOfGSGJMj7ra-xWTbykg",
+                  "component": "EditBlock",
+                  "doc": "",
+                  "focus": false
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "id": "ahPLvkA4tK5lgxMYYPe2U",
+                  "component": "EditBlock",
+                  "doc": "",
+                  "focus": false
+                }
+              ],
+              [
+                {
+                  "id": "lxF3vQUTgP4bYze-0NQPO",
+                  "component": "EditBlock",
+                  "doc": "",
+                  "focus": false
+                }
+              ],
+              [
+                {
+                  "id": "ymI4TI_T4Bc4k8xPhHrPe",
+                  "component": "EditBlock",
+                  "doc": "",
+                  "focus": false
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "id": "Xiur8fIchpK1BPzsjMYKp",
+                  "component": "EditBlock",
+                  "doc": "",
+                  "focus": false
+                }
+              ],
+              [
+                {
+                  "id": "RKMkOEAYZkjgAJpjjw18E",
+                  "component": "EditBlock",
+                  "doc": "",
+                  "focus": false
+                }
+              ],
+              [
+                {
+                  "id": "a9eM42B0jLC59h7dex5Fa",
+                  "component": "EditBlock",
+                  "doc": "",
+                  "focus": false
+                }
+              ]
+            ]
+          ],
+          "style": {
+            "width": [
+              100,
+              100,
+              100
+            ],
+            "align": [],
+            "merge": [
+              {
+                "x": 0,
+                "y": 0,
+                "row": 2,
+                "col": 1
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "row": 1,
+                "col": 2
+              }
+            ]
+          }
+        },
         "focus": false
       }
     },
@@ -298,7 +401,7 @@
         "data": {
           "doc": "<span class=\"pudding-text\" data-type=\"text\">侧边菜单样式优化</span>"
         },
-        "focus": true
+        "focus": false
       }
     }
   ],

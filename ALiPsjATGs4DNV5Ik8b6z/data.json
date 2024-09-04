@@ -43,7 +43,7 @@
         "id": "6vemMNssCYKcGQfkXn6n4",
         "component": "EditBlock",
         "props": {},
-        "data": "<span class=\"pudding-text\" data-type=\"text\">图片的使用主要通过复制粘贴的形式。</span>",
+        "data": "<span class=\"pudding-text\" data-type=\"text\">图片的使用主要通过</span><strong class=\"pudding-strong\" data-type=\"strong\"><span data-markup=\"**\">**</span><label>复制粘贴</label><span data-markup=\"**<pudding-caret></pudding-caret>\">**</span></strong><span class=\"pudding-text\" data-type=\"text\">的形式。</span>",
         "focus": false
       }
     },

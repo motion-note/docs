@@ -208,7 +208,7 @@
                 {
                   "id": "Rz3i7EmycqOu4Rvvhi0Kh",
                   "component": "EditBlock",
-                  "doc": "<mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>enter</label><span data-markup=\"==\">==</span></mark>",
+                  "doc": "<strong class=\"pudding-strong\" data-type=\"strong\"><span data-markup=\"**\">**</span><label>enter</label><span data-markup=\"**<pudding-caret></pudding-caret>\">**</span></strong><span class=\"pudding-text\" data-type=\"text\"></span>",
                   "focus": false
                 }
               ],
@@ -224,7 +224,7 @@
                 {
                   "id": "kxG8pnh3Rbbzuc2PcKCCb",
                   "component": "EditBlock",
-                  "doc": "",
+                  "doc": "<span class=\"pudding-text is-active\" data-type=\"text\"><pudding-caret></pudding-caret></span>",
                   "focus": false
                 }
               ]
@@ -234,7 +234,7 @@
                 {
                   "id": "XlTCu9PVPUwlokKucs_5T",
                   "component": "EditBlock",
-                  "doc": "<mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>ctrl</label><span data-markup=\"==\">==</span></mark><span class=\"pudding-text\" data-type=\"text\">+</span><mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>enter</label><span data-markup=\"==\">==</span></mark><span class=\"pudding-text\" data-type=\"text\"></span>",
+                  "doc": "<strong class=\"pudding-strong\" data-type=\"strong\"><span data-markup=\"**\">**</span><label>option</label><span data-markup=\"**\">**</span></strong><span class=\"pudding-text\" data-type=\"text\"> + </span><strong class=\"pudding-strong\" data-type=\"strong\"><span data-markup=\"**\">**</span><label>enter</label><span data-markup=\"**\">**</span></strong>",
                   "focus": false
                 }
               ],
@@ -250,7 +250,7 @@
                 {
                   "id": "IiQ8kT_T-x9eyh0AgsHTM",
                   "component": "EditBlock",
-                  "doc": "<span class=\"pudding-text\" data-type=\"text\">在macOS 中是</span><mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>command</label><span data-markup=\"==\">==</span></mark><span class=\"pudding-text\" data-type=\"text\"> + </span><mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>enter</label><span data-markup=\"==\">==</span></mark><span class=\"pudding-text\" data-type=\"text\"></span>",
+                  "doc": "",
                   "focus": false
                 }
               ]
@@ -260,14 +260,14 @@
                 {
                   "id": "ue2saEpVcW7dLjYT3XCw_",
                   "focus": false,
-                  "doc": "<mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>shift</label><span data-markup=\"==\">==</span></mark><span class=\"pudding-text\" data-type=\"text\">+</span><mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>enter</label><span data-markup=\"==\">==</span></mark><span class=\"pudding-text\" data-type=\"text\"></span>"
+                  "doc": "<strong class=\"pudding-strong\" data-type=\"strong\"><span data-markup=\"**\">**</span><label>shift</label><span data-markup=\"**\">**</span></strong><span class=\"pudding-text\" data-type=\"text\"> + </span><strong class=\"pudding-strong\" data-type=\"strong\"><span data-markup=\"**\">**</span><label>enter</label><span data-markup=\"**<pudding-caret></pudding-caret>\">**</span></strong><span class=\"pudding-text\" data-type=\"text\"></span>"
                 }
               ],
               [
                 {
                   "id": "kHDH3b7Zv1ois5pKXPZIK",
                   "focus": false,
-                  "doc": ""
+                  "doc": "<span class=\"pudding-text\" data-type=\"text\">跳出表格，生成一个文本节点</span>"
                 }
               ],
               [
@@ -281,7 +281,7 @@
           ],
           "style": {
             "width": [
-              133.13214111328125,
+              187.04440307617188,
               147.042724609375,
               158.89013671875
             ],
@@ -294,6 +294,28 @@
           }
         },
         "focus": false
+      }
+    },
+    {
+      "id": "8CADiWc7iAkYWcJx23-XK",
+      "component": "Block",
+      "data": {
+        "id": "891HK5Ej_mq0I4QCSliNF",
+        "component": "EditBlock",
+        "props": {},
+        "focus": false,
+        "data": ""
+      }
+    },
+    {
+      "id": "k8fdo5ibAm-I1y6XBwE3E",
+      "component": "Block",
+      "data": {
+        "id": "2JubxnzV9BJ68LZiTekRc",
+        "component": "EditBlock",
+        "props": {},
+        "focus": false,
+        "data": ""
       }
     }
   ],
