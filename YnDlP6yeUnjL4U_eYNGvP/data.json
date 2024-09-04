@@ -21,20 +21,14 @@
     },
     {
       "id": "UotUR5tVilhqLK4cSzR8q",
-      "component": "EditNode",
-      "data": ""
-    },
-    {
-      "id": "dN69lrSEAgcb37vbCUgNL",
       "component": "Block",
       "data": {
-        "id": "zulsLYKBhpwYr2DuMBENw",
+        "id": "pBQBa7dk0osIgOyBsph8O",
         "component": "ImageBlock",
-        "props": {},
         "data": {
-          "url": "/YnDlP6yeUnjL4U_eYNGvP/1697723330365.gif",
-          "width": 427.73187255859375,
-          "align": "center"
+          "url": "/YnDlP6yeUnjL4U_eYNGvP/1725459373722.gif",
+          "align": "center",
+          "width": 245.79644775390625
         },
         "focus": false
       }
