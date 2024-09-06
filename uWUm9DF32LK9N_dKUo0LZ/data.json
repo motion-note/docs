@@ -10,32 +10,20 @@
         "props": {},
         "data": {
           "type": "h1",
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">[新]打开新窗口功能</span>"
+          "doc": "[新]打开新窗口功能"
         },
         "focus": false
       }
     },
     {
       "id": "5HFtn3drqsL9lQYe0xrWF",
-      "component": "Block",
-      "data": {
-        "id": "Ayozhn5zIlLvvkpcvCBqa",
-        "component": "EditBlock",
-        "props": {},
-        "data": "",
-        "focus": false
-      }
+      "component": "EditNode",
+      "data": ""
     },
     {
       "id": "X9gG9e5KErY6v8f1uWcY8",
-      "component": "Block",
-      "data": {
-        "id": "ExUU0FV4rVu3tgXP2hymv",
-        "component": "EditBlock",
-        "props": {},
-        "data": "<span class=\"pudding-text is-active\" data-type=\"text\">右键功能优化</span>",
-        "focus": false
-      }
+      "component": "EditNode",
+      "data": "右键功能优化"
     },
     {
       "id": "owf3ggmWXTgXm_ZrgsD0J",
@@ -45,22 +33,15 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">表格右键功能优化</span>"
+          "doc": "表格右键功能优化"
         },
         "focus": false
       }
     },
     {
       "id": "PXGrGJWRlaTGGY3FikFsO",
-      "component": "Block",
-      "data": {
-        "id": "wiIlCxeBuIallNiC4BuCV",
-        "component": "EditBlock",
-        "props": {},
-        "class": [],
-        "data": "",
-        "focus": false
-      },
+      "component": "EditNode",
+      "data": "",
       "props": {
         "tab": 1
       }
@@ -73,7 +54,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">文本右键功能</span>"
+          "doc": "文本右键功能"
         },
         "focus": false
       }
@@ -88,7 +69,7 @@
         "class": [],
         "data": {
           "type": "h1",
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">表格优化</span>"
+          "doc": "表格优化"
         },
         "focus": false
       },
@@ -102,7 +83,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">优化合并单元格文本位置错误</span>"
+          "doc": "优化合并单元格文本位置错误"
         },
         "focus": false
       }
@@ -116,7 +97,7 @@
         "props": {},
         "class": [],
         "data": {
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">优化焦点框只在表格模块化失焦问题</span>"
+          "doc": "优化焦点框只在表格模块化失焦问题"
         },
         "focus": false
       }
@@ -130,21 +111,15 @@
         "props": {},
         "class": [],
         "data": {
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">添加右键支持复制单元格内容功能</span>"
+          "doc": "添加右键支持复制单元格内容功能"
         },
         "focus": false
       }
     },
     {
       "id": "cKl8VjMSAg5s8W9takP8e",
-      "component": "Block",
-      "data": {
-        "id": "RwXCGxok4BASjQwh7F8OQ",
-        "component": "EditBlock",
-        "props": {},
-        "data": "",
-        "focus": false
-      }
+      "component": "EditNode",
+      "data": ""
     },
     {
       "id": "fXqTBdx7Wj5wuYv2GQmm-",
@@ -155,32 +130,20 @@
         "props": {},
         "data": {
           "type": "h1",
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">分栏功能优化</span>"
+          "doc": "分栏功能优化"
         },
         "focus": false
       }
     },
     {
       "id": "PXgdl1qP31psWBdxmitVM",
-      "component": "Block",
-      "data": {
-        "id": "QooD4JS-a6AmMT3r4zp2O",
-        "component": "EditBlock",
-        "props": {},
-        "data": "<span class=\"pudding-text\" data-type=\"text\">优化分栏调整窗口大小后，当窗口变化时，有空白内容。</span>",
-        "focus": false
-      }
+      "component": "EditNode",
+      "data": "优化分栏调整窗口大小后，当窗口变化时，有空白内容。"
     },
     {
       "id": "y4-WPEToTeB1clJvJ5_sA",
-      "component": "Block",
-      "data": {
-        "id": "3ryVhmmv2QBb4jtK7GARJ",
-        "component": "EditBlock",
-        "props": {},
-        "data": "",
-        "focus": false
-      }
+      "component": "EditNode",
+      "data": ""
     },
     {
       "id": "AM2d5tUWrJmJO2ldjDPY7",
@@ -191,21 +154,15 @@
         "props": {},
         "data": {
           "type": "h1",
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">图片预览</span>"
+          "doc": "图片预览"
         },
         "focus": false
       }
     },
     {
       "id": "j-XTihU-bKq6ZajKxVqiw",
-      "component": "Block",
-      "data": {
-        "id": "D75S_cZLSPHUHwv_WoUwA",
-        "component": "EditBlock",
-        "props": {},
-        "data": "<span class=\"pudding-text\" data-type=\"text\">优化图片预览，支持以鼠标为中心点缩放</span>",
-        "focus": true
-      }
+      "component": "EditNode",
+      "data": "优化图片预览，支持以鼠标为中心点缩放"
     }
   ],
   "setting": {

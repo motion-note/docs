@@ -1,0 +1,184 @@
+{
+  "title": "测试清单",
+  "blocks": [
+    {
+      "id": "JyvfAQbv4ZRetfs1V4rAZ",
+      "component": "EditNode",
+      "data": ""
+    },
+    {
+      "id": "i8-nvmaYHSU8ZHHveKLLr",
+      "component": "Block",
+      "data": {
+        "id": "mmZZ3YpAAvhPYy4PERJdy",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h1",
+          "doc": "文本节点"
+        }
+      }
+    },
+    {
+      "id": "mChzBCNw9lxdl7wdPfM42",
+      "component": "Block",
+      "data": {
+        "id": "h8yZ-2McoBCCvIf2KAejG",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "与快捷键操作"
+        }
+      }
+    },
+    {
+      "id": "SBunFv9h2Wba8VgYsSCbE",
+      "component": "Block",
+      "data": {
+        "id": "dbZV9nOiBLZ1JRfnc3Qu6",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "使用 **Tab** 添加文本节点缩进 ✔"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
+      "id": "IOH7dXG-9VAT3vZ5-YjmA",
+      "component": "Block",
+      "data": {
+        "id": "cHLuG86SIHuyaLEl_bvRb",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "使用 **Shift + Tab** 删除文本节点缩进 ✔"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
+      "id": "_wFHjMrfojfO5afEzESHZ",
+      "component": "Block",
+      "data": {
+        "id": "7qi789Oez0EKW-v5hfFjA",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "对有缩进的节点换行时，新文本节点保留缩进"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
+      "id": "w3LERPH60Uau0k9Ayw0M8",
+      "component": "Block",
+      "data": {
+        "id": "VCwgw_i6auBVzVWYMU7n4",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "使用 **ctrl + Enter** 换行文本 ✔"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
+      "id": "pInXjqD2VyLvtGcjcuARQ",
+      "component": "Block",
+      "data": {
+        "id": "wXb7zDmVQ7U7ik7qSjkv3",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "使用 **shift** 加光标，可以选择文本区域"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
+      "id": "SAfgTVP3riLsmGoLcAKIp",
+      "component": "Block",
+      "data": {
+        "id": "oD1_NvHpuDT-r4-7bl1jI",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "文本选择操作"
+        }
+      }
+    },
+    {
+      "id": "Pgv4RrdF5VAP0_1xXOVwm",
+      "component": "Block",
+      "data": {
+        "id": "vR7NJIQoiCzcDDp8ATBCU",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": ""
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
+      "id": "5uXi4TmvfgB4qCYJsp96M",
+      "component": "Block",
+      "data": {
+        "id": "bMGg1hPlkBEZpU8ZrtOjs",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h1",
+          "doc": "引用列表"
+        }
+      }
+    },
+    {
+      "id": "aj4-4pJWqNQMrDY40EBOS",
+      "component": "Block",
+      "data": {
+        "id": "ViLNXTHTzVU8DIdUrBdcv",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "使用快捷指令生成引用列表  ✔"
+        }
+      }
+    },
+    {
+      "id": "WCdLxwhPLz5l0rdAgnOBG",
+      "component": "Block",
+      "data": {
+        "id": "-NSlIbtzCblinII0oA5bu",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "移动内容后，为空时，自动清除自身节点  ✔"
+        }
+      }
+    },
+    {
+      "id": "0XZSwOucfBlZ8Agw9LFor",
+      "component": "EditNode",
+      "data": ""
+    }
+  ],
+  "setting": {
+    "lock": false,
+    "debug": false,
+    "historyPanel": false
+  }
+}
