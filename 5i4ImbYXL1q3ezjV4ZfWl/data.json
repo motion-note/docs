@@ -10,21 +10,15 @@
         "props": {},
         "data": {
           "type": "h1",
-          "doc": "<span class=\"pudding-text is-active\" data-type=\"text\">您好！欢迎使用 Motion！</span>"
+          "doc": "您好！欢迎使用 Motion！"
         },
         "focus": false
       }
     },
     {
       "id": "wZhkFwCWYtcF1bLoabQRP",
-      "component": "Block",
-      "data": {
-        "id": "9Bh6eLXgMjEdqSRe5-Mej",
-        "component": "EditBlock",
-        "props": {},
-        "data": "<span class=\"pudding-text\" data-type=\"text\"></span>",
-        "focus": false
-      }
+      "component": "EditNode",
+      "data": ""
     },
     {
       "id": "0G9bPHcpd6WHYoZa6KrLq",
@@ -43,14 +37,8 @@
     },
     {
       "id": "dEIGpSX9dTvkw-D_-goBD",
-      "component": "Block",
-      "data": {
-        "id": "51eFYy1oiee1Q-F60j-ly",
-        "component": "EditBlock",
-        "props": {},
-        "data": "<span class=\"pudding-text is-active\" data-type=\"text\">欢迎使用 </span><mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>Motion</label><span data-markup=\"==\">==</span></mark><span class=\"pudding-text\" data-type=\"text\">&nbsp;笔记应用。</span>",
-        "focus": false
-      }
+      "component": "EditNode",
+      "data": "欢迎使用 ==Motion== 笔记应用。"
     },
     {
       "id": "AEl5QsZtpfi-QZ-kvKCt9",
@@ -61,54 +49,30 @@
         "props": {},
         "data": {
           "type": "h1",
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">为什么创建 Motion？</span>"
+          "doc": "什么是Motion Note？"
         },
         "focus": false
       }
     },
     {
-      "id": "X-ChjlZaMYHGCYbnW3rXW",
-      "component": "Block",
-      "data": {
-        "id": "kg6AfQKXExEBGTxKC9w6D",
-        "component": "EditBlock",
-        "props": {},
-        "data": "<span class=\"pudding-text\" data-type=\"text\">现在网络上有着很多的笔记应用，它们很多都是基于在线，在线笔记可以做好很好的同步能力，不过对网络就有了很强的依赖；同时我个人对网络上的笔记的</span><mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>安全</label><span data-markup=\"==\">==</span></mark><span class=\"pudding-text\" data-type=\"text\">与</span><mark class=\"pudding-mark\" data-type=\"mark\"><span data-markup=\"==\">==</span><label>运营</label><span data-markup=\"==\">==</span></mark><span class=\"pudding-text\" data-type=\"text\">都有一定的担心；因此</span><strong class=\"pudding-strong\" data-type=\"strong\"><span data-markup=\"**\">**</span><label>本地化笔记</label><span data-markup=\"**\">**</span></strong><span class=\"pudding-text\" data-type=\"text\">对我个人更加的偏爱。</span>",
-        "focus": false
-      }
-    },
-    {
-      "id": "oNTmykGXFvVkmkqIkK_j9",
-      "component": "Block",
-      "data": {
-        "id": "veS5LRIZYErQj501n4aTy",
-        "component": "EditBlock",
-        "props": {},
-        "data": "<span class=\"pudding-text\" data-type=\"text\">在使用了一些笔记后，我又发现，很多的笔记要么有些</span><strong class=\"pudding-strong\" data-type=\"strong\"><span data-markup=\"**\">**</span><label>交互</label><span data-markup=\"**\">**</span></strong><span class=\"pudding-text\" data-type=\"text\">上不是很符合个人的习惯，要么操作功能</span><strong class=\"pudding-strong\" data-type=\"strong\"><span data-markup=\"**\">**</span><label>扩展</label><span data-markup=\"**\">**</span></strong><span class=\"pudding-text is-active\" data-type=\"text\">不是很方便，为此就想着尝试自己开发一个笔记软件。</span>",
-        "focus": false
-      }
+      "id": "jdKxrdcDU_K6z9RRyS_tM",
+      "component": "EditNode",
+      "data": "motion note 是一款本地化笔记应用，本地存储的数据，不用担心泄露的风险。"
     },
     {
       "id": "eFsfyMI1Krc6DnhL3Cow5",
-      "component": "Block",
-      "data": {
-        "id": "lv3dsnxXKSFWWmho-ooLB",
-        "component": "EditBlock",
-        "props": {},
-        "data": "<div class=\"pudding-link\" data-type=\"link\"><span data-markup=\"[\">[</span><label>motion</label><span data-markup=\"](\">](</span><span class=\"pudding-link-url\">https://github.com/motion-note</span><span data-markup=\")\">)</span></div><span class=\"pudding-text\" data-type=\"text\"> 笔记是一个基于 Web 技术开发笔记功能，它具有 </span><strong class=\"pudding-strong\" data-type=\"strong\"><span data-markup=\"**\">**</span><label>markdown</label><span data-markup=\"**\">**</span></strong><span class=\"pudding-text\" data-type=\"text\"> 的部分能力，同时又具有 web 的易扩展能力。&nbsp;</span>",
-        "focus": false
-      }
+      "component": "EditNode",
+      "data": "[motion note](https://github.com/motion-note) 是一个基于 Web 技术开发笔记功能，它具有 **markdown** 的部分能力，同时又具有 web 的易扩展性。 "
     },
     {
       "id": "9Gy0XMNh4arrl0f7iV9vl",
-      "component": "Block",
-      "data": {
-        "id": "ZNYi_otD_0AewW9VLFM1b",
-        "component": "EditBlock",
-        "props": {},
-        "data": "<span class=\"pudding-text is-active\" data-type=\"text\">欢迎你使用，如果碰到什么问题也欢迎你能和我反馈，我们一起来完善它吧！</span>",
-        "focus": false
-      }
+      "component": "EditNode",
+      "data": "目前 ==motion note== 依然处于开发阶段，欢迎您的使用与反馈，如果碰到什么问题也欢迎您能和我反馈，我们一起来完善它吧！"
+    },
+    {
+      "id": "9ZHAL9KNwYXkPjPC7cafM",
+      "component": "EditNode",
+      "data": "如果 motion note 有帮忙到您，欢迎您向其他朋友推荐！"
     },
     {
       "id": "FfUkhYhbOaBhtAsXFs9Ab",
@@ -119,21 +83,15 @@
         "props": {},
         "data": {
           "type": "h1",
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">联系我们</span>"
+          "doc": "联系我们"
         },
         "focus": false
       }
     },
     {
       "id": "e2rofWNRLKz7rDshuXW5B",
-      "component": "Block",
-      "data": {
-        "id": "WHZWLMoJ6NsFbmq80QBoO",
-        "component": "EditBlock",
-        "props": {},
-        "data": "<span class=\"pudding-text\" data-type=\"text\">如果有什么想法与建议，可以通过以下方式联系我们：</span>",
-        "focus": false
-      }
+      "component": "EditNode",
+      "data": "如果有什么想法与建议，可以通过以下方式联系我们："
     },
     {
       "id": "7rVDwLvm3SDqXUovNdBZv",
@@ -143,22 +101,50 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "<strong class=\"pudding-strong\" data-type=\"strong\"><span data-markup=\"**\">**</span><label>530675800@qq.com</label><span data-markup=\"**<pudding-caret></pudding-caret>\">**</span></strong><span class=\"pudding-text\" data-type=\"text\"></span>"
+          "doc": "**ektx1989@icloud.com**"
         },
         "focus": false
       }
     },
     {
-      "id": "WPeDdJM9hxMJWOWmxtfnq",
+      "id": "PDqiXNuTUdCnBjvVZ5NrD",
       "component": "Block",
       "data": {
-        "id": "h7dYoU-03hiwlaeOkN_VW",
-        "component": "EditBlock",
+        "id": "Ljt1zKGpLSiaYriIcEEBh",
+        "component": "ListItemBlock",
         "props": {},
-        "class": [],
-        "data": "",
-        "focus": false
-      },
+        "data": {
+          "doc": "[📺 宅笼猫 - B站](https://space.bilibili.com/300245951)"
+        },
+        "focus": true
+      }
+    },
+    {
+      "id": "OpKVsXkuCMf0kt8_g7VY8",
+      "component": "Block",
+      "data": {
+        "id": "Vr0ayIZUv3H1b6lBXj8AX",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h1",
+          "doc": "捐献"
+        }
+      }
+    },
+    {
+      "id": "_R7A-Fsre8S173NQkn8Ug",
+      "component": "EditNode",
+      "data": "motion note 还有很多精彩有趣的功能还没能与大家见面，如果您能帮助我们，我们将可以用更多的时间来开发打磨它，让它更佳出色，或许我们还能为您定制化开发某些功能。"
+    },
+    {
+      "id": "kUFmzaIeRIzgILveqfMPN",
+      "component": "EditNode",
+      "data": ""
+    },
+    {
+      "id": "WPeDdJM9hxMJWOWmxtfnq",
+      "component": "EditNode",
+      "data": "",
       "props": {}
     }
   ],

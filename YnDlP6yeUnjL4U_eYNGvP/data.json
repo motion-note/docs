@@ -20,21 +20,14 @@
       "data": "表格的创建十分简单，在空的节点中，输入=====唤起快捷指令，通过鼠标或上下键，选择表格就可以了；也可以根据提示，生成指定行列的表格。"
     },
     {
-      "id": "UotUR5tVilhqLK4cSzR8q",
-      "component": "EditNode",
-      "data": ""
-    },
-    {
-      "id": "dN69lrSEAgcb37vbCUgNL",
+      "id": "LEjo5mHuEcOtX-QkmUcB2",
       "component": "Block",
       "data": {
-        "id": "zulsLYKBhpwYr2DuMBENw",
+        "id": "VCk8pkfCL1wkHCbhb__dM",
         "component": "ImageBlock",
-        "props": {},
         "data": {
-          "url": "/YnDlP6yeUnjL4U_eYNGvP/1697723330365.gif",
-          "width": 427.73187255859375,
-          "align": "center"
+          "url": "/YnDlP6yeUnjL4U_eYNGvP/1725459978166.gif",
+          "width": 245.599853515625
         },
         "focus": false
       }
@@ -122,8 +115,16 @@
     },
     {
       "id": "prqjAB9oV9fgcLxjvF38d",
-      "component": "EditNode",
-      "data": ""
+      "component": "Block",
+      "data": {
+        "id": "OLA_qi8bD0UVIsBmbyMH8",
+        "component": "ImageBlock",
+        "data": {
+          "url": "/YnDlP6yeUnjL4U_eYNGvP/1725459997258.gif",
+          "width": 266.11541748046875
+        },
+        "focus": false
+      }
     },
     {
       "id": "FVzAN5JESGkQ4suH6BmK2",
