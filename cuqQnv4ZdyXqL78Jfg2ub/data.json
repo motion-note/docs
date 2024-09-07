@@ -149,6 +149,22 @@
       }
     },
     {
+      "id": "dkFMlIWJ4Yza8KoUwhJ7Y",
+      "component": "Block",
+      "data": {
+        "id": "JMXgR4ffM_z8MfMp3CuOo",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "在有多级缩进节点时，在首尾删除优先处理缩进"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
       "id": "ULU1w4nMnZzqmwu7nst6s",
       "component": "EditNode",
       "data": ""

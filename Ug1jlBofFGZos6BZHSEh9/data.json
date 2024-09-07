@@ -1,0 +1,214 @@
+{
+  "title": "0.16.0",
+  "blocks": [
+    {
+      "id": "kfDXlxikyK3if0ZUrlGR0",
+      "component": "Block",
+      "data": {
+        "id": "hhy9YGa0r901TbygsHHEE",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h1",
+          "doc": "文本节点"
+        }
+      }
+    },
+    {
+      "id": "xi3jtou3JizNm3LmFJx3o",
+      "component": "EditNode",
+      "data": "重新开发全新文本节点功能，更好的渲染与表现力，更好的光标控制能力，及更多与其它节点交互的方式。",
+      "props": {}
+    },
+    {
+      "id": "s60E6usD6Huc4W7RnAB3V",
+      "component": "Block",
+      "data": {
+        "id": "9lOi3m8O9lVFy7MXJcjTv",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "调整快捷指令调用方式"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "Dq-Na3_ML3772oeAvQFH5",
+      "component": "Block",
+      "data": {
+        "id": "b_3lQtUf-4upDrxcyZII-",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "新的缩进与回退方案"
+        },
+        "focus": true
+      },
+      "props": {}
+    },
+    {
+      "id": "FY1H3VK8XSSzCaCQHpJbr",
+      "component": "Block",
+      "data": {
+        "id": "53iVnvD5rDbM-rvjQ2Fqw",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h1",
+          "doc": "表格"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "UiO3qhQQHECubyc_GV5Fj",
+      "component": "Block",
+      "data": {
+        "id": "zQNS0SiREppDesHMMaHoZ",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "表格节点全部更新采用最新的文本节点。"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "h4zdt0pMKeQIa2_PT07_c",
+      "component": "Block",
+      "data": {
+        "id": "ewFtlQFTx2LXhZG2uLWPP",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "重新规范单元格的换行生成操作。"
+        },
+        "focus": true
+      },
+      "props": {}
+    },
+    {
+      "id": "fJvLmEeqS3q9op0AOxbh8",
+      "component": "Block",
+      "data": {
+        "id": "e4JwydWoMXHbLK1x3o4Ro",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "更加偏向**Excel**的节点移动方式。"
+        },
+        "focus": true
+      },
+      "props": {}
+    },
+    {
+      "id": "NK_y4CeKKSYZWOUxLtIx8",
+      "component": "Block",
+      "data": {
+        "id": "sP1RAjOpQsMEy1j5BOOC1",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h1",
+          "doc": "图片"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "WW_hp9jfpZ38_Qo1z4eQq",
+      "component": "Block",
+      "data": {
+        "id": "mKKaz16gWzpqIDF55F4fy",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "优化图片的聚焦。"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "3QXKNnY_jbpzmI0lsFFYU",
+      "component": "Block",
+      "data": {
+        "id": "Zr3KgSfiLRTSTosLOdpx1",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "调整图片缩放查看方式。"
+        },
+        "focus": true
+      },
+      "props": {}
+    },
+    {
+      "id": "_98LninpU6qWn7RaDwFb3",
+      "component": "Block",
+      "data": {
+        "id": "PxaKZV52CiqCKB8XwLCks",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "图片支持缩进能力，提供更好的界面布局能力。"
+        },
+        "focus": true
+      },
+      "props": {}
+    },
+    {
+      "id": "7IQSTFG7kEp9D0-hfly-C",
+      "component": "Block",
+      "data": {
+        "id": "X-2VoP1mMeIChKs-k_QQM",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h1",
+          "doc": "列表"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "V0QJxLtq1L6QitQPxY0gt",
+      "component": "Block",
+      "data": {
+        "id": "vH0psWR3oh3v1MbCO8UnZ",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "采用新文本节点方案"
+        }
+      }
+    },
+    {
+      "id": "-EEijaBipbPYXPyXmfOcy",
+      "component": "Block",
+      "data": {
+        "id": "lG3_TOCpohAE7vtIwxB1W",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "优先缩进方案，支持换行生成新节点保留原节点属性"
+        }
+      },
+      "props": {
+        "tab": 0
+      }
+    },
+    {
+      "id": "ErNa-xH-4S4AvKnH1YT1X",
+      "component": "Block",
+      "data": {
+        "id": "ZT_6NmUi-u9BxC0SAlqY1",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": ""
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 0
+      }
+    }
+  ],
+  "setting": {
+    "lock": false,
+    "debug": false,
+    "historyPanel": false
+  }
+}

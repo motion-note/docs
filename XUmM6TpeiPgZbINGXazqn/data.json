@@ -46,6 +46,22 @@
       }
     },
     {
+      "id": "cFHqBl6lToWfK6t0nnEPS",
+      "component": "Block",
+      "data": {
+        "id": "yIZXYZM9yzu4vJqNVQKor",
+        "component": "ImageBlock",
+        "data": {
+          "url": "/XUmM6TpeiPgZbINGXazqn/1725690549052.gif",
+          "width": 260.89361572265625
+        },
+        "focus": false
+      },
+      "props": {
+        "tab": 3
+      }
+    },
+    {
       "id": "IOH7dXG-9VAT3vZ5-YjmA",
       "component": "Block",
       "data": {
@@ -62,6 +78,22 @@
       }
     },
     {
+      "id": "DiPoyv6AY1InTEsZpTacI",
+      "component": "Block",
+      "data": {
+        "id": "gQ1FpzkPZDpoxL2h3OTtQ",
+        "component": "ImageBlock",
+        "data": {
+          "url": "/XUmM6TpeiPgZbINGXazqn/1725690695092.gif",
+          "width": 272.35699462890625
+        },
+        "focus": false
+      },
+      "props": {
+        "tab": 3
+      }
+    },
+    {
       "id": "LSsxnYcPVx7LEuOBIEDix",
       "component": "Block",
       "data": {
@@ -69,7 +101,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "在文本节点首位删除合并时，优先处理**tab**属性只有tab在0时，才合并节点。"
+          "doc": "在文本节点首位删除合并时，优先处理**tab**属性只有tab在0时，才合并节点。✔"
         },
         "focus": true
       },
@@ -128,7 +160,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "使用 **shift** 加光标，可以选择文本区域"
+          "doc": "使用 **shift** 加光标，可以选择文本区域 mac ✔ win 🚧"
         },
         "focus": true
       },
@@ -213,7 +245,7 @@
   ],
   "setting": {
     "lock": false,
-    "debug": false,
+    "debug": true,
     "historyPanel": false
   }
 }

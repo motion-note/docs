@@ -83,8 +83,41 @@
     },
     {
       "id": "hNHiKbidQlt3aWnUEtD1X",
-      "component": "EditNode",
-      "data": ""
+      "component": "Block",
+      "data": {
+        "id": "7ju9wKUhBrCI4V9DvRHgW",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h1",
+          "doc": "快捷操作列表"
+        }
+      }
+    },
+    {
+      "id": "i4MVhFynWdpY2lN_mXJNO",
+      "component": "Block",
+      "data": {
+        "id": "BDHkItn7CVDKLXSxRUoZT",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "使用 **tab** 控制图片节点缩进"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "AupRsvzLL_5rH4n9wqO80",
+      "component": "Block",
+      "data": {
+        "id": "Mf5LcjPLqLZbH0axuwv1U",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "使用 **Shift + Tab** 控制节点退回缩进"
+        },
+        "focus": true
+      },
+      "props": {}
     }
   ],
   "setting": {

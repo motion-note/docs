@@ -50,6 +50,10 @@
     "open": true,
     "children": [
       {
+        "name": "0.16.0",
+        "path": "/Ug1jlBofFGZos6BZHSEh9"
+      },
+      {
         "name": "0.15.0",
         "path": "/teiYZUW0VwhXlIbU4ZTMS"
       },
