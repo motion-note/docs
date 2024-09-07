@@ -3,14 +3,8 @@
   "blocks": [
     {
       "id": "m8wrxQsJeuAlyYKcAcRmr",
-      "component": "Block",
-      "data": {
-        "id": "PXrMBnmphNEYS7ojnxjWZ",
-        "component": "EditBlock",
-        "props": {},
-        "data": "<span class=\"pudding-text\" data-type=\"text\">这里主要介绍 motion 目前已经具有的功能与使用方法。</span>",
-        "focus": false
-      }
+      "component": "EditNode",
+      "data": "这里主要介绍 motion 目前已经具有的功能与使用方法。"
     },
     {
       "id": "SVjhLE5Vi6E0Ji26ElNYP",
@@ -20,7 +14,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "<span class=\"pudding-text\" data-type=\"text\"></span><a class=\"pudding-link\" data-type=\"link\" href=\"local:/0SDQSmG1N35tOZ11JLxUx\"><span data-markup=\"[\">[</span><label>快捷指令</label><span data-markup=\"](\">](</span><span class=\"pudding-link-url\">local:/0SDQSmG1N35tOZ11JLxUx</span><span data-markup=\")\">)</span></a>"
+          "doc": "[快捷指令](local:/0SDQSmG1N35tOZ11JLxUx)"
         },
         "focus": false
       }
@@ -34,7 +28,7 @@
         "props": {},
         "class": [],
         "data": {
-          "doc": "<a class=\"pudding-link\" data-type=\"link\" href=\"local:/Dqt89v8SU8XiFarhCoLOg\"><span data-markup=\"[\">[</span><label>链接</label><span data-markup=\"](\">](</span><span class=\"pudding-link-url\">local:/Dqt89v8SU8XiFarhCoLOg</span><span data-markup=\")\">)</span></a><span class=\"pudding-text\" data-type=\"text\"></span>"
+          "doc": "[链接](local:/Dqt89v8SU8XiFarhCoLOg)"
         },
         "focus": false
       }
@@ -48,7 +42,7 @@
         "props": {},
         "class": [],
         "data": {
-          "doc": "<a class=\"pudding-link\" data-type=\"link\" href=\"local:/Dqt89v8SU8XiFarhCoLOg\"><span data-markup=\"[\">[</span><label>链接</label><span data-markup=\"](\">](</span><span class=\"pudding-link-url\">local:/Dqt89v8SU8XiFarhCoLOg</span><span data-markup=\")\">)</span></a><span class=\"pudding-text\" data-type=\"text\"></span>"
+          "doc": "[链接](local:/Dqt89v8SU8XiFarhCoLOg)"
         },
         "focus": false
       }
@@ -62,7 +56,7 @@
         "props": {},
         "class": [],
         "data": {
-          "doc": "<a class=\"pudding-link\" data-type=\"link\" href=\"local:/YnDlP6yeUnjL4U_eYNGvP\"><span data-markup=\"[\">[</span><label>表格</label><span data-markup=\"](\">](</span><span class=\"pudding-link-url\">local:/YnDlP6yeUnjL4U_eYNGvP</span><span data-markup=\")\">)</span></a><span class=\"pudding-text\" data-type=\"text\"></span>"
+          "doc": "[表格](local:/YnDlP6yeUnjL4U_eYNGvP)"
         },
         "focus": false
       }
@@ -76,22 +70,15 @@
         "props": {},
         "class": [],
         "data": {
-          "doc": "<a class=\"pudding-link\" data-type=\"link\" href=\"local:/2SHh-NC8kVocpK2UJlT-X\"><span data-markup=\"[\">[</span><label>引用</label><span data-markup=\"](\">](</span><span class=\"pudding-link-url\">local:/2SHh-NC8kVocpK2UJlT-X</span><span data-markup=\")\">)</span></a><span class=\"pudding-text\" data-type=\"text\"></span>"
+          "doc": "[引用](local:/2SHh-NC8kVocpK2UJlT-X)"
         },
         "focus": false
       }
     },
     {
       "id": "GIMfpPKetjlnkT8N0gtCu",
-      "component": "Block",
-      "data": {
-        "id": "9qF6YTLacupWi0X8AK3XL",
-        "component": "EditBlock",
-        "props": {},
-        "class": [],
-        "data": "",
-        "focus": true
-      },
+      "component": "EditNode",
+      "data": "",
       "props": {}
     }
   ],

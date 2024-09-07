@@ -1,0 +1,162 @@
+{
+  "title": "🚧 列表",
+  "blocks": [
+    {
+      "id": "o3b2d1sb6Zo9eqNJ3rWNB",
+      "component": "Block",
+      "data": {
+        "id": "7oGWETj83_3I8-vBwzmOE",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h1",
+          "doc": "细节功能列表"
+        }
+      }
+    },
+    {
+      "id": "WWq6bLMY2qsEegMJEyQfb",
+      "component": "Block",
+      "data": {
+        "id": "EFbB2wXivJ3JjXARyn1UI",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "生成列表"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "DS7lPzmVU7-xi2Dgtx4sW",
+      "component": "Block",
+      "data": {
+        "id": "rW0nx9PcD8UQyyJ9LWqhT",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "在空文本节点，支持使用 `- text` 快速生成列表 ✔"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
+      "id": "esb4WjAcm4OGth9z_cocR",
+      "component": "Block",
+      "data": {
+        "id": "vNZlZgx8EK6-O2UuJLosR",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "使用快捷键生成列表 ✔"
+        }
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
+      "id": "3Dffm4h-lhvhG8-gCoVUd",
+      "component": "Block",
+      "data": {
+        "id": "v-16SxWaZIrEp0-F7clCs",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "在列表节点，使用**enter**时，生成新的列表节点 ✔"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
+      "id": "iPLCU37XxQypH4q38-sN6",
+      "component": "Block",
+      "data": {
+        "id": "bNYGydh1IG6WZiQ9DkGNB",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "使用**enter**生成列表节点时，支持文本换行分隔 ✔"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
+      "id": "E-f7Wzn8hcADTwSto9_XC",
+      "component": "Block",
+      "data": {
+        "id": "OK1dYwaj-9GHEoaeEJ37k",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "格式"
+        },
+        "focus": true
+      }
+    },
+    {
+      "id": "Z8bnkS8SVEvjUrxY57CMq",
+      "component": "Block",
+      "data": {
+        "id": "Xlatsa-vK-FJ4rpLUlbnE",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "支持使用**tab** 控制缩进 ✔"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
+      "id": "fvReDMHrbCmm_sxBF_Y4r",
+      "component": "Block",
+      "data": {
+        "id": "nnWktCrOPaTKDKpLt5MlP",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "支持使用 **shift + Tab** 快速回退缩进 ✔"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
+      "id": "IMcEQxEZD8bhS_FGlLgEh",
+      "component": "Block",
+      "data": {
+        "id": "6Z-y7gas6G09l-iPITQA1",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "在有缩进的节点，换行时，新节点保留原节点的属性 ✔"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
+      "id": "ULU1w4nMnZzqmwu7nst6s",
+      "component": "EditNode",
+      "data": ""
+    }
+  ],
+  "setting": {
+    "lock": false,
+    "debug": false,
+    "historyPanel": false
+  }
+}

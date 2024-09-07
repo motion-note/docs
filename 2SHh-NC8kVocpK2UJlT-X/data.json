@@ -63,7 +63,7 @@
     {
       "id": "wEEDV8d2f6XpDkXwo1sVh",
       "component": "EditNode",
-      "data": "当模块中没有节点内容时，会自动删除，或是在模块中只有一个空文本节点时，使用`delete`键手动删除。"
+      "data": "移动内容后，为空时，自动清除自身节点。"
     },
     {
       "id": "nYIPaStZayy0H2KD4Hwq1",
@@ -77,13 +77,6 @@
           "data": ""
         }
       ]
-    },
-    {
-      "id": "e1erS5RLXkUYN01r5CdTk",
-      "component": "EditNode",
-      "props": {},
-      "focus": false,
-      "data": ""
     }
   ],
   "setting": {

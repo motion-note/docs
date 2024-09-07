@@ -15,6 +15,10 @@
     "open": true,
     "children": [
       {
+        "name": "文本",
+        "path": "/XUmM6TpeiPgZbINGXazqn"
+      },
+      {
         "name": "🚧 快捷指令",
         "path": "/0SDQSmG1N35tOZ11JLxUx"
       },
@@ -33,6 +37,10 @@
       {
         "name": "🚧 图片",
         "path": "/ALiPsjATGs4DNV5Ik8b6z"
+      },
+      {
+        "name": "列表",
+        "path": "/cuqQnv4ZdyXqL78Jfg2ub"
       }
     ]
   },
@@ -84,9 +92,5 @@
         "path": "/hb_PNX6lyd5UYSf6Z4TgK"
       }
     ]
-  },
-  {
-    "name": "测试清单",
-    "path": "/XUmM6TpeiPgZbINGXazqn"
   }
 ]
