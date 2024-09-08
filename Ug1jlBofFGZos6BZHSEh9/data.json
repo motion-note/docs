@@ -171,7 +171,7 @@
         "id": "vH0psWR3oh3v1MbCO8UnZ",
         "component": "ListItemBlock",
         "data": {
-          "doc": "采用新文本节点方案"
+          "doc": "采用新文本节点方案。"
         }
       }
     },
@@ -182,7 +182,7 @@
         "id": "lG3_TOCpohAE7vtIwxB1W",
         "component": "ListItemBlock",
         "data": {
-          "doc": "优先缩进方案，支持换行生成新节点保留原节点属性"
+          "doc": "优化缩进方案，支持换行生成新节点保留原节点属性;当在首位删除时，有缩进，优先处理缩进状态。"
         }
       },
       "props": {
