@@ -89,8 +89,162 @@
         "component": "HeaderBlock",
         "data": {
           "type": "h1",
-          "doc": "快捷操作列表"
+          "doc": "仔细功能清单"
         }
+      }
+    },
+    {
+      "id": "t4_ZIsnFIiNEyTFp3GjQ1",
+      "component": "Block",
+      "data": {
+        "id": "Y3k-rc1zDtGIKYPTDlxc1",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "生成"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "SprxMh9402xfOzgFdyqW4",
+      "component": "Block",
+      "data": {
+        "id": "_d9fqks0L7-GXT4Ij2fnr",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "支持从系统粘贴图片，在文本节点复制生成 ✔"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
+      "id": "VFzi5vZRQyyvAvdZnFoiy",
+      "component": "Block",
+      "data": {
+        "id": "4RKl16_qRBPPs_NNvN7DY",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "图片格式支持"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 0
+      }
+    },
+    {
+      "id": "QaF9w5QSTMSHqdu511Sj3",
+      "component": "Block",
+      "data": {
+        "id": "IDXe1iwHcC2pSzDovIFiE",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "**jpg** ✔"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
+      "id": "0-f8Sqclwwni0ikkDyjy1",
+      "component": "Block",
+      "data": {
+        "id": "_VhCpqgJPnlAzp0Y7jYIw",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "**png** ✔"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
+      "id": "hyzVpddvl-F4XzDIveryr",
+      "component": "Block",
+      "data": {
+        "id": "M9rSghtmToNKLut598xVg",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "**gif** ✔"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
+      "id": "gVuk_nAyrDO2KZjgJgLAB",
+      "component": "Block",
+      "data": {
+        "id": "ttuNKRm94jQ4_Yocu-TXv",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "**apng** ✔ 0.16.0+"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
+      "id": "wgh-Fcvh-rQsoL1sybFEY",
+      "component": "Block",
+      "data": {
+        "id": "P4sv9nAsxHLVjjGzT1qr5",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "**webp** ✔"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
+      "id": "gByNkNcE0iTTDAThNoCNj",
+      "component": "Block",
+      "data": {
+        "id": "DQDZia6hk1jbCjTlGDm0V",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "**svg** ✔"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
+      "id": "zjdpiOvoIAlq_jY6Wgnhb",
+      "component": "Block",
+      "data": {
+        "id": "P3RYGItvAjkIOMLb6ML7J",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "操作"
+        }
+      },
+      "props": {
+        "tab": 0
       }
     },
     {
@@ -100,10 +254,12 @@
         "id": "BDHkItn7CVDKLXSxRUoZT",
         "component": "ListItemBlock",
         "data": {
-          "doc": "使用 **tab** 控制图片节点缩进"
+          "doc": "使用 **tab** 控制图片节点缩进 ✔"
         }
       },
-      "props": {}
+      "props": {
+        "tab": 1
+      }
     },
     {
       "id": "AupRsvzLL_5rH4n9wqO80",
@@ -113,11 +269,13 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "使用 **Shift + Tab** 控制节点退回缩进"
+          "doc": "使用 **Shift + Tab** 控制节点退回缩进 ✔"
         },
         "focus": true
       },
-      "props": {}
+      "props": {
+        "tab": 1
+      }
     }
   ],
   "setting": {

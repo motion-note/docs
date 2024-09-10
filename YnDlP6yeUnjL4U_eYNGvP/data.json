@@ -342,8 +342,71 @@
     },
     {
       "id": "OBy7CweaWiro9vB-rWw6G",
-      "component": "EditNode",
-      "data": ""
+      "component": "Block",
+      "data": {
+        "id": "q3ROM8VNooQYDfRiBSXGd",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h1",
+          "doc": "仔细功能清单"
+        }
+      }
+    },
+    {
+      "id": "RHYau2S9mK2ysBtAGSTc8",
+      "component": "Block",
+      "data": {
+        "id": "W8aD7HlUpl3NCy9Fe0sMq",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "生成"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "qtJJ55NXbKFYcI4om3xWz",
+      "component": "Block",
+      "data": {
+        "id": "I_8aSQ3lI2AIMD9SNM-Tx",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "支持使用快捷指令生成表格 ✔"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
+      "id": "Qog2-tM0_2DTC4wDvprGR",
+      "component": "Block",
+      "data": {
+        "id": "AWLEg11i9R9cJSXgV6OT0",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "复制粘贴"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "-wMCbcAtGfAz4qvIjAzW5",
+      "component": "Block",
+      "data": {
+        "id": "E82j4nsGU-mBVV3unyDp6",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "单元格内不支持粘贴图片 ✔"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
     }
   ],
   "setting": {

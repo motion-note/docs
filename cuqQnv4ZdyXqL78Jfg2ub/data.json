@@ -178,13 +178,11 @@
       "id": "dkFMlIWJ4Yza8KoUwhJ7Y",
       "component": "Block",
       "data": {
-        "id": "JMXgR4ffM_z8MfMp3CuOo",
+        "id": "KuKUkn4uCSJKjH5o8We_z",
         "component": "ListItemBlock",
-        "props": {},
         "data": {
           "doc": "在有多级缩进节点时，在首位删除优先处理缩进 ✔"
-        },
-        "focus": true
+        }
       },
       "props": {
         "tab": 1

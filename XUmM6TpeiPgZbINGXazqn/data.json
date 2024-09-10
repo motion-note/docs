@@ -160,7 +160,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "使用 **shift** 加光标，可以选择文本区域 mac ✔ win 🚧"
+          "doc": "使用 **shift** 加光标，可以选择文本区域 ✔"
         },
         "focus": true
       },
@@ -205,7 +205,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "单行文本复制时，支持首尾空格"
+          "doc": "单行文本复制时，支持首尾空格 🚧"
         },
         "focus": true
       },
@@ -231,10 +231,46 @@
     },
     {
       "id": "Pgv4RrdF5VAP0_1xXOVwm",
-      "component": "EditNode",
-      "data": "",
+      "component": "Block",
+      "data": {
+        "id": "_LTEAYrr17YuUM1fQbK-T",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "与其它节点交互"
+        }
+      },
+      "props": {
+        "tab": 0
+      }
+    },
+    {
+      "id": "lZ75ztyjrutyunR_G-FhS",
+      "component": "Block",
+      "data": {
+        "id": "qbEt0vjE3Cyd95UWkIK_L",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "禁止在标题中使用`- list` 生成列表 ✔"
+        },
+        "focus": true
+      },
       "props": {
         "tab": 1
+      }
+    },
+    {
+      "id": "jIv4AfU1HvXZVzyr_8xCG",
+      "component": "Block",
+      "data": {
+        "id": "Ia71ZfcdS60lcT7LAvFoD",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "历史记录功能 🚧"
+        }
+      },
+      "props": {
+        "tab": 0
       }
     },
     {

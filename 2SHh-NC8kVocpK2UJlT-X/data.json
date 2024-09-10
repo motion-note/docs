@@ -3,48 +3,34 @@
   "blocks": [
     {
       "id": "kVSMc4-VjBJHa5NL3LZLe",
-      "component": "EditNode",
-      "data": "==0.11.0=="
-    },
-    {
-      "id": "qnJlVFYx2dwGfLmxeP5uH",
       "component": "Block",
       "data": {
-        "id": "Adfk3xtKQSLkjSl51S-4f",
+        "id": "x6Y8RoEWgiHVPk7V0xRq9",
         "component": "HeaderBlock",
-        "props": {},
         "data": {
           "type": "h1",
           "doc": "创建引用模块"
-        },
-        "focus": false
+        }
       }
     },
     {
-      "id": "Z4A2RtRrSNbHFeoYeooxF",
-      "component": "QuoteBlock",
-      "data": [
-        {
-          "id": "eF6jbdgF095zFqNOthN89",
-          "component": "EditNode",
-          "data": "通过快捷指令，选择引用就可以使用引用模块。"
-        }
-      ]
+      "id": "eF6jbdgF095zFqNOthN89",
+      "component": "EditNode",
+      "data": "通过快捷指令，选择引用就可以使用引用模块。"
     },
     {
-      "id": "qEh7Z_v_KiK9-WcT34zG7",
+      "id": "ur670yM--1xSrGw3ctmmc",
       "component": "Block",
       "data": {
-        "id": "WPlFklyUIVHb2rZS6D25Q",
+        "id": "P91CyOFNTeRCODNGDdhlW",
         "component": "ImageBlock",
-        "props": {},
         "data": {
-          "url": "/2SHh-NC8kVocpK2UJlT-X/1692658160041.png",
-          "width": 254.8431396484375,
-          "align": "center"
+          "url": "\\2SHh-NC8kVocpK2UJlT-X\\1725955541893.apng",
+          "width": 477.3333435058594
         },
         "focus": false
-      }
+      },
+      "props": {}
     },
     {
       "id": "p9dr42jYpP9p_rZkfzeiN",
@@ -63,7 +49,7 @@
     {
       "id": "wEEDV8d2f6XpDkXwo1sVh",
       "component": "EditNode",
-      "data": "移动内容后，为空时，自动清除自身节点。"
+      "data": "移动引用模块中最后一个节点内容后，自动清除自身节点。"
     },
     {
       "id": "nYIPaStZayy0H2KD4Hwq1",
