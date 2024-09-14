@@ -14,12 +14,6 @@
       }
     },
     {
-      "id": "-2K6XAB8b5FcYxTY7xsQU",
-      "component": "EditNode",
-      "data": "使用快捷方式 **=** 选择列表，或是在文本节点使用 `ctrl` + 数字1~6生成标题。",
-      "props": {}
-    },
-    {
       "id": "25ngZyZ_fKMSFy5PeQU6c",
       "component": "Block",
       "data": {
@@ -29,6 +23,32 @@
           "url": "\\hcCU_BRuiQO2qNDTZpwtc\\1725939003111.apng"
         },
         "focus": false
+      },
+      "props": {}
+    },
+    {
+      "id": "-2K6XAB8b5FcYxTY7xsQU",
+      "component": "Block",
+      "data": {
+        "id": "TuXVfq_9QdDrVtbwi58nU",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "使用快捷方式 **=** 选择列表"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "u6CraJXlOH8lV26-xRlrF",
+      "component": "Block",
+      "data": {
+        "id": "xYAu-rykZvRWcgfZA2rCA",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "在文本节点使用 `ctrl` + 数字1~6生成标题。"
+        },
+        "focus": true
       },
       "props": {}
     },

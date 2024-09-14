@@ -407,6 +407,70 @@
       "props": {
         "tab": 1
       }
+    },
+    {
+      "id": "grV7w-BUb7cxiekSqbryP",
+      "component": "Block",
+      "data": {
+        "id": "d68wwJg7E-9NvpqIIiflY",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "快捷操作"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 0
+      }
+    },
+    {
+      "id": "3fWttCFiB-5M3BDxBg-Qo",
+      "component": "Block",
+      "data": {
+        "id": "PLDX3nQT9L74qqbbCNZLY",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "win 中使用 `ctrl + enter` 快速在表格下方生成文本节点 ✔"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
+      "id": "ghIJN3u4TaDc2beuWyrU1",
+      "component": "Block",
+      "data": {
+        "id": "CursuAQVy42wo7h3DpyM0",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "mac 中使用 `command + enter` 快速在表格下方生成文本节点 ✔"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
+      "id": "k6uhVWUU5M2yIF_3HudLE",
+      "component": "Block",
+      "data": {
+        "id": "eHKpTt8yx_bFjK8tnwukZ",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": ""
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
     }
   ],
   "setting": {

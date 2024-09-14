@@ -1,5 +1,5 @@
 {
-  "title": "🚧 列表",
+  "title": "列表",
   "blocks": [
     {
       "id": "MZMm39anq9A6a7_LogcCA",
@@ -12,6 +12,32 @@
           "doc": "生成"
         }
       }
+    },
+    {
+      "id": "DzA1RnkTCMQnFFPynnkF0",
+      "component": "Block",
+      "data": {
+        "id": "2PMepAmgSOzcl483z2Yt0",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "使用 `-` + 空格快速生成"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "58uKx76vlNVPSiWx-kkL3",
+      "component": "Block",
+      "data": {
+        "id": "y5kHtCS4r5r82pyV1u3zw",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "使用快捷指令快速生成"
+        },
+        "focus": true
+      },
+      "props": {}
     },
     {
       "id": "SIFHdfnxAbLCb3DDPebxC",
@@ -59,7 +85,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "在空文本节点，支持使用 `- text` 快速生成列表 ✔"
+          "doc": "在空文本节点，支持使用 `-`+ 空格快速生成列表 ✔"
         },
         "focus": true
       },
@@ -74,7 +100,7 @@
         "id": "vNZlZgx8EK6-O2UuJLosR",
         "component": "ListItemBlock",
         "data": {
-          "doc": "使用快捷键生成列表 ✔"
+          "doc": "使用快捷指令生成列表 ✔"
         }
       },
       "props": {
@@ -190,8 +216,30 @@
     },
     {
       "id": "ULU1w4nMnZzqmwu7nst6s",
-      "component": "EditNode",
-      "data": ""
+      "component": "Block",
+      "data": {
+        "id": "zwpUEWOWV32J0KwelYUX3",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "历史记录"
+        }
+      }
+    },
+    {
+      "id": "YCL237bqKjNwzxXUzLNvY",
+      "component": "Block",
+      "data": {
+        "id": "73zHVfWfq9H8txfQr7Bsj",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "生成时，更新记录 ✔"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
     }
   ],
   "setting": {

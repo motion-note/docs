@@ -124,7 +124,7 @@
         "component": "CodeBlock",
         "props": {},
         "data": {
-          "doc": "// 输入以下内容\n[baidu](https://baidu.com)",
+          "doc": "// 输入以下内容\n[motion - github](https://github.com/motion-note)",
           "lang": "js"
         },
         "focus": false
@@ -133,7 +133,7 @@
     {
       "id": "bmtjApOjvihfYh9hmrGGg",
       "component": "EditNode",
-      "data": "[baidu](https://baidu.com)"
+      "data": "[motion - github](https://github.com/motion-note)"
     },
     {
       "id": "3PVWscxqAWL_9Z56UNs6x",
@@ -176,6 +176,103 @@
       "id": "kMl6pRL-LIuQS9YYLWWTT",
       "component": "EditNode",
       "data": ""
+    },
+    {
+      "id": "BWWi_6MkZ0n8qIhnERBVf",
+      "component": "Block",
+      "data": {
+        "id": "As-uB74jawobjER59oDXh",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h1",
+          "doc": "仔细功能清单"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "AEIDVsdIlgHizpe7iaavR",
+      "component": "Block",
+      "data": {
+        "id": "ZLEbeEB7KAUT0iuoHMRcC",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "生成"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "5QCQhTFkPOxTQlOET_FQT",
+      "component": "Block",
+      "data": {
+        "id": "NpREqZ9PE8cHDHNc0wbVd",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "支持 markdown 方式生成链接地址 ✔"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
+      "id": "vSPN9llTJwUNtsmH1DUGu",
+      "component": "Block",
+      "data": {
+        "id": "zYhT2_Te9ahjoOPCI7Ezh",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "支持网址自动转换成网址 ✔"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
+      "id": "lhSWNdPTPNxLD1aqV8ei2",
+      "component": "Block",
+      "data": {
+        "id": "tfpykdhS697F5Dyu4tNpr",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "交互"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 0
+      }
+    },
+    {
+      "id": "bNQ4WhYoHFjHM24GWqG8d",
+      "component": "Block",
+      "data": {
+        "id": "Z9a-xccdAEe1bwJzKvLra",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "支持笔记内，文档间跳转 ✔"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
+      "id": "oG2OGcL0bai7CcNV1Y62U",
+      "component": "EditNode",
+      "data": "",
+      "props": {
+        "tab": 0
+      }
     }
   ],
   "setting": {

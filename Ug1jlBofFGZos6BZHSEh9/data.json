@@ -46,6 +46,20 @@
       "props": {}
     },
     {
+      "id": "c-OjWQccOEdxwG2-PVvaO",
+      "component": "Block",
+      "data": {
+        "id": "GEXeORjEQ_GlL6oHEGoIo",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "优化粘贴复制"
+        },
+        "focus": true
+      },
+      "props": {}
+    },
+    {
       "id": "FY1H3VK8XSSzCaCQHpJbr",
       "component": "Block",
       "data": {
@@ -193,17 +207,62 @@
       "id": "ErNa-xH-4S4AvKnH1YT1X",
       "component": "Block",
       "data": {
-        "id": "ZT_6NmUi-u9BxC0SAlqY1",
-        "component": "ListItemBlock",
-        "props": {},
+        "id": "NFKqzP6K8BpwUy0tHmDEO",
+        "component": "HeaderBlock",
         "data": {
-          "doc": ""
-        },
-        "focus": true
+          "type": "h1",
+          "doc": "书签"
+        }
       },
       "props": {
         "tab": 0
       }
+    },
+    {
+      "id": "lwfMDyftI6UNg1sSo0SA5",
+      "component": "Block",
+      "data": {
+        "id": "4ILCYcKpLj8BlQYQb6JRH",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "优化书签展示效果"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "pn4S7AOMO9-83G36cdaEa",
+      "component": "Block",
+      "data": {
+        "id": "giotq5QCepAL9achyAITz",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "修复图片无法正常显示"
+        },
+        "focus": true
+      },
+      "props": {}
+    },
+    {
+      "id": "PIMEzK157HPTzhncD_5lE",
+      "component": "Block",
+      "data": {
+        "id": "F80wg5qBBzSU3OFBFJYFC",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "支持新文本节点的快捷指令"
+        },
+        "focus": true
+      },
+      "props": {}
+    },
+    {
+      "id": "msuytCxxiBPoPRLoZcuBc",
+      "component": "EditNode",
+      "data": "",
+      "props": {}
     }
   ],
   "setting": {

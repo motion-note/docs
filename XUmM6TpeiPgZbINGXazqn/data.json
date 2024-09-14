@@ -205,7 +205,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "单行文本复制时，支持首尾空格 🚧"
+          "doc": "单行文本复制时，支持首尾空格 ✔"
         },
         "focus": true
       },
@@ -222,6 +222,22 @@
         "props": {},
         "data": {
           "doc": "多行文本粘贴时，移除首尾空格 ✔"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
+      "id": "O4sU49wTXsZcHg-k6OVD9",
+      "component": "Block",
+      "data": {
+        "id": "3AOeoGDxf-FKAXctg3OT1",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "复制粘贴时，移除换行符 ✔"
         },
         "focus": true
       },
@@ -266,11 +282,75 @@
         "id": "Ia71ZfcdS60lcT7LAvFoD",
         "component": "ListItemBlock",
         "data": {
-          "doc": "历史记录功能 🚧"
+          "doc": "历史记录功能 "
         }
       },
       "props": {
         "tab": 0
+      }
+    },
+    {
+      "id": "kyQxcOe7MfDWtMbdlLY4l",
+      "component": "Block",
+      "data": {
+        "id": "bMRGQHD0izPMYnS_-qdl8",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "文本变化，更新历史记录 ✔"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
+      "id": "gGZeeAhlcoYEZA_5l23CR",
+      "component": "Block",
+      "data": {
+        "id": "kDosK1WW-QZTu2GMkDSrT",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "粘贴文本后，更新历史记录 ✔"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
+      "id": "Dp4_tPNvwq-YFnNiSg9EH",
+      "component": "Block",
+      "data": {
+        "id": "_OJ8ZQkjydJ1Z9C-H55yr",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "粘贴图片后，更新历史记录 ✔"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
+      "id": "J8WffqCzur-sAbph_X3J2",
+      "component": "Block",
+      "data": {
+        "id": "XUBPI3shYgglCIe1ZvJRB",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "快捷指令更新历史记录 ✔"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
       }
     },
     {
@@ -281,7 +361,7 @@
   ],
   "setting": {
     "lock": false,
-    "debug": true,
+    "debug": false,
     "historyPanel": false
   }
 }

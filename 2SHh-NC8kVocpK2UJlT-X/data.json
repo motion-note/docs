@@ -1,5 +1,5 @@
 {
-  "title": "引用",
+  "title": "🚧 引用",
   "blocks": [
     {
       "id": "kVSMc4-VjBJHa5NL3LZLe",
@@ -63,6 +63,94 @@
           "data": ""
         }
       ]
+    },
+    {
+      "id": "tuEnRMXnsboZG9H9x7EVK",
+      "component": "Block",
+      "data": {
+        "id": "BlhTRh86rmKPEWKEXTgbj",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h1",
+          "doc": "细节功能列表"
+        }
+      }
+    },
+    {
+      "id": "7cPoFJDJs9Hdty964HRK8",
+      "component": "Block",
+      "data": {
+        "id": "4dv-Jics7lWBdH8iKvvNT",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "生成"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "c04yI9vImOsWzjyx9vaty",
+      "component": "Block",
+      "data": {
+        "id": "aD-08IgoUEDtIUjDGBUCy",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "使用快捷指令生成 ✔"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
+      "id": "-MHqyBCZ6TaMkjPRgfe86",
+      "component": "Block",
+      "data": {
+        "id": "D6cespKhocIWe7G1z3q9S",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "交互"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 0
+      }
+    },
+    {
+      "id": "hTeSDKqAiw9LfCkSEP75R",
+      "component": "Block",
+      "data": {
+        "id": "qt_sQa5eW-gmZnMuOAVgd",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "移出最后一个节点后，模块自动删除 ✔"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
+      "id": "2atxRGOQWKZob5E2qZLOz",
+      "component": "Block",
+      "data": {
+        "id": "Wrng1_Td-eQsrehPaPFTE",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "上使用 `ctrl + enter` 跳出节点，生成文本节点  W✔ M🚧"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
     }
   ],
   "setting": {
