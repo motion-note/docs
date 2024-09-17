@@ -1,5 +1,5 @@
 {
-  "title": "🚧 引用",
+  "title": "引用",
   "blocks": [
     {
       "id": "kVSMc4-VjBJHa5NL3LZLe",
@@ -52,14 +52,12 @@
       "data": "移动引用模块中最后一个节点内容后，自动清除自身节点。"
     },
     {
-      "id": "nYIPaStZayy0H2KD4Hwq1",
+      "id": "LmYf8IZBETMmVEtQo_rp5",
       "component": "QuoteBlock",
       "data": [
         {
-          "id": "P7qsrGuvar61n7k0ez3ez",
+          "id": "AQ-KLuy6GIlhNUEc14ghU",
           "component": "EditNode",
-          "props": {},
-          "focus": false,
           "data": ""
         }
       ]
@@ -97,6 +95,22 @@
         "props": {},
         "data": {
           "doc": "使用快捷指令生成 ✔"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
+      "id": "rSNIoAKXrAqHwX2ZNATir",
+      "component": "Block",
+      "data": {
+        "id": "CoWouDMnaDxGkFBtF0YZK",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "支持内嵌引用组件 ✔"
         },
         "focus": true
       },
@@ -144,7 +158,23 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "上使用 `ctrl + enter` 跳出节点，生成文本节点  W✔ M🚧"
+          "doc": "win 上使用 `ctrl + enter` 跳出节点，生成文本节点 ✔"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
+      "id": "RgW8ya8NEScuLH4I87Aer",
+      "component": "Block",
+      "data": {
+        "id": "yUkTFlOGBV3Mcp2xl53Ii",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "mac 上使用 `commend + enter` 跳出节点，生成文本节点 ✔"
         },
         "focus": true
       },

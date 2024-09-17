@@ -1,0 +1,140 @@
+{
+  "title": "express api",
+  "blocks": [
+    {
+      "id": "wWODmKKQJYPcxLWjQpX5u",
+      "component": "QuoteBlock",
+      "data": [
+        {
+          "id": "zp4EL6BiVCpY9AedLy51p",
+          "component": "EditNode",
+          "data": "==注意== 这里演示 [express](https://expressjs.com/en/5x/api.html) 的 api 文档。"
+        }
+      ]
+    },
+    {
+      "id": "R1CC3oXlmi3ZMAjU5V07r",
+      "component": "Block",
+      "data": {
+        "id": "s0sFBmeTbkh-Aldr5DM2s",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h1",
+          "doc": "5.x API"
+        }
+      }
+    },
+    {
+      "id": "Fo-s2-CY5DpykqWNnJ9X5",
+      "component": "QuoteBlock",
+      "data": [
+        {
+          "id": "HjP-Jpw-or8jR1TD05om9",
+          "component": "EditNode",
+          "data": "⚠️ Caution"
+        },
+        {
+          "id": "NthHFtGcvkn_OxDoGD4Cd",
+          "component": "EditNode",
+          "data": "this is early beta documentation that may be incomplete and is still under development.",
+          "props": {}
+        }
+      ],
+      "props": {}
+    },
+    {
+      "id": "xunTypLJU5cG-auGJpeKk",
+      "component": "QuoteBlock",
+      "data": [
+        {
+          "id": "KJbrZjyh5LkAFcDsdM-xG",
+          "component": "EditNode",
+          "data": "ℹ️ Note"
+        },
+        {
+          "id": "qGUt0Af-huZIGfoKMuPmv",
+          "component": "EditNode",
+          "data": "Express 5.0 requires Node.js 18 or higher.",
+          "props": {}
+        }
+      ]
+    },
+    {
+      "id": "pSuXxp3EOt2kCipTz-iFE",
+      "component": "Block",
+      "data": {
+        "id": "TImPgkZB4Jl4OXRjmexoE",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h1",
+          "doc": "express()"
+        }
+      }
+    },
+    {
+      "id": "irByn35Ty22XcJ8OV_OQu",
+      "component": "EditNode",
+      "data": "Creates an Express application. The `express()` function is a top-level function exported by the `express` module.",
+      "props": {}
+    },
+    {
+      "id": "eShW5XxRyxXSq9-iw1FYg",
+      "component": "Block",
+      "data": {
+        "id": "Kty_MoYFExg7bc3VrbMTP",
+        "component": "CodeBlock",
+        "data": {
+          "doc": "const express = require('express')\nconst app = express()",
+          "lang": "js"
+        },
+        "focus": false
+      },
+      "props": {}
+    },
+    {
+      "id": "gfTLFGU1MZ4sRh4A0-UP5",
+      "component": "Block",
+      "data": {
+        "id": "us-uQJaJZPmm5mSVo9qY4",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h2",
+          "doc": "Methods"
+        }
+      }
+    },
+    {
+      "id": "cLGoyjqK_Onxlzny8e-Cx",
+      "component": "Block",
+      "data": {
+        "id": "7fzo2VgXykIp-QVDmXqR2",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h3",
+          "doc": "express.json([options])"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "59qT3-T5ciYCA154c2sj0",
+      "component": "EditNode",
+      "data": "This is a built-in middleware function in Express. It parses incoming requests with JSON payloads and is based on body-parser."
+    },
+    {
+      "id": "aM8ThBwjGI9jigusebiEd",
+      "component": "EditNode",
+      "data": "Returns middleware that only parses JSON and only looks at requests where the Content-Type header matches the type option. This parser accepts any Unicode encoding of the body and supports automatic inflation of gzip and deflate encodings."
+    },
+    {
+      "id": "T6zwGMfO7UIPfmxYZJ3hj",
+      "component": "EditNode",
+      "data": "A new body object containing the parsed data is populated on the request object after the middleware (i.e. req.body), or an empty object ({}) if there was no body to parse, the Content-Type was not matched, or an error occurred."
+    }
+  ],
+  "setting": {
+    "lock": false,
+    "debug": false,
+    "historyPanel": false
+  }
+}

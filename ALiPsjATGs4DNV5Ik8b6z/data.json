@@ -122,6 +122,22 @@
       }
     },
     {
+      "id": "UbUkNzObR5Iht6Vf9lFiF",
+      "component": "Block",
+      "data": {
+        "id": "FNr_bmgzQlW32dltQHTUm",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "图片聚焦状态下，使用**enter** 生成文本节点 ✔"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
       "id": "VFzi5vZRQyyvAvdZnFoiy",
       "component": "Block",
       "data": {
@@ -270,6 +286,70 @@
         "props": {},
         "data": {
           "doc": "使用 **Shift + Tab** 控制节点退回缩进 ✔"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
+      "id": "6JF7XWOXxao8krbZbPM2E",
+      "component": "Block",
+      "data": {
+        "id": "ho_4BHTcI_lIxcpz3XQWB",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "**双击**图片，可以预览图片 ✔"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
+      "id": "EuBT0BybqEPGtfhj5ARy6",
+      "component": "Block",
+      "data": {
+        "id": "ygWegcbu5M6fQMf4eIGbJ",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "在预览图片时"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 0
+      }
+    },
+    {
+      "id": "DNTOmOyKNw62eusMlXIdI",
+      "component": "Block",
+      "data": {
+        "id": "9YYuwgsv2JAsVicPrI0A7",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "可以使用滚轮缩放 ✔"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
+      "id": "7tueTVIoy0MBWjVbE1LVG",
+      "component": "Block",
+      "data": {
+        "id": "UXJiM6X_MBoEkANgiOoNm",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "可以使用右键快速关闭预览 ✔"
         },
         "focus": true
       },
