@@ -48,8 +48,14 @@
     },
     {
       "id": "wEEDV8d2f6XpDkXwo1sVh",
-      "component": "EditNode",
-      "data": "移动引用模块中最后一个节点内容后，自动清除自身节点。"
+      "component": "Block",
+      "data": {
+        "id": "xiji0WsYW2deLA2fdXHuo",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "移动引用模块中最后一个节点内容后，自动清除自身节点。"
+        }
+      }
     },
     {
       "id": "LmYf8IZBETMmVEtQo_rp5",

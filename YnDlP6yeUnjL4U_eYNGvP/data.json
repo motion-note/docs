@@ -474,7 +474,7 @@
     }
   ],
   "setting": {
-    "lock": true,
+    "lock": false,
     "debug": false
   }
 }
