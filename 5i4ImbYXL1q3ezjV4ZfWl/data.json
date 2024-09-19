@@ -94,6 +94,18 @@
       "data": "如果有什么想法与建议，可以通过以下方式联系我们："
     },
     {
+      "id": "0SyiYqJb2LGcEz5cm4mMK",
+      "component": "Block",
+      "data": {
+        "id": "Oj9Q1Qq1C2AMhvzxEnXla",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "[motion - github](https://github.com/motion-note/motion)"
+        }
+      },
+      "props": {}
+    },
+    {
       "id": "7rVDwLvm3SDqXUovNdBZv",
       "component": "Block",
       "data": {
@@ -118,6 +130,30 @@
         },
         "focus": true
       }
+    },
+    {
+      "id": "p_VtklaLG0hUwqfxemWq1",
+      "component": "EditNode",
+      "data": ""
+    },
+    {
+      "id": "6Ez3-OTYaAWopo5y9KxPe",
+      "component": "Block",
+      "data": {
+        "id": "rpp3V-QH6BYqus0w6lMwP",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h1",
+          "doc": "下载"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "82wjTy9vlGxW2_g8nvYNh",
+      "component": "EditNode",
+      "data": "更多版本下载，[点击这里](https://github.com/motion-note/motion/releases)",
+      "props": {}
     },
     {
       "id": "OpKVsXkuCMf0kt8_g7VY8",

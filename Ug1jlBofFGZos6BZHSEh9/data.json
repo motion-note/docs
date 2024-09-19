@@ -259,9 +259,67 @@
       "props": {}
     },
     {
+      "id": "jC9ErmL-Y5oM5qRYl-ACk",
+      "component": "Block",
+      "data": {
+        "id": "RP4jROtCpXVRp9l56qsZu",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h1",
+          "doc": "引用"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "W3QyOvqOysMP8X68QYTzD",
+      "component": "Block",
+      "data": {
+        "id": "mvTIO9N5Rt59RUpkSBmlZ",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "支持新文本节点的调整"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "CaiJ7uUx8h2vrRUlGS-Gj",
+      "component": "Block",
+      "data": {
+        "id": "V-EHWtt12VcWe2OIz4Wi3",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "优化空内容时，删除功能"
+        },
+        "focus": true
+      },
+      "props": {}
+    },
+    {
       "id": "msuytCxxiBPoPRLoZcuBc",
-      "component": "EditNode",
-      "data": "",
+      "component": "Block",
+      "data": {
+        "id": "1kFfsE72yxySelffmt9PM",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h1",
+          "doc": "其它"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "vEceI-LOk4-MT89Q-cG4T",
+      "component": "Block",
+      "data": {
+        "id": "1lwikt6A5rS3U-t7nmld9",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "其它细节功能优化"
+        }
+      },
       "props": {}
     }
   ],

@@ -124,7 +124,7 @@
     {
       "id": "aM8ThBwjGI9jigusebiEd",
       "component": "EditNode",
-      "data": "Returns middleware that only parses JSON and only looks at requests where the Content-Type header matches the type option. This parser accepts any Unicode encoding of the body and supports automatic inflation of gzip and deflate encodings."
+      "data": "Returns middleware that  only parses JSON and only looks at requests where the Content-Type header matches the type option. This parser accepts any Unicode encoding of the body and supports automatic inflation of gzip and deflate encodings."
     },
     {
       "id": "T6zwGMfO7UIPfmxYZJ3hj",
