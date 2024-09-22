@@ -11,7 +11,9 @@
   },
   {
     "name": "快速上手",
-    "path": "/fG4GO85sEzpTwi1l9vebh"
+    "path": "/fG4GO85sEzpTwi1l9vebh",
+    "open": true,
+    "children": []
   },
   {
     "name": "功能介绍",
@@ -35,7 +37,7 @@
         "path": "/Dqt89v8SU8XiFarhCoLOg"
       },
       {
-        "name": "🚧 表格",
+        "name": "表格",
         "path": "/YnDlP6yeUnjL4U_eYNGvP"
       },
       {
@@ -61,6 +63,10 @@
     "path": "/ObbRUzgDI2dBxO5a3wPhy",
     "open": true,
     "children": [
+      {
+        "name": "0.17.0",
+        "path": "/-AqxOtKesGtQqcDU44dFj"
+      },
       {
         "name": "0.16.0",
         "path": "/Ug1jlBofFGZos6BZHSEh9"
@@ -116,7 +122,8 @@
     "children": [
       {
         "name": "express api",
-        "path": "/K6jOT5yv3BXGbpQuhzrie"
+        "path": "/K6jOT5yv3BXGbpQuhzrie",
+        "children": []
       }
     ]
   }

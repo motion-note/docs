@@ -1,0 +1,53 @@
+{
+  "title": "0.17.0",
+  "blocks": [
+    {
+      "id": "T5vkEb5CufK_cAN53MDeX",
+      "component": "Block",
+      "data": {
+        "id": "lGUs_cB2iuvaVVZCaa_Ic",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h1",
+          "doc": "文档列表功能"
+        }
+      }
+    },
+    {
+      "id": "ZYAH7SsqhuovgeHQ4Ee33",
+      "component": "Block",
+      "data": {
+        "id": "YTxVYwmnKPNyvquiakzi1",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "优化文档列表添加时，新文档名自动聚焦在可视区"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "byRAZ05Q-OPmCIx0D4k7H",
+      "component": "Block",
+      "data": {
+        "id": "MTMQCGjsokdFkSizj0wVT",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "修复添加子级文档时，父级目录默认不展开"
+        },
+        "focus": true
+      },
+      "props": {}
+    },
+    {
+      "id": "3_Gmnfyx67jWvL2IdfSUq",
+      "component": "EditNode",
+      "data": ""
+    }
+  ],
+  "setting": {
+    "lock": false,
+    "debug": false,
+    "historyPanel": false
+  }
+}

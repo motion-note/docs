@@ -8,8 +8,16 @@
     },
     {
       "id": "jjvaedaFkBZXtckv-pEVv",
-      "component": "EditNode",
-      "data": ""
+      "component": "Block",
+      "data": {
+        "id": "w99HI42ushG1vCpEogMU8",
+        "component": "ImageBlock",
+        "data": {
+          "url": "/ALiPsjATGs4DNV5Ik8b6z/1726995478063.jpg",
+          "width": 292.67431640625
+        },
+        "focus": false
+      }
     },
     {
       "id": "S_d9Lh_KqapPfIy43gpEj",
@@ -359,7 +367,7 @@
     }
   ],
   "setting": {
-    "lock": false,
+    "lock": true,
     "debug": false,
     "historyPanel": false
   }

@@ -20,8 +20,15 @@
     },
     {
       "id": "A1K9rg12B_M7I_K1l9rA6",
-      "component": "EditNode",
-      "data": ""
+      "component": "Block",
+      "data": {
+        "id": "mLgmfE8qohIANxSz_psfu",
+        "component": "ImageBlock",
+        "data": {
+          "url": "/YetCPzV5DdyBb7TurFwM4/1726894266185.png"
+        },
+        "focus": false
+      }
     },
     {
       "id": "pQCMKUJawyPIrFh9wTXWi",
