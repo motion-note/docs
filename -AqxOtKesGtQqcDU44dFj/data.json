@@ -20,7 +20,7 @@
         "id": "YTxVYwmnKPNyvquiakzi1",
         "component": "ListItemBlock",
         "data": {
-          "doc": "优化文档列表添加时，新文档名自动聚焦在可视区"
+          "doc": "优化文档列表添加时，新文档名自动聚焦在可视区 ✔"
         }
       },
       "props": {}
@@ -33,7 +33,21 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "修复添加子级文档时，父级目录默认不展开"
+          "doc": "修复添加子级文档时，父级目录默认不展开 ✔"
+        },
+        "focus": true
+      },
+      "props": {}
+    },
+    {
+      "id": "Cp-Wpkp50pODI0jvpQw1x",
+      "component": "Block",
+      "data": {
+        "id": "shUp57gBtFkmYT2dGKR10",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "添加自动聚集当前文档位置功能 ✔"
         },
         "focus": true
       },

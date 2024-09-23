@@ -14,7 +14,7 @@
         "component": "ImageBlock",
         "data": {
           "url": "/ALiPsjATGs4DNV5Ik8b6z/1726995478063.jpg",
-          "width": 292.67431640625
+          "width": 242.00003051757812
         },
         "focus": false
       }
@@ -364,10 +364,42 @@
       "props": {
         "tab": 1
       }
+    },
+    {
+      "id": "pWChqIB92BcWDL7B0G4TO",
+      "component": "Block",
+      "data": {
+        "id": "T6nin0dx21zgV5WeR0yeQ",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "右键菜单"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 0
+      }
+    },
+    {
+      "id": "C6ZLsAgdX_VO9AnIuIcBA",
+      "component": "Block",
+      "data": {
+        "id": "tnharOtmlNNSTamHdhD-e",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "右键支持复制图片 ✔ 0.17.0+"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
     }
   ],
   "setting": {
-    "lock": true,
+    "lock": false,
     "debug": false,
     "historyPanel": false
   }

@@ -217,6 +217,38 @@
       "props": {
         "tab": 1
       }
+    },
+    {
+      "id": "7W7SdXMOf9ZXCaqpxofJi",
+      "component": "Block",
+      "data": {
+        "id": "8bcaqDzmiQtA4atpDqr9_",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "右键快捷键 0.17.0+"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 0
+      }
+    },
+    {
+      "id": "ovIoYSS8kgFTxU8DUCr4G",
+      "component": "Block",
+      "data": {
+        "id": "FmqZNIcFZYz3uqbuPc9VM",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "支持文本内容的复制 ✔"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
     }
   ],
   "setting": {
