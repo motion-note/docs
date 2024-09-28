@@ -55,8 +55,27 @@
     },
     {
       "id": "3_Gmnfyx67jWvL2IdfSUq",
-      "component": "EditNode",
-      "data": ""
+      "component": "Block",
+      "data": {
+        "id": "V3t1GcKJh9mmBilTe6bs-",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h1",
+          "doc": "文档"
+        }
+      }
+    },
+    {
+      "id": "d-xz76OaXeJAmVBTWLHP_",
+      "component": "Block",
+      "data": {
+        "id": "KbZdontLfOghk7fszgfBa",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "添加文档导出 PDF 功能"
+        }
+      },
+      "props": {}
     }
   ],
   "setting": {
