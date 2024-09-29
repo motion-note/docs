@@ -179,6 +179,60 @@
       "props": {
         "tab": 1
       }
+    },
+    {
+      "id": "m25vJrBp99Ik2eR1Q3Lt4",
+      "component": "Block",
+      "data": {
+        "id": "AxjwIQOo0IKkcLBPA7Xx9",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h1",
+          "doc": "文档"
+        }
+      }
+    },
+    {
+      "id": "-k3SF7Qo6h7LYC1MBOSy-",
+      "component": "Block",
+      "data": {
+        "id": "O6pKo9SV8pwGxJusF3C0u",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "添加导出 PDF"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "kYP7DeTCtqz5y_4iFkYkI",
+      "component": "Block",
+      "data": {
+        "id": "WRn_xztniTNhebDaLoJYb",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "优化文档菜单弹出效果"
+        },
+        "focus": true
+      },
+      "props": {}
+    },
+    {
+      "id": "O5GZBxR3ig2WbhgjEIcLS",
+      "component": "Block",
+      "data": {
+        "id": "ThlIceOqL9atrE0ef5POq",
+        "component": "ImageBlock",
+        "data": {
+          "url": "/-AqxOtKesGtQqcDU44dFj/1727618547414.gif",
+          "width": 263.1136474609375
+        },
+        "focus": false
+      },
+      "props": {
+        "tab": 1
+      }
     }
   ],
   "setting": {
