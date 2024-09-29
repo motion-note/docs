@@ -2,6 +2,38 @@
   "title": "0.17.0",
   "blocks": [
     {
+      "id": "dfDr2Mrrn5j2PRy2BGA7r",
+      "component": "Block",
+      "data": {
+        "id": "YhBEbUaKFNOvWqOcxuobA",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h1",
+          "doc": "图标优化"
+        }
+      }
+    },
+    {
+      "id": "Bb5wEkXo2un2_A1Zfys82",
+      "component": "EditNode",
+      "data": "使用新的 logo",
+      "props": {}
+    },
+    {
+      "id": "RbR8VzXQjczJJ_SaRc6yY",
+      "component": "Block",
+      "data": {
+        "id": "fvMzXaqdTL8tpp6ysaVLR",
+        "component": "ImageBlock",
+        "data": {
+          "url": "\\-AqxOtKesGtQqcDU44dFj\\1727234937367.png",
+          "width": 150.66664123535156
+        },
+        "focus": false
+      },
+      "props": {}
+    },
+    {
       "id": "T5vkEb5CufK_cAN53MDeX",
       "component": "Block",
       "data": {
@@ -43,20 +75,110 @@
       "id": "Cp-Wpkp50pODI0jvpQw1x",
       "component": "Block",
       "data": {
-        "id": "shUp57gBtFkmYT2dGKR10",
-        "component": "ListItemBlock",
-        "props": {},
+        "id": "TeLarajIlPg9d0t-Go__q",
+        "component": "HeaderBlock",
         "data": {
-          "doc": "添加自动聚集当前文档位置功能 ✔"
-        },
-        "focus": true
+          "type": "h1",
+          "doc": "文本节点"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "c2LyLOhpFE7WRFk50qX0E",
+      "component": "Block",
+      "data": {
+        "id": "GhUwzWvBrQhoy5VfinMPG",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "优化快捷指令对中文的支持"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "tIVK60eUox9qIfbzGgWZ_",
+      "component": "Block",
+      "data": {
+        "id": "pne1R9wW08FADNpqlqnhn",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h1",
+          "doc": "列表"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "8bMDUR_WdjobpkjVwxUwS",
+      "component": "Block",
+      "data": {
+        "id": "1pq7TcoDgtXQX0DSRyVqX",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "优化在引用节点中跳出的能力"
+        }
       },
       "props": {}
     },
     {
       "id": "3_Gmnfyx67jWvL2IdfSUq",
+      "component": "Block",
+      "data": {
+        "id": "b9331bz7fiesPQXQQHGyT",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h1",
+          "doc": "引用"
+        }
+      }
+    },
+    {
+      "id": "Mq5Z504_Qq9VDqMbiYjCw",
       "component": "EditNode",
-      "data": ""
+      "data": "",
+      "props": {}
+    },
+    {
+      "id": "Gm68L_EKPdcdhCdsVHsKF",
+      "component": "Block",
+      "data": {
+        "id": "SIv3QOg1qZE4woQRoLo2V",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h1",
+          "doc": "代码"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "XyhvggWIvTCV_EE7IuWzn",
+      "component": "Block",
+      "data": {
+        "id": "nTpdexR1TFQb14-a9Ps3C",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "优化代码格式切换，支持动态大小调整"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "gQnXzqCPaamRtIWzittsN",
+      "component": "Block",
+      "data": {
+        "id": "mfXUXXucdH65IfEIYewAD",
+        "component": "CodeBlock",
+        "data": {
+          "doc": "let str = 'hello world'",
+          "lang": "js"
+        },
+        "focus": false
+      },
+      "props": {
+        "tab": 1
+      }
     }
   ],
   "setting": {

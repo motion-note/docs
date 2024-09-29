@@ -17,22 +17,16 @@
     },
     {
       "id": "wZhkFwCWYtcF1bLoabQRP",
-      "component": "EditNode",
-      "data": ""
-    },
-    {
-      "id": "0G9bPHcpd6WHYoZa6KrLq",
       "component": "Block",
       "data": {
-        "id": "62aKbju9p7ssJ3rPsP_EN",
+        "id": "_ab45PIiH3m_XrZLEJQLM",
         "component": "ImageBlock",
-        "props": {},
-        "focus": false,
         "data": {
-          "url": "/5i4ImbYXL1q3ezjV4ZfWl/1669516387197.png",
-          "width": 179,
+          "url": "\\5i4ImbYXL1q3ezjV4ZfWl\\1727222834684.png",
+          "width": 217.33334350585938,
           "align": "center"
-        }
+        },
+        "focus": false
       }
     },
     {

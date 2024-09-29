@@ -157,6 +157,30 @@
       }
     },
     {
+      "id": "LvOdv8rmNqUPC8ohRO_gF",
+      "component": "Block",
+      "data": {
+        "id": "KVWJxms5TsV17Nv3_tsMH",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "跳出节点区域"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
+      "id": "dS02alWN3S7AvTmDgyGIk",
+      "component": "EditNode",
+      "data": "`跳出当前引用的节点，在下方生成一个空文本`",
+      "props": {
+        "tab": 3
+      }
+    },
+    {
       "id": "2atxRGOQWKZob5E2qZLOz",
       "component": "Block",
       "data": {
@@ -169,7 +193,7 @@
         "focus": true
       },
       "props": {
-        "tab": 1
+        "tab": 2
       }
     },
     {
@@ -185,8 +209,54 @@
         "focus": true
       },
       "props": {
-        "tab": 1
+        "tab": 2
       }
+    },
+    {
+      "id": "NjTJGBZUEtvKA9o3KAS9_",
+      "component": "Block",
+      "data": {
+        "id": "KUXs1cKIR_J4JLoQT5JLT",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "文本节点支持 ✔"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 2
+      }
+    },
+    {
+      "id": "QEujVVpQwW9aFrmv7QC8r",
+      "component": "Block",
+      "data": {
+        "id": "YJR6kix9jwiOO4xkpwAqD",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "列表节点支持 ✔"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 2
+      }
+    },
+    {
+      "id": "804yB8rbPGY_5YFjvNTBL",
+      "component": "Block",
+      "data": {
+        "id": "8n3kD0H71fXhOVwTVthJ3",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": ""
+        },
+        "focus": true
+      },
+      "props": {}
     }
   ],
   "setting": {

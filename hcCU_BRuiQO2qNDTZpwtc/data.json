@@ -249,6 +249,54 @@
       "props": {
         "tab": 1
       }
+    },
+    {
+      "id": "KvQs17j9szX_Rbzrmm2BJ",
+      "component": "Block",
+      "data": {
+        "id": "clHdLLaLyBuAWNNX6njf6",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "格式"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 0
+      }
+    },
+    {
+      "id": "etQ3CrVQJko3w4MxP5y9m",
+      "component": "Block",
+      "data": {
+        "id": "IxHhrfQt0Artil5p2pshJ",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "支持纯文本内容 ✔"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
+      "id": "lJJn7oKHeYtMKUF5UK28o",
+      "component": "Block",
+      "data": {
+        "id": "ghB5JpAMxwguhsMJnZiuv",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "支持链接地址 ✔"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
     }
   ],
   "setting": {

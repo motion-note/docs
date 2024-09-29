@@ -1,0 +1,133 @@
+{
+  "title": "vue 简介",
+  "blocks": [
+    {
+      "id": "ZKvM0GRN7ePm7yC7gvTPJ",
+      "component": "QuoteBlock",
+      "data": [
+        {
+          "id": "0OPwxGRXuiywAnXrmrWBi",
+          "component": "EditNode",
+          "data": "这里是演示vue官网简介页面，页面地址访问[这里]()。"
+        }
+      ]
+    },
+    {
+      "id": "AKAfSCZuE5eMRlQm5gv_f",
+      "component": "QuoteBlock",
+      "data": [
+        {
+          "id": "naMkm-uDRVF3VCkqaXtkM",
+          "component": "EditNode",
+          "data": "❤ 你正在阅读的是 Vue 3 的文档！"
+        },
+        {
+          "id": "M0TOYXxtu4S4Rg8_5Lmno",
+          "component": "Block",
+          "data": {
+            "id": "zN358hsOIEjd-f2aNhbk6",
+            "component": "ListItemBlock",
+            "data": {
+              "doc": "Vue 2 已于 2023 年 12 月 31 日停止维护。详见 [Vue 2 终止支持 (EOL)](https://v2.cn.vuejs.org/eol/)。"
+            }
+          }
+        },
+        {
+          "id": "ZUfswxQynt-viIe5Ufz6T",
+          "component": "Block",
+          "data": {
+            "id": "r1T6FtdP5men4eI4pmKTz",
+            "component": "ListItemBlock",
+            "data": {
+              "doc": "想从 Vue 2 升级？请参考[迁移指南](https://v3-migration.vuejs.org/)。"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "peX0OEK-9-_DgaXtmxo7E",
+      "component": "Block",
+      "data": {
+        "id": "eLesW-auWHNrTstmBIHWm",
+        "component": "BookmarkBlock",
+        "props": {},
+        "focus": false,
+        "data": {
+          "url": "https://www.vuemastery.com/courses/",
+          "title": "Vue Mastery",
+          "description": "Vue Mastery is the ultimate learning resource for Vue.js developers. We release weekly video tutorials and articles as well as the proud producers of the official Vue.js News. You can consume it in newsletter and podcast format at news.vuejs.org.",
+          "icon": "https://www.vuemastery.com/favicon.ico",
+          "image": "https://www.vuemastery.com/images/facebook_social_image.png"
+        }
+      }
+    },
+    {
+      "id": "RNgEZtPSPjrIxMmif3ql8",
+      "component": "Block",
+      "data": {
+        "id": "h9wE-R0meK5ZJWLxbZaqM",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h1",
+          "doc": "什么是 Vue ?"
+        }
+      }
+    },
+    {
+      "id": "m1zpx5sjygWJQkAkhgIHh",
+      "component": "EditNode",
+      "data": "Vue (发音为 /vjuː/，类似 view) 是一款用于构建用户界面的 JavaScript 框架。它基于标准 HTML、CSS 和 JavaScript 构建，并提供了一套声明式的、组件化的编程模型，帮助你高效地开发用户界面。无论是简单还是复杂的界面，Vue 都可以胜任。",
+      "props": {}
+    },
+    {
+      "id": "VnSCH3DN5mQwt6vhbM18B",
+      "component": "EditNode",
+      "data": "下面是一个最基本的示例："
+    },
+    {
+      "id": "U5ZfqAW2nWh2AGCDX3HQ9",
+      "component": "Block",
+      "data": {
+        "id": "G5vtJoz5qO_l1kfv4y8sG",
+        "component": "CodeBlock",
+        "data": {
+          "doc": "import { createApp, ref } from 'vue'\n\ncreateApp({\n  setup() {\n    return {\n      count: ref(0)\n    }\n  }\n}).mount('#app')",
+          "lang": "js"
+        },
+        "focus": false
+      },
+      "props": {}
+    },
+    {
+      "id": "xk7tZ4hMzArvDUwLtntgV",
+      "component": "Block",
+      "data": {
+        "id": "BRKkIU-S0VNIZHpLPuZTz",
+        "component": "CodeBlock",
+        "data": {
+          "doc": "<div id=\"app\">\n  <button @click=\"count++\">\n    Count is: {{ count }}\n  </button>\n</div>",
+          "lang": "html"
+        },
+        "focus": false
+      }
+    },
+    {
+      "id": "suKt43l0-bfaFKBOy4sH5",
+      "component": "Block",
+      "data": {
+        "id": "A6bYMxW0VpBLLSJIEzWC3",
+        "component": "ImageBlock",
+        "data": {
+          "url": "\\cX5McBAXhRXeJerjeQx1F\\1727231654806.png"
+        },
+        "focus": false
+      }
+    }
+  ],
+  "setting": {
+    "lock": false,
+    "debug": false,
+    "historyPanel": false
+  }
+}
