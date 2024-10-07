@@ -233,6 +233,30 @@
       "props": {
         "tab": 1
       }
+    },
+    {
+      "id": "zOhUngEFLmv70qv-UOdGx",
+      "component": "Block",
+      "data": {
+        "id": "rhYSMyqBQKTg1MfF0eSyo",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h1",
+          "doc": "侧边栏"
+        }
+      }
+    },
+    {
+      "id": "y9DO3o4gDzjoM3Di05y_Q",
+      "component": "EditNode",
+      "data": "优化侧边栏菜单弹出效果",
+      "props": {}
+    },
+    {
+      "id": "I94PiRyprEUk7oCy-t1oP",
+      "component": "EditNode",
+      "data": "",
+      "props": {}
     }
   ],
   "setting": {
