@@ -32,7 +32,19 @@
     {
       "id": "mdgmOCU3eEhVQabSnhxlg",
       "component": "EditNode",
-      "data": "4，支持设置默认使用相对路径。且图片可以存在正在编辑的文件的目录下的某个文件下。"
+      "data": "4，支持设置默认使用相对路径。且图片可以存在正在编辑的文件的目录下的某个文件下。 "
+    },
+    {
+      "id": "RjfgByBDKF8ofgws4vsrn",
+      "component": "QuoteBlock",
+      "data": [
+        {
+          "id": "Cs6cQBreB95f0jTcSG867",
+          "component": "EditNode",
+          "data": "目前图片统一在文档目录下"
+        }
+      ],
+      "props": {}
     },
     {
       "id": "f1rHhcLq8MEqX3cu-YQBf",
@@ -42,7 +54,7 @@
     {
       "id": "bjDEifi1wIrTh1IYyusJ2",
       "component": "EditNode",
-      "data": "6，page置可以导出和导入。"
+      "data": "6，page置可以导出和导入。✔"
     },
     {
       "id": "oOBnWRNFM7XzBVIQtahKP",
