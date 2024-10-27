@@ -234,27 +234,19 @@
     },
     {
       "id": "5MhK8hBQfUUbNenP207Un",
-      "component": "EditNode",
-      "data": "",
-      "props": {}
-    },
-    {
-      "id": "7qOfjFLqQ3nSHiHn3G_xW",
-      "component": "EditNode",
-      "data": "",
-      "props": {}
-    },
-    {
-      "id": "Ve9-gg8A5YOvoYhohvkgw",
-      "component": "EditNode",
-      "data": "",
-      "props": {}
-    },
-    {
-      "id": "QNfBQA0mjipjjj_HbDvst",
-      "component": "EditNode",
-      "data": "",
-      "props": {}
+      "component": "Block",
+      "data": {
+        "id": "mJokXyMtM8s0S7e9za1FH",
+        "component": "ImageBlock",
+        "data": {
+          "url": "/-AqxOtKesGtQqcDU44dFj/1730033602611.gif",
+          "width": 314.10723876953125
+        },
+        "focus": false
+      },
+      "props": {
+        "tab": 1
+      }
     },
     {
       "id": "zOhUngEFLmv70qv-UOdGx",
