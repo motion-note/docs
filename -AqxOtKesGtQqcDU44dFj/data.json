@@ -205,6 +205,20 @@
       "props": {}
     },
     {
+      "id": "pdBhBcxcShtxu8Ie2IAeH",
+      "component": "Block",
+      "data": {
+        "id": "3enBaiycujCaZKZp0_Lz7",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "添加导出 markdown"
+        },
+        "focus": true
+      },
+      "props": {}
+    },
+    {
       "id": "kYP7DeTCtqz5y_4iFkYkI",
       "component": "Block",
       "data": {
@@ -219,20 +233,28 @@
       "props": {}
     },
     {
-      "id": "O5GZBxR3ig2WbhgjEIcLS",
-      "component": "Block",
-      "data": {
-        "id": "ThlIceOqL9atrE0ef5POq",
-        "component": "ImageBlock",
-        "data": {
-          "url": "/-AqxOtKesGtQqcDU44dFj/1727618547414.gif",
-          "width": 263.1136474609375
-        },
-        "focus": false
-      },
-      "props": {
-        "tab": 1
-      }
+      "id": "5MhK8hBQfUUbNenP207Un",
+      "component": "EditNode",
+      "data": "",
+      "props": {}
+    },
+    {
+      "id": "7qOfjFLqQ3nSHiHn3G_xW",
+      "component": "EditNode",
+      "data": "",
+      "props": {}
+    },
+    {
+      "id": "Ve9-gg8A5YOvoYhohvkgw",
+      "component": "EditNode",
+      "data": "",
+      "props": {}
+    },
+    {
+      "id": "QNfBQA0mjipjjj_HbDvst",
+      "component": "EditNode",
+      "data": "",
+      "props": {}
     },
     {
       "id": "zOhUngEFLmv70qv-UOdGx",
