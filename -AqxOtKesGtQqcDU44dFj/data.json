@@ -268,8 +268,21 @@
     },
     {
       "id": "I94PiRyprEUk7oCy-t1oP",
+      "component": "Block",
+      "data": {
+        "id": "EiqwEgjOUFAd0ilKut1pv",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h1",
+          "doc": "创建工作目录"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "q1w_JdpShlYztok1EGgsc",
       "component": "EditNode",
-      "data": "",
+      "data": "优化创建工作目录时，窗口在失焦时无法正常选择旧笔记问题。",
       "props": {}
     }
   ],
