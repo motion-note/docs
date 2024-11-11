@@ -123,21 +123,8 @@
     },
     {
       "id": "3_Gmnfyx67jWvL2IdfSUq",
-      "component": "Block",
-      "data": {
-        "id": "b9331bz7fiesPQXQQHGyT",
-        "component": "HeaderBlock",
-        "data": {
-          "type": "h1",
-          "doc": "引用"
-        }
-      }
-    },
-    {
-      "id": "Mq5Z504_Qq9VDqMbiYjCw",
       "component": "EditNode",
-      "data": "",
-      "props": {}
+      "data": ""
     },
     {
       "id": "Gm68L_EKPdcdhCdsVHsKF",
