@@ -152,20 +152,26 @@
       "props": {}
     },
     {
-      "id": "gQnXzqCPaamRtIWzittsN",
+      "id": "D23Z6T016eGiZdyTza4CE",
       "component": "Block",
       "data": {
-        "id": "mfXUXXucdH65IfEIYewAD",
-        "component": "CodeBlock",
+        "id": "csOnlZdGlC5_E9kjiQN-e",
+        "component": "ImageBlock",
         "data": {
-          "doc": "let str = 'hello world'",
-          "lang": "js"
+          "url": "\\-AqxOtKesGtQqcDU44dFj\\1731287369827.gif",
+          "width": 567.6666870117188
         },
         "focus": false
       },
       "props": {
         "tab": 1
       }
+    },
+    {
+      "id": "mVjxU01r8l9ytKfHLgW_I",
+      "component": "EditNode",
+      "data": "",
+      "props": {}
     },
     {
       "id": "m25vJrBp99Ik2eR1Q3Lt4",
