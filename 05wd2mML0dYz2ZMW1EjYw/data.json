@@ -65,12 +65,28 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "文档删除功能 "
+          "doc": "文档删除功能 ✔️"
         },
         "focus": true
       },
       "props": {
         "tab": 1
+      }
+    },
+    {
+      "id": "_wYRjMWwQ6cNoPZMDRpVp",
+      "component": "Block",
+      "data": {
+        "id": "ioF9-kaOaxdYmZzztXknX",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "子文档同步删除功能 ✔️"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 2
       }
     },
     {
