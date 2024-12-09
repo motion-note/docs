@@ -65,7 +65,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "文档删除功能 ✔️"
+          "doc": "文档删除功能 "
         },
         "focus": true
       },
@@ -81,7 +81,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "子文档同步删除功能 ✔️"
+          "doc": "子文档同步删除功能 "
         },
         "focus": true
       },
@@ -113,7 +113,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "笔记本切换，数据入库功能 ✔️"
+          "doc": "笔记本切换，JSON文件数据Sqlite入库功能 ✔️"
         },
         "focus": true
       },
