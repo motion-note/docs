@@ -202,9 +202,55 @@
       }
     },
     {
+      "id": "678NuYeHmuSsn8XLN1v67",
+      "component": "Block",
+      "data": {
+        "id": "KSgx6VXNowIDNiPuy01HN",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "最近文档使用数据库内容"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
       "id": "E487ka0mUGmKr0NzciJm1",
-      "component": "EditNode",
-      "data": ""
+      "component": "Block",
+      "data": {
+        "id": "Mb9wIZC63wQomA_eWesNL",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "修复定位动画丢失问题 ✔️"
+        }
+      }
+    },
+    {
+      "id": "2j335hmmsbPGHwSD4fu9v",
+      "component": "Block",
+      "data": {
+        "id": "2P01lRxJOlWnNWS7l4w8v",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h1",
+          "doc": "文档优化"
+        }
+      }
+    },
+    {
+      "id": "P4ITI259Ec0LqNxiKSvLQ",
+      "component": "Block",
+      "data": {
+        "id": "IK6CUBoyFUDJ4pmRyVQVG",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "修改在链接中，无法使用 shift 选择选区问题。"
+        }
+      },
+      "props": {}
     }
   ],
   "setting": {
