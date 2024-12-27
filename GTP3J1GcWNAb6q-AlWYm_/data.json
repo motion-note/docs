@@ -2,6 +2,24 @@
   "title": "标题栏",
   "blocks": [
     {
+      "id": "v4YbSUEd5N3-M66TZCEGk",
+      "component": "Block",
+      "data": {
+        "id": "2EHHhVmTwzvkA0pvo3OB4",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h1",
+          "doc": "简介"
+        }
+      }
+    },
+    {
+      "id": "kfVBhkBgr3YU234ROAUTg",
+      "component": "EditNode",
+      "data": "用于展示当前文档标题及文档切换操作。",
+      "props": {}
+    },
+    {
       "id": "XLDZMI9Zb6EVIEIMcA5AG",
       "component": "Block",
       "data": {

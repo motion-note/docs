@@ -14,7 +14,7 @@
         "component": "ImageBlock",
         "data": {
           "url": "/ALiPsjATGs4DNV5Ik8b6z/1726995478063.jpg",
-          "width": 242.00003051757812
+          "width": 248.66665649414062
         },
         "focus": false
       }
@@ -90,6 +90,12 @@
       }
     },
     {
+      "id": "zsHkAhALPBxM2TFUrl5gb",
+      "component": "EditNode",
+      "data": "",
+      "props": {}
+    },
+    {
       "id": "hNHiKbidQlt3aWnUEtD1X",
       "component": "Block",
       "data": {
@@ -97,7 +103,7 @@
         "component": "HeaderBlock",
         "data": {
           "type": "h1",
-          "doc": "仔细功能清单"
+          "doc": "详细功能清单"
         }
       }
     },

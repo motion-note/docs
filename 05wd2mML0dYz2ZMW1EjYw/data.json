@@ -65,7 +65,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "文档删除功能 "
+          "doc": "文档删除功能 ✔️"
         },
         "focus": true
       },
@@ -81,7 +81,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "子文档同步删除功能 "
+          "doc": "子文档同步删除功能 ✔️"
         },
         "focus": true
       },
@@ -97,7 +97,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "文档移动排序"
+          "doc": "文档移动排序 ✔️"
         },
         "focus": true
       },
@@ -177,7 +177,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "文档导入，菜单数据同步"
+          "doc": "文档导入，菜单数据同步 ✔️"
         },
         "focus": true
       },
@@ -193,7 +193,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "文档导出，菜单数据更新"
+          "doc": "文档导出，菜单数据更新 ✔️"
         },
         "focus": true
       },

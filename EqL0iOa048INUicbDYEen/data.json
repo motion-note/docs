@@ -25,7 +25,7 @@
         "component": "HeaderBlock",
         "data": {
           "type": "h1",
-          "doc": "仔细功能清单"
+          "doc": "详细功能清单"
         }
       }
     },
