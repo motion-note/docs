@@ -65,7 +65,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "文档删除功能 "
+          "doc": "文档删除功能 ✔️"
         },
         "focus": true
       },
@@ -81,7 +81,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "子文档同步删除功能 "
+          "doc": "子文档同步删除功能 ✔️"
         },
         "focus": true
       },
@@ -97,7 +97,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "文档移动排序"
+          "doc": "文档移动排序 ✔️"
         },
         "focus": true
       },
@@ -129,7 +129,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "创建新笔记本，数据库自动创建"
+          "doc": "创建新笔记本，数据库自动创建 ✔️"
         },
         "focus": true
       },
@@ -177,7 +177,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "文档导入，菜单数据同步"
+          "doc": "文档导入，菜单数据同步 ✔️"
         },
         "focus": true
       },
@@ -193,7 +193,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "文档导出，菜单数据更新"
+          "doc": "文档导出，菜单数据更新 ✔️"
         },
         "focus": true
       },
@@ -248,6 +248,51 @@
         "component": "ListItemBlock",
         "data": {
           "doc": "修改在链接中，无法使用 shift 选择选区问题。"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "Rb71-k4ag01l5YadPrutU",
+      "component": "EditNode",
+      "data": "[github](https://github.com/motion-note)",
+      "props": {
+        "tab": 2
+      }
+    },
+    {
+      "id": "ZEx-jeFffy3zTmnj4G1cP",
+      "component": "Block",
+      "data": {
+        "id": "YHoTLDJzDZ-Uzmw5LNdbB",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "点击标题快速定位侧边菜单功能"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "1Azd_hS9S_YtqpFd7O4ot",
+      "component": "Block",
+      "data": {
+        "id": "x0usuGjqZMbxIS0y8aKwD",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h1",
+          "doc": "工作空间"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "ZnDWUGQnqthxxi4MIkE6z",
+      "component": "Block",
+      "data": {
+        "id": "qpSdicz4nduoDSAU8HWqx",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "优化当工作空间目录被删除后，打开应用时，添加提醒。"
         }
       },
       "props": {}

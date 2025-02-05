@@ -150,23 +150,6 @@
       "props": {}
     },
     {
-      "id": "OpKVsXkuCMf0kt8_g7VY8",
-      "component": "Block",
-      "data": {
-        "id": "Vr0ayIZUv3H1b6lBXj8AX",
-        "component": "HeaderBlock",
-        "data": {
-          "type": "h1",
-          "doc": "捐献"
-        }
-      }
-    },
-    {
-      "id": "_R7A-Fsre8S173NQkn8Ug",
-      "component": "EditNode",
-      "data": "motion note 还有很多精彩有趣的功能还没能与大家见面，如果您能帮助我们，我们将可以用更多的时间来开发打磨它，让它更佳出色，或许我们还能为您定制化开发某些功能。"
-    },
-    {
       "id": "kUFmzaIeRIzgILveqfMPN",
       "component": "EditNode",
       "data": ""
