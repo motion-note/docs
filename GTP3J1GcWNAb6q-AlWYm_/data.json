@@ -38,16 +38,17 @@
       "props": {}
     },
     {
-      "id": "gDDsu-WTjqEj18eySBCLg",
+      "id": "OwVJPPUPP-SBdfna_UseX",
       "component": "Block",
       "data": {
-        "id": "fwZEYdHvg03bAn0J8jhoG",
+        "id": "HLQgvy-NOLd_b_L4e9MBr",
         "component": "ImageBlock",
         "data": {
-          "url": "\\GTP3J1GcWNAb6q-AlWYm_\\1734412855802.gif"
+          "url": "\\GTP3J1GcWNAb6q-AlWYm_\\1736303121173.gif"
         },
         "focus": false
-      }
+      },
+      "props": {}
     }
   ],
   "setting": {

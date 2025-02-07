@@ -1,0 +1,97 @@
+{
+  "title": "0.19.0 dev",
+  "blocks": [
+    {
+      "id": "kls9WuiDtjR371lSb4__5",
+      "component": "Block",
+      "data": {
+        "id": "GC6v56-4vEaSOjGkJQjvH",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h1",
+          "doc": "webview 功能改造"
+        }
+      }
+    },
+    {
+      "id": "dzC71Wj8dAr1a5wtOrCWq",
+      "component": "Block",
+      "data": {
+        "id": "HIA7dXy6aa_VF5-I0Wuq9",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "使用页面路由方式加载页面 ✔️"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "E3D2HlCM5J4TtV4Id5-Bm",
+      "component": "Block",
+      "data": {
+        "id": "2ykN4Kced23xy1_poCy6G",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "支持标题失焦保存文档 ✔️"
+        },
+        "focus": true
+      },
+      "props": {}
+    },
+    {
+      "id": "X6l9zhe3aQXShFBh6yyu8",
+      "component": "Block",
+      "data": {
+        "id": "n_1tIg-GALkGmpaC_6Mp9",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "支持动态标题更新 "
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
+      "id": "E5MLB_YG4dLvNiyQ6eNGn",
+      "component": "Block",
+      "data": {
+        "id": "MyzaFLZ544U1pbTu20mbh",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "支持手动保存文档 ✔️"
+        },
+        "focus": true
+      },
+      "props": {}
+    },
+    {
+      "id": "7n0S0hE3JUXTBH3FDzdU5",
+      "component": "Block",
+      "data": {
+        "id": "78SS9N-w-s8IofFpQF8ef",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": ""
+        },
+        "focus": true
+      },
+      "props": {}
+    },
+    {
+      "id": "i_I2Oql1qbjm7O4dKSJA4",
+      "component": "EditNode",
+      "data": ""
+    }
+  ],
+  "setting": {
+    "lock": false,
+    "debug": false,
+    "historyPanel": false
+  }
+}
