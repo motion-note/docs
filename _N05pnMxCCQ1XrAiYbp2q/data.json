@@ -47,7 +47,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "支持动态标题更新 "
+          "doc": "支持动态标题更新 ✔️"
         },
         "focus": true
       },
@@ -74,6 +74,20 @@
       "component": "Block",
       "data": {
         "id": "78SS9N-w-s8IofFpQF8ef",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "页面搜索功能 搜索页面中的字段内容并高亮显示"
+        },
+        "focus": true
+      },
+      "props": {}
+    },
+    {
+      "id": "aHXe4EjfKvVA8Z8h6Eoy1",
+      "component": "Block",
+      "data": {
+        "id": "DY7A3trsf9mtXeSeBliXe",
         "component": "ListItemBlock",
         "props": {},
         "data": {
