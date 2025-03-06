@@ -113,7 +113,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "大岗功能兼容 "
+          "doc": "大岗功能兼容  ✔️"
         },
         "focus": true
       },
@@ -222,7 +222,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "导出功能优化"
+          "doc": "导出功能优化 ✔️"
         },
         "focus": true
       },
@@ -279,10 +279,34 @@
       }
     },
     {
+      "id": "Gy2XMe-MwHcar7pICGs6J",
+      "component": "Block",
+      "data": {
+        "id": "eF_Tt5-zZ0ycInxww6L0g",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "删除功能优化 ✔️"
+        },
+        "focus": true
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
       "id": "tFrceRdyDa5sxZKSRIj1Q",
-      "component": "EditNode",
-      "data": "",
-      "props": {}
+      "component": "Block",
+      "data": {
+        "id": "01qS1Z5m_AX7QMZQVuN3v",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "添加空笔记时，创建笔记引导 ✔️"
+        }
+      },
+      "props": {
+        "tab": 1
+      }
     },
     {
       "id": "C5NFFZ99xX8Nx4fYg5gla",
