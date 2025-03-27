@@ -136,6 +136,59 @@
       "data": "[motion - github](https://github.com/motion-note)"
     },
     {
+      "id": "XEPR8ztn_If5uhjNI4kQn",
+      "component": "Block",
+      "data": {
+        "id": "NdVrMocjh7DKar8K7TbLY",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h2",
+          "doc": "跳转"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "7M_zvh415FmWUD9L7miZK",
+      "component": "Block",
+      "data": {
+        "id": "--VeYoDsKxD7VE0o1RMCn",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "在编辑状态下，按住 `ctrl`(MacOS 下`Command`） 同时，点击链接，便可跳转。"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "15V_l9NlKg9wuac9qX8b7",
+      "component": "Block",
+      "data": {
+        "id": "lOvmo0IkqQ72n2VtDIgPO",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "锁定状态下，点击便可以跳转。"
+        },
+        "focus": true
+      },
+      "props": {}
+    },
+    {
+      "id": "QNbPWlJTyU5SSRNKr8iiY",
+      "component": "Block",
+      "data": {
+        "id": "_MiJOPg1cKqMPV2DIyw8h",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "导出的静态页面中，点击便可跳转。"
+        },
+        "focus": true
+      },
+      "props": {}
+    },
+    {
       "id": "3PVWscxqAWL_9Z56UNs6x",
       "component": "Block",
       "data": {
@@ -143,8 +196,8 @@
         "component": "HeaderBlock",
         "props": {},
         "data": {
-          "type": "h2",
-          "doc": "Motion 内跳转"
+          "type": "h1",
+          "doc": "双链"
         },
         "focus": false
       }

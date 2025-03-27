@@ -10,7 +10,7 @@
         "props": {},
         "data": {
           "type": "h1",
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">功能</span>"
+          "doc": "功能"
         },
         "focus": false
       }
@@ -23,7 +23,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">添加对 </span><code class=\"pudding-inline-code\" data-type=\"code\"><span data-markup=\"`\">`</span><label>Less</label><span data-markup=\"`\">`</span></code><span class=\"pudding-text\" data-type=\"text\">&nbsp;和 </span><code class=\"pudding-inline-code\" data-type=\"code\"><span data-markup=\"`\">`</span><label>SCSS</label><span data-markup=\"`\">`</span></code><span class=\"pudding-text\" data-type=\"text\">&nbsp;的代码支持。&nbsp;</span>"
+          "doc": "添加对 `Less` 和 `SCSS` 的代码支持。 "
         },
         "focus": false
       }
@@ -36,7 +36,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">添加图片删除时，提示确认操作，减少误删可能。</span>"
+          "doc": "添加图片删除时，提示确认操作，减少误删可能。"
         },
         "focus": false
       }
@@ -49,7 +49,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">优化图片大小设置，现在设置了图片大小值为最大值，当窗口小于图片大小时，图片可以自动适应窗口，避免出现滚动条。</span>"
+          "doc": "优化图片大小设置，现在设置了图片大小值为最大值，当窗口小于图片大小时，图片可以自动适应窗口，避免出现滚动条。"
         },
         "focus": false
       }
@@ -62,7 +62,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">添加对查寻的内容进行菜单定位功能。</span>"
+          "doc": "添加对查寻的内容进行菜单定位功能。"
         },
         "focus": false
       }
@@ -75,7 +75,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">修复大纲无法定位问题。</span>"
+          "doc": "修复大纲无法定位问题。"
         },
         "focus": false
       }
@@ -89,7 +89,7 @@
         "props": {},
         "data": {
           "type": "h1",
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">优化</span>"
+          "doc": "优化"
         },
         "focus": false
       }
@@ -102,7 +102,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">优化查寻功能，调整显示格式。</span>"
+          "doc": "优化查寻功能，调整显示格式。"
         },
         "focus": false
       }
@@ -115,7 +115,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">优化了文件菜单选择与拖拽功能。</span>"
+          "doc": "优化了文件菜单选择与拖拽功能。"
         },
         "focus": false
       }

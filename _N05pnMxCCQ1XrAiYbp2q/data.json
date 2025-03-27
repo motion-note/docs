@@ -1,5 +1,5 @@
 {
-  "title": "0.19.0 dev",
+  "title": "0.19.0",
   "blocks": [
     {
       "id": "kls9WuiDtjR371lSb4__5",
@@ -238,7 +238,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "导入功能优化"
+          "doc": "导入功能优化 ✔️"
         },
         "focus": true
       },

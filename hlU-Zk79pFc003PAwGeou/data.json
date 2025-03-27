@@ -10,7 +10,7 @@
         "props": {},
         "data": {
           "type": "h1",
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">功能</span>"
+          "doc": "功能"
         },
         "focus": false
       }
@@ -23,7 +23,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">输入网址时自动转化为链接。</span>"
+          "doc": "输入网址时自动转化为链接。"
         },
         "focus": false
       }
@@ -36,7 +36,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">图片插入支持 </span><strong class=\"pudding-strong\" data-type=\"strong\"><span data-markup=\"**\">**</span><label>webp</label><span data-markup=\"**\">**</span></strong><span class=\"pudding-text\" data-type=\"text\">&nbsp;</span><strong class=\"pudding-strong\" data-type=\"strong\"><span data-markup=\"**\">**</span><label>jpeg</label><span data-markup=\"**\">**</span></strong><span class=\"pudding-text\" data-type=\"text\"> 与 </span><strong class=\"pudding-strong\" data-type=\"strong\"><span data-markup=\"**\">**</span><label>gif</label><span data-markup=\"**\">**</span></strong><span class=\"pudding-text\" data-type=\"text\"> 图片的引用。</span>"
+          "doc": "图片插入支持 **webp** **jpeg** 与 **gif** 图片的引用。"
         },
         "focus": false
       }
@@ -50,7 +50,7 @@
         "props": {},
         "data": {
           "type": "h1",
-          "doc": "<span class=\"pudding-text is-active\" data-type=\"text\">优化</span>"
+          "doc": "优化"
         },
         "focus": false
       }
@@ -63,7 +63,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">修复因定时器无法获取，导致输入中文时出现乱码。</span>"
+          "doc": "修复因定时器无法获取，导致输入中文时出现乱码。"
         },
         "focus": false
       }
@@ -76,7 +76,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">优化焦点内容失焦状态下保存状态错误。</span>"
+          "doc": "优化焦点内容失焦状态下保存状态错误。"
         },
         "focus": false
       }
@@ -89,21 +89,15 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "<span class=\"pudding-text\" data-type=\"text\">优化链接鼠标交互状态。</span>"
+          "doc": "优化链接鼠标交互状态。"
         },
         "focus": false
       }
     },
     {
       "id": "PlfS0m8Ckx8qRlcuQfvNI",
-      "component": "Block",
-      "data": {
-        "id": "GovCigiJpO-dKhn1WrcWl",
-        "component": "EditBlock",
-        "props": {},
-        "data": "",
-        "focus": false
-      }
+      "component": "EditNode",
+      "data": ""
     }
   ],
   "setting": {
