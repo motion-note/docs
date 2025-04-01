@@ -133,6 +133,18 @@
       "props": {}
     },
     {
+      "id": "TE5NDkXbBQ5-D66ctlgvK",
+      "component": "Block",
+      "data": {
+        "id": "U6s0j_PIJ8pgFc9oS9tPv",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "最近文档功能调整 调整最近文档内容以数据库内容为主，不在使用本地缓存数据 ✔️"
+        }
+      },
+      "props": {}
+    },
+    {
       "id": "X2PKeqjoOMvbdCMFo1U4M",
       "component": "EditNode",
       "data": "",
