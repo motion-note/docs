@@ -197,7 +197,7 @@
         "props": {},
         "data": {
           "type": "h1",
-          "doc": "双链"
+          "doc": "内部跳转"
         },
         "focus": false
       }
