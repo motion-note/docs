@@ -10,7 +10,7 @@
         "props": {},
         "data": {
           "type": "h1",
-          "doc": "您好！欢迎使用 Motion！"
+          "doc": "Motion Note - 本地化块级笔记应用"
         },
         "focus": false
       }
@@ -30,43 +30,174 @@
       }
     },
     {
-      "id": "dEIGpSX9dTvkw-D_-goBD",
-      "component": "EditNode",
-      "data": "欢迎使用 ==Motion== 笔记应用。"
-    },
-    {
-      "id": "AEl5QsZtpfi-QZ-kvKCt9",
+      "id": "J7Qik3-_PNzNeHJm8qYno",
       "component": "Block",
       "data": {
-        "id": "_RoBya1PGsKcMkyh4sozd",
+        "id": "QmGL3ijEPujeeYqH3zbqO",
         "component": "HeaderBlock",
-        "props": {},
         "data": {
           "type": "h1",
-          "doc": "什么是Motion Note？"
-        },
-        "focus": false
+          "doc": "📝 产品简介"
+        }
       }
     },
     {
-      "id": "jdKxrdcDU_K6z9RRyS_tM",
+      "id": "cArC0D-z7heZpgxSAKaw2",
       "component": "EditNode",
-      "data": "motion note 是一款本地化笔记应用，本地存储的数据，不用担心泄露的风险。"
+      "data": "Motion Note 是一款安全、轻量的本地化笔记应用，基于 Web 技术开发，支持 Markdown语法 与 块级编辑（Block-Based Notes），兼顾灵活性与结构化。"
     },
     {
-      "id": "eFsfyMI1Krc6DnhL3Cow5",
+      "id": "B6BvvPntVRKvu9k7AsvxL",
       "component": "EditNode",
-      "data": "[motion note](https://github.com/motion-note) 是一个基于 Web 技术开发笔记功能，它具有 **markdown** 的部分能力，同时又具有 web 的易扩展性。 "
+      "data": "✅ 块级编辑：自由拖拽、组合内容块（文字、代码、表格等），像搭建积木一样整理思路。",
+      "props": {}
     },
     {
-      "id": "9Gy0XMNh4arrl0f7iV9vl",
+      "id": "OAnPf_S2BPCvvuwbKE5Ug",
       "component": "EditNode",
-      "data": "目前 ==motion note== 依然处于开发阶段，欢迎您的使用与反馈，如果碰到什么问题也欢迎您能和我反馈，我们一起来完善它吧！"
+      "data": "✅ 数据本地存储：无需担心隐私泄露风险。"
     },
     {
-      "id": "9ZHAL9KNwYXkPjPC7cafM",
+      "id": "V-EPo0LJGYByKsO8UNFYr",
       "component": "EditNode",
-      "data": "如果 motion note 有帮忙到您，欢迎您向其他朋友推荐！"
+      "data": "✅ 灵活编辑：融合 Markdown 的简洁与 Web 的易扩展性。"
+    },
+    {
+      "id": "veTWhhcSWXw12EQzLZsmu",
+      "component": "QuoteBlock",
+      "data": [
+        {
+          "id": "d5E-PydtBIUZUZGFxhbc7",
+          "component": "EditNode",
+          "data": "当前处于开发测试阶段，期待您的反馈与共同成长！"
+        }
+      ],
+      "props": {}
+    },
+    {
+      "id": "_s1Uh-ep-t06ES-qgFwJ8",
+      "component": "EditNode",
+      "data": ""
+    },
+    {
+      "id": "AgQvnzr8uMVLByYdxHYbu",
+      "component": "Block",
+      "data": {
+        "id": "qiESrqc-dioL6aXj60NG1",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h1",
+          "doc": "💡 核心功能"
+        }
+      }
+    },
+    {
+      "id": "_tjV_v4DDgPVs-dl-mEYS",
+      "component": "Block",
+      "data": {
+        "id": "_D0MGsd5tQeKC3rg0Xwjo",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h2",
+          "doc": "块级笔记（Block-Based Notes）"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "xwSksy_GOupD6eSOhMkCr",
+      "component": "Block",
+      "data": {
+        "id": "7lvgv2kqCnMq8e2Zh-d_p",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "模块化编辑：将笔记拆分为独立内容块（段落、列表、图片等），支持自由拖拽排序。"
+        }
+      }
+    },
+    {
+      "id": "k0Lne5mLNn1aFfRsPayIq",
+      "component": "Block",
+      "data": {
+        "id": "m17qI2kP3X35EnGcBdlcK",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "快速聚焦：点击/快捷键选中单个块，精准编辑内容。"
+        }
+      }
+    },
+    {
+      "id": "1adt6gsCsc2e5dp19Ebzu",
+      "component": "Block",
+      "data": {
+        "id": "u-Ce2EcJfqJ_XCF7bBYkM",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "混合布局：在同一页面中混合Markdown、表格、代码块等，打破线性限制。"
+        }
+      }
+    },
+    {
+      "id": "hH9x4kcyQSGTC-w4jtZly",
+      "component": "Block",
+      "data": {
+        "id": "KPx2dGluw_bbwiAloV1zY",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h2",
+          "doc": "Markdown支持"
+        }
+      }
+    },
+    {
+      "id": "IZsIk8KY0DhXxfQoxE-BD",
+      "component": "Block",
+      "data": {
+        "id": "ANWCcfNG3L1Tp_SSbn1Ps",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "基础语法高亮（标题、列表、链接等）。"
+        }
+      }
+    },
+    {
+      "id": "qgPz4IH7k_tw4Smm0CAe4",
+      "component": "Block",
+      "data": {
+        "id": "Uh-mAgHbc-BRcdpo5RcLJ",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "代码块、表格等高级功能兼容。"
+        }
+      }
+    },
+    {
+      "id": "FyBZ_0UvvXLxtu5vEnJVW",
+      "component": "Block",
+      "data": {
+        "id": "fM1TPqlxVXJKQ8kAWS6ae",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h2",
+          "doc": "本地化与安全"
+        }
+      }
+    },
+    {
+      "id": "D_szkFPhzXPt5EmNzgycP",
+      "component": "Block",
+      "data": {
+        "id": "6I2zdjhNCZULlVZSME8YF",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "所有数据存储于本地设备，支持导出为通用格式（如.md、.pdf）。"
+        }
+      }
+    },
+    {
+      "id": "sPZzH94Cu28pDyjuETdGl",
+      "component": "EditNode",
+      "data": ""
     },
     {
       "id": "FfUkhYhbOaBhtAsXFs9Ab",
@@ -77,7 +208,7 @@
         "props": {},
         "data": {
           "type": "h1",
-          "doc": "联系我们"
+          "doc": "📮 反馈与支持"
         },
         "focus": false
       }
@@ -85,7 +216,7 @@
     {
       "id": "e2rofWNRLKz7rDshuXW5B",
       "component": "EditNode",
-      "data": "如果有什么想法与建议，可以通过以下方式联系我们："
+      "data": "我们重视您的意见！遇到问题或有建议？欢迎通过以下方式联系我们："
     },
     {
       "id": "0SyiYqJb2LGcEz5cm4mMK",
@@ -94,7 +225,7 @@
         "id": "Oj9Q1Qq1C2AMhvzxEnXla",
         "component": "ListItemBlock",
         "data": {
-          "doc": "[motion - github](https://github.com/motion-note/motion)"
+          "doc": "**GitHub:** [Motion Note](https://github.com/motion-note/motion)"
         }
       },
       "props": {}
@@ -107,7 +238,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "**ektx1989@icloud.com**"
+          "doc": "**邮箱:** **ektx1989@icloud.com**"
         },
         "focus": false
       }
@@ -120,7 +251,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "[📺 宅笼猫 - B站](https://space.bilibili.com/300245951)"
+          "doc": "**B站:** [📺 宅笼猫 - B站](https://space.bilibili.com/300245951)"
         },
         "focus": true
       }
@@ -138,7 +269,7 @@
         "component": "HeaderBlock",
         "data": {
           "type": "h1",
-          "doc": "下载"
+          "doc": "⬇️ 下载体验"
         }
       },
       "props": {}
@@ -146,7 +277,7 @@
     {
       "id": "82wjTy9vlGxW2_g8nvYNh",
       "component": "EditNode",
-      "data": "更多版本下载，[点击这里](https://github.com/motion-note/motion/releases)",
+      "data": "更多版本下载，[点击跳转下载页面](https://github.com/motion-note/motion/releases)",
       "props": {}
     },
     {
