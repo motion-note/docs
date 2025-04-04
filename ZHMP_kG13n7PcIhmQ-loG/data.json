@@ -39,7 +39,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "链接支持跳转 "
+          "doc": "链接支持跳转 ✔️"
         },
         "focus": true
       },
