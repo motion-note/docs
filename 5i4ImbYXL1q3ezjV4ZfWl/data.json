@@ -49,18 +49,18 @@
     {
       "id": "B6BvvPntVRKvu9k7AsvxL",
       "component": "EditNode",
-      "data": "✅ 块级编辑：自由拖拽、组合内容块（文字、代码、表格等），像搭建积木一样整理思路。",
+      "data": "✅ **块级编辑**：自由拖拽、组合内容块（文字、代码、表格等），像搭建积木一样整理思路。",
       "props": {}
     },
     {
       "id": "OAnPf_S2BPCvvuwbKE5Ug",
       "component": "EditNode",
-      "data": "✅ 数据本地存储：无需担心隐私泄露风险。"
+      "data": "✅ **数据本地存储**：无需担心隐私泄露风险。"
     },
     {
       "id": "V-EPo0LJGYByKsO8UNFYr",
       "component": "EditNode",
-      "data": "✅ 灵活编辑：融合 Markdown 的简洁与 Web 的易扩展性。"
+      "data": "✅ **灵活编辑**：融合 Markdown 的简洁与 Web 的易扩展性。"
     },
     {
       "id": "veTWhhcSWXw12EQzLZsmu",
@@ -111,7 +111,7 @@
         "id": "7lvgv2kqCnMq8e2Zh-d_p",
         "component": "ListItemBlock",
         "data": {
-          "doc": "模块化编辑：将笔记拆分为独立内容块（段落、列表、图片等），支持自由拖拽排序。"
+          "doc": "**模块化编辑**：将笔记拆分为独立内容块（段落、列表、图片等），支持自由拖拽排序。"
         }
       }
     },
@@ -122,7 +122,7 @@
         "id": "m17qI2kP3X35EnGcBdlcK",
         "component": "ListItemBlock",
         "data": {
-          "doc": "快速聚焦：点击/快捷键选中单个块，精准编辑内容。"
+          "doc": "**快速聚焦**：点击/快捷键选中单个块，精准编辑内容。"
         }
       }
     },
@@ -133,7 +133,7 @@
         "id": "u-Ce2EcJfqJ_XCF7bBYkM",
         "component": "ListItemBlock",
         "data": {
-          "doc": "混合布局：在同一页面中混合Markdown、表格、代码块等，打破线性限制。"
+          "doc": "**混合布局**：在同一页面中混合Markdown、表格、代码块等，打破线性限制。"
         }
       }
     },
