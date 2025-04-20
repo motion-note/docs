@@ -1,0 +1,111 @@
+{
+  "title": "0.21.0",
+  "blocks": [
+    {
+      "id": "oHwJa5-AGisa5RXmCKTsu",
+      "component": "Block",
+      "data": {
+        "id": "eVbZM8pLpHdaPok_oCPHX",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h1",
+          "doc": "深色主题"
+        }
+      }
+    },
+    {
+      "id": "g0kRczhINYs5LL8CbIel9",
+      "component": "EditNode",
+      "data": "添加笔记对系统深色与浅色的支持。用户可以通过【帮助】》【设置】中的外观来自由切换。",
+      "props": {}
+    },
+    {
+      "id": "BkjR6Uf1FWPS_reMBc2W_",
+      "component": "Block",
+      "data": {
+        "id": "XDPlo82d5zWbCZJfkDR2a",
+        "component": "ImageBlock",
+        "data": {
+          "url": "QKlrJDJMqljvPTmMXdBRO\\1744854542096.png",
+          "width": 449,
+          "align": "left"
+        },
+        "focus": false
+      },
+      "props": {}
+    },
+    {
+      "id": "6OBwy6IuMpb2gsuzy5zAH",
+      "component": "EditNode",
+      "data": ""
+    },
+    {
+      "id": "zrQVRCrUPRUPwOgV57hQr",
+      "component": "Block",
+      "data": {
+        "id": "SeoF_fTIZ1gi2T653DEL0",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h1",
+          "doc": "系统关于优化"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "BYvv8Kb1XYUGFOoc_1AqS",
+      "component": "EditNode",
+      "data": "优化关于信息的展示，添加更多展示数据。",
+      "props": {}
+    },
+    {
+      "id": "lj2978WexUxiuGtn-bI0c",
+      "component": "Block",
+      "data": {
+        "id": "jeqUTU2JyvHJgXPQNoxq8",
+        "component": "ImageBlock",
+        "data": {
+          "url": "QKlrJDJMqljvPTmMXdBRO\\1744854860098.png",
+          "width": 444
+        },
+        "focus": false
+      },
+      "props": {}
+    },
+    {
+      "id": "L0NTtpMg_iBKf67hoZpSP",
+      "component": "EditNode",
+      "data": ""
+    },
+    {
+      "id": "x5Wh1Y3ynfcHxGkgOQ--q",
+      "component": "Block",
+      "data": {
+        "id": "7j6RqX9sFgTYT5-a8NO0t",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h1",
+          "doc": "其它优化"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "wIDwazp1SfGj4ZpdQUF0d",
+      "component": "Block",
+      "data": {
+        "id": "ZWYMZ5xLmWVJ507Kdb5MV",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "标题栏后退报错优化 修复切换笔记后，记录回退问题。"
+        }
+      },
+      "props": {}
+    }
+  ],
+  "setting": {
+    "lock": false,
+    "debug": false,
+    "historyPanel": false
+  }
+}
