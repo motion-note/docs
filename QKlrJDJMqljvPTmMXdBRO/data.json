@@ -129,6 +129,34 @@
         "focus": true
       },
       "props": {}
+    },
+    {
+      "id": "asMR-Zl0VDKzt7lJL7mVO",
+      "component": "Block",
+      "data": {
+        "id": "YZv1XGGiEnXGTdj2u54fY",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "自定义滚动条性能优化 优化在拖动时的卡顿问题。"
+        },
+        "focus": true
+      },
+      "props": {}
+    },
+    {
+      "id": "049uciaKUhEZ20QQlIKMc",
+      "component": "Block",
+      "data": {
+        "id": "_1jsdyDcecirD8CBGLtqN",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "修复分栏拖拽布局错误问题。"
+        },
+        "focus": true
+      },
+      "props": {}
     }
   ],
   "setting": {
