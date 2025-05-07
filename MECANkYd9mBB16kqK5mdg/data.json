@@ -1,0 +1,52 @@
+{
+  "title": "0.22.0",
+  "blocks": [
+    {
+      "id": "fOADECx9ZPLMYvhf_5iQi",
+      "component": "Block",
+      "data": {
+        "id": "YKZHqIhwMK3o29w_gO21q",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h1",
+          "doc": "Windows平台窗口优化"
+        }
+      }
+    },
+    {
+      "id": "LBK33RDbpyTLqKOxj1giH",
+      "component": "EditNode",
+      "data": "针对 windows 平台重新设计界面，去窗口化设计。",
+      "props": {}
+    },
+    {
+      "id": "yAzQ8DZSt5U7goLsGCVLH",
+      "component": "Block",
+      "data": {
+        "id": "8Rk9lrcfJsC1jepk0PWkL",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h1",
+          "doc": "设置界面"
+        }
+      }
+    },
+    {
+      "id": "oSGdzSniCOuRy-0qrwpmX",
+      "component": "Block",
+      "data": {
+        "id": "heIwcuIELB9BRPNL5Q1Ya",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "优化关于页面，链接跳转问题。"
+        }
+      },
+      "props": {}
+    }
+  ],
+  "setting": {
+    "lock": false,
+    "debug": false,
+    "historyPanel": false
+  }
+}
