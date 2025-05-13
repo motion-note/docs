@@ -44,6 +44,50 @@
       "props": {}
     },
     {
+      "id": "c185VsIwoBi1vBheXaknl",
+      "component": "Block",
+      "data": {
+        "id": "ntrotlZ3qESakBu3Y-ZQL",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": ""
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "nTNp2tfpOamOIWBlHACNC",
+      "component": "EditNode",
+      "data": "",
+      "props": {}
+    },
+    {
+      "id": "MRWCaCMGp-yXvQoF9nlMr",
+      "component": "Block",
+      "data": {
+        "id": "sq6mwI8Enh9aATL61j8sk",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h1",
+          "doc": "侧边列表"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "TzVQLJXP6phC48Wo8igZu",
+      "component": "Block",
+      "data": {
+        "id": "H5o88Xj_D2PBGseUrRcUb",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "优化在深色模式下的选中效果"
+        }
+      },
+      "props": {}
+    },
+    {
       "id": "RycJmXGCdFFYAqXfdw3SQ",
       "component": "EditNode",
       "data": "",
@@ -58,6 +102,19 @@
         "data": {
           "type": "h1",
           "doc": "文档优化"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "yQI_3p7gQ2Ktc1ZjOQUW7",
+      "component": "Block",
+      "data": {
+        "id": "omv2TOM547RDWojuCHbfT",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h2",
+          "doc": "标题优化"
         }
       },
       "props": {}
@@ -136,8 +193,21 @@
     },
     {
       "id": "PdeJi7luZfS4onh75n2rV",
+      "component": "Block",
+      "data": {
+        "id": "DSUx9aQtjcSYZZc0uCzkh",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h2",
+          "doc": "导出 markdown 优化"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "M1kMDZo62y65MUE4UcHTJ",
       "component": "EditNode",
-      "data": "",
+      "data": "优化 markdown导出时，取消导出，系统提示报错问题。",
       "props": {}
     },
     {
