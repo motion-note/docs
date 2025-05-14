@@ -23,7 +23,7 @@
       "id": "yAzQ8DZSt5U7goLsGCVLH",
       "component": "Block",
       "data": {
-        "id": "8Rk9lrcfJsC1jepk0PWkL",
+        "id": "Zy8fLi6uOzVgq7UknoaH4",
         "component": "HeaderBlock",
         "data": {
           "type": "h1",
@@ -97,7 +97,7 @@
       "id": "JrfATy0V8NE1rNMslANvP",
       "component": "Block",
       "data": {
-        "id": "1HH-QoJgywY5xXoKcW9BQ",
+        "id": "gI8NOiitPRJ7Bs70nsB1W",
         "component": "HeaderBlock",
         "data": {
           "type": "h1",
@@ -120,7 +120,7 @@
       "props": {}
     },
     {
-      "id": "-dAcg0DqX78l_gI45aVjR",
+      "id": "o7L2z6xw9uVvuvQgPbd2E",
       "component": "EditNode",
       "data": "标题回退删除功能优化，现在当在首位回退删除时，标题默认不在回退到文本，而是向上移动。这样方便文档的排版，避难额外上移后，重新设置格式。",
       "props": {}
@@ -212,12 +212,31 @@
     },
     {
       "id": "dbJpFMqqLjZq5Tr3SOulH",
-      "component": "EditNode",
-      "data": "",
+      "component": "Block",
+      "data": {
+        "id": "ZGUUAJcuRBKiFNjMRwEIr",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h2",
+          "doc": "表格"
+        }
+      },
       "props": {}
     },
     {
-      "id": "_6HHJIm1B8bSpomOwcHhZ",
+      "id": "J2mYjZASyiU1E4LkCoop4",
+      "component": "Block",
+      "data": {
+        "id": "Y8Oa0Nvny-4-2Oqbu7h4X",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "修复表格创建后光标丢失问题。"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "c6lvvSOhmhlnzt9IxFlPm",
       "component": "EditNode",
       "data": "",
       "props": {}
