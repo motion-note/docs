@@ -5,7 +5,7 @@
       "id": "oyYNrbsrrGdBGboYJFFQx",
       "component": "Block",
       "data": {
-        "id": "5BsFQM31MVu14HK50ZLnv",
+        "id": "N4LyQu85KnZnPHrYaxTYQ",
         "component": "HeaderBlock",
         "props": {},
         "data": {
@@ -60,9 +60,22 @@
       }
     },
     {
-      "id": "qJNoboJClc6613pHSOYMP",
+      "id": "JPzRUkkXDl8xxSwzfQggz",
       "component": "EditNode",
-      "data": "添加图片演示"
+      "data": "通过工具栏，可以自由选择单元格内容的位置。",
+      "props": {}
+    },
+    {
+      "id": "qJNoboJClc6613pHSOYMP",
+      "component": "Block",
+      "data": {
+        "id": "9a_LISOlhp4cwN_6ozAMx",
+        "component": "ImageBlock",
+        "data": {
+          "url": "YnDlP6yeUnjL4U_eYNGvP/1747222542126.gif"
+        },
+        "focus": false
+      }
     },
     {
       "id": "n-cFgIjF8ES9dWlQXCWU7",
@@ -93,7 +106,21 @@
     {
       "id": "oEf_5_K_u8UJnFGpGEDqr",
       "component": "EditNode",
-      "data": "在单元格内按住`Alt`+`Enter`则会在单元格内换行"
+      "data": "在单元格内按住`Option(Alt)`+`Enter`则会在单元格内换行"
+    },
+    {
+      "id": "SFt0ntXHIJdSR4l4oJ0eT",
+      "component": "Block",
+      "data": {
+        "id": "6usww69RcRskgx62n1Y0a",
+        "component": "ImageBlock",
+        "data": {
+          "url": "YnDlP6yeUnjL4U_eYNGvP/1747222125299.gif",
+          "width": 413.25390625
+        },
+        "focus": false
+      },
+      "props": {}
     },
     {
       "id": "8HSdO6s3n8g0dYZe3bz9J",
@@ -161,7 +188,7 @@
       "id": "iQLf62KBRA1i-XFjK6efq",
       "component": "Block",
       "data": {
-        "id": "4-txcETUGoowTOyCdMDDF",
+        "id": "SXPXzvp-2ePemLFml1nXQ",
         "component": "HeaderBlock",
         "props": {},
         "data": {
@@ -231,7 +258,8 @@
                   "component": "EditNode",
                   "id": "tNSxpHA5ardrxY7UrGz5O",
                   "doc": "",
-                  "data": "==shift+enter=="
+                  "data": "==shift+enter==",
+                  "props": {}
                 }
               ],
               [
@@ -239,14 +267,18 @@
                   "component": "EditNode",
                   "id": "OncmikHiCVzqqONIK7d8B",
                   "doc": "",
-                  "data": "切换到上一行的单元格"
+                  "data": "切换到上一行的单元格",
+                  "props": {}
                 }
               ],
               [
                 {
                   "component": "EditNode",
                   "id": "p__axi5CpnU8wkmBcPQjD",
-                  "doc": ""
+                  "doc": "",
+                  "props": {
+                    "tab": 0
+                  }
                 }
               ]
             ],
@@ -262,7 +294,7 @@
               [
                 {
                   "component": "EditNode",
-                  "id": "-NfA9kXkCbRGc--UmTslO",
+                  "id": "aS3JmFgpue8gEnUTo3cnK",
                   "doc": "",
                   "data": "切换到同行下一个单元格"
                 }
@@ -295,7 +327,7 @@
               [
                 {
                   "component": "EditNode",
-                  "id": "5n50Ryy-cwx-wDq3ae5vt",
+                  "id": "YaHUkvqRQudGwZ44ahChX",
                   "doc": ""
                 }
               ]
@@ -327,7 +359,7 @@
           "style": {
             "width": [
               133.13214111328125,
-              202.042724609375,
+              167.581787109375,
               158.89013671875
             ],
             "align": [
@@ -373,8 +405,7 @@
         "props": {},
         "data": {
           "doc": "支持使用快捷指令生成表格 ✔"
-        },
-        "focus": true
+        }
       },
       "props": {
         "tab": 1
@@ -401,8 +432,7 @@
         "props": {},
         "data": {
           "doc": "单元格内不支持粘贴图片 ✔"
-        },
-        "focus": true
+        }
       },
       "props": {
         "tab": 1
@@ -417,8 +447,7 @@
         "props": {},
         "data": {
           "doc": "快捷操作"
-        },
-        "focus": true
+        }
       },
       "props": {
         "tab": 0
@@ -433,8 +462,7 @@
         "props": {},
         "data": {
           "doc": "win 中使用 `ctrl + enter` 快速在表格下方生成文本节点 ✔"
-        },
-        "focus": true
+        }
       },
       "props": {
         "tab": 1
@@ -449,8 +477,7 @@
         "props": {},
         "data": {
           "doc": "mac 中使用 `command + enter` 快速在表格下方生成文本节点 ✔"
-        },
-        "focus": true
+        }
       },
       "props": {
         "tab": 1
@@ -465,8 +492,7 @@
         "props": {},
         "data": {
           "doc": ""
-        },
-        "focus": true
+        }
       },
       "props": {
         "tab": 1
