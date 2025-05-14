@@ -237,13 +237,62 @@
     },
     {
       "id": "c6lvvSOhmhlnzt9IxFlPm",
-      "component": "EditNode",
-      "data": "",
+      "component": "Block",
+      "data": {
+        "id": "u3u6alZJKQ1kjzV7ZRcGX",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h2",
+          "doc": "引用节点"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "pn0Y5Zf56IxhSeotYijMG",
+      "component": "QuoteBlock",
+      "data": [
+        {
+          "id": "iSOCVGaPADRam1wvXZ6m2",
+          "component": "Block",
+          "data": {
+            "id": "U4OP8P3Qv8rAtRsxMKIzZ",
+            "component": "ListItemBlock",
+            "data": {
+              "doc": "移除背景色效果。"
+            }
+          }
+        }
+      ],
+      "props": {}
+    },
+    {
+      "id": "ZxPeMc20bNlQHZ6-HN9IV",
+      "component": "Block",
+      "data": {
+        "id": "SYoncc6hrems71qnVRNre",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h2",
+          "doc": "列表节点"
+        }
+      }
+    },
+    {
+      "id": "MlM6NcYj-sDOvzaG1uCwr",
+      "component": "Block",
+      "data": {
+        "id": "guSRhQ9F0Y8rJIBh4qWRh",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "修复空节点时，高度与非空列表节点不一致问题。"
+        }
+      },
       "props": {}
     }
   ],
   "setting": {
-    "lock": false,
+    "lock": true,
     "debug": false,
     "historyPanel": false
   }
