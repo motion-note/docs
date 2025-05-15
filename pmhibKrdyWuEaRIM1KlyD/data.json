@@ -5,7 +5,7 @@
       "id": "l0W__QXObkL6Al6kTLerJ",
       "component": "Block",
       "data": {
-        "id": "7ceI-HGyoueOuZwakYTFi",
+        "id": "fW6P76vqfBKNtjgcGykyA",
         "component": "HeaderBlock",
         "data": {
           "type": "h1",
@@ -17,7 +17,7 @@
       "id": "lCFy__YkRlfbZNk8dCOsv",
       "component": "Block",
       "data": {
-        "id": "2ESdD9zH_nzR0IP7HxTKx",
+        "id": "hDqKewyuXhXFV95lAu-fp",
         "component": "HeaderBlock",
         "data": {
           "type": "h2",
@@ -106,7 +106,7 @@
       "props": {}
     },
     {
-      "id": "9KGOKc3iuDFCARXB1Av2L",
+      "id": "Oahb29Uiley0KHcXG6hiT",
       "component": "EditNode",
       "data": "此时，将导出的内容存放到类似 NGINX 服务器的 web 文件夹下，配置好就可以通过网页访问我们的笔记内容。",
       "props": {}
@@ -198,15 +198,246 @@
       "data": "之后就是把导出的内容放到你的git项目的对应目录下就可以正常访问了。"
     },
     {
-      "id": "t-HnNJ6clvfzUW5QWcK81",
+      "id": "q82Rob8kg3_ayXziu3Tro",
       "component": "EditNode",
       "data": "",
       "props": {}
     },
     {
-      "id": "1HtyG7ZtVTMrh4ORFH541",
-      "component": "EditNode",
-      "data": ""
+      "id": "t-HnNJ6clvfzUW5QWcK81",
+      "component": "Block",
+      "data": {
+        "id": "PAK8uSi40U57vgjiy6R5Q",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h1",
+          "doc": "Markdown 导出"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "RllZwfSEFtfHI3uChOy7Z",
+      "component": "QuoteBlock",
+      "data": [
+        {
+          "id": "xghgZrTGWGzdMldzZ5vD8",
+          "component": "EditNode",
+          "data": "🚧 markdown 导出目前仅支持基础的引出功能。其它功能开发中。"
+        }
+      ]
+    },
+    {
+      "id": "SJ88hpXNLdx7lbhBnMLpK",
+      "component": "Block",
+      "data": {
+        "id": "kpUUjmWY9qYHcwYmFziMu",
+        "component": "TableBlock",
+        "data": {
+          "list": [
+            [
+              [
+                {
+                  "id": "pmIlAFwXkd4kAt1K6PqRI",
+                  "component": "EditNode",
+                  "doc": "",
+                  "data": "模块"
+                }
+              ],
+              [
+                {
+                  "id": "vMyT2bcBG56nOrW2Buhoc",
+                  "component": "EditNode",
+                  "doc": "",
+                  "data": "描述"
+                }
+              ],
+              [
+                {
+                  "id": "kL1fXngCOcCGBaoZzHBer",
+                  "component": "EditNode",
+                  "doc": "",
+                  "data": "是否支持导出"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "id": "ksl-6dMIgzgrnZhUx8zm0",
+                  "component": "EditNode",
+                  "doc": "",
+                  "data": "文本节点"
+                }
+              ],
+              [
+                {
+                  "id": "Lq9qst3XWnFTGlg9SMuV-",
+                  "component": "EditNode",
+                  "doc": ""
+                }
+              ],
+              [
+                {
+                  "id": "Iy-T411VqIqk4LpO2EezM",
+                  "component": "EditNode",
+                  "doc": "",
+                  "data": "✔️"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "id": "tX82md4xTGkFbu9ymvmhZ",
+                  "component": "EditNode",
+                  "doc": "",
+                  "data": "标题"
+                }
+              ],
+              [
+                {
+                  "id": "fNSyiJQVYK5x6MoaL1D8S",
+                  "component": "EditNode",
+                  "doc": ""
+                }
+              ],
+              [
+                {
+                  "id": "M8T8txFGbW4jv7rtgwIi5",
+                  "component": "EditNode",
+                  "doc": "",
+                  "data": "✔️"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "id": "AYcZT0vHSFB-EXBwWC5Ct",
+                  "component": "EditNode",
+                  "data": "图片"
+                }
+              ],
+              [
+                {
+                  "id": "Dd-XbDuukqj98F1OFMwOk",
+                  "component": "EditNode",
+                  "data": ""
+                }
+              ],
+              [
+                {
+                  "id": "tQgTPpC47M5IkBn762ptr",
+                  "component": "EditNode",
+                  "data": "✔️"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "id": "PB94kCyZ2yNmD5dXyGGnA",
+                  "component": "EditNode",
+                  "data": "书签"
+                }
+              ],
+              [
+                {
+                  "id": "loBpipS4fAFSZoceIqBA9",
+                  "component": "EditNode",
+                  "data": ""
+                }
+              ],
+              [
+                {
+                  "id": "pJIK3-2miy6CfRAomhETm",
+                  "component": "EditNode",
+                  "data": "❌"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "id": "SMbM1k-uNSLoTkfS4uK78",
+                  "component": "EditNode",
+                  "data": "引用"
+                }
+              ],
+              [
+                {
+                  "id": "c9XqmpHRpYY2kHaNVEJu4",
+                  "component": "EditNode",
+                  "data": ""
+                }
+              ],
+              [
+                {
+                  "id": "TuE0sZ4OZij7-xtZOrWc0",
+                  "component": "EditNode",
+                  "data": "❌"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "id": "Too6jgzIB2JaGFz4Mnyca",
+                  "component": "EditNode",
+                  "data": "代码块"
+                }
+              ],
+              [
+                {
+                  "id": "GFCppi0TJeZHU374F3oQN",
+                  "component": "EditNode",
+                  "data": ""
+                }
+              ],
+              [
+                {
+                  "id": "f00oxQGklQs4adtk1-p--",
+                  "component": "EditNode",
+                  "data": "❌"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "id": "HMePCh4vkGxi-Hk8AHqed",
+                  "component": "EditNode",
+                  "data": "列表"
+                }
+              ],
+              [
+                {
+                  "id": "g5mt9BiIbDnoNVa3sxl6-",
+                  "component": "EditNode",
+                  "data": ""
+                }
+              ],
+              [
+                {
+                  "id": "Y6UPc14LB988oQkY02LSx",
+                  "component": "EditNode",
+                  "data": ""
+                }
+              ]
+            ]
+          ],
+          "style": {
+            "width": [
+              100,
+              100,
+              100
+            ],
+            "align": [],
+            "merge": []
+          }
+        }
+      }
     }
   ],
   "setting": {

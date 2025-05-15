@@ -1,0 +1,25 @@
+{
+  "title": "界面与系统",
+  "blocks": [
+    {
+      "id": "CzotvKlKXLkMtIn-QtdSd",
+      "component": "EditNode",
+      "data": ""
+    },
+    {
+      "id": "VHhSbJw3tZPuSd2ddNnal",
+      "component": "EditNode",
+      "data": ""
+    },
+    {
+      "id": "laG67-aDFkojKc2yy7AOo",
+      "component": "EditNode",
+      "data": ""
+    }
+  ],
+  "setting": {
+    "lock": false,
+    "debug": false,
+    "historyPanel": false
+  }
+}
