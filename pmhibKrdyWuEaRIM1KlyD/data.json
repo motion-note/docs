@@ -422,6 +422,52 @@
                 {
                   "id": "Y6UPc14LB988oQkY02LSx",
                   "component": "EditNode",
+                  "data": "✔️"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "id": "CQyu5bNtuMP7erxL-zlw4",
+                  "component": "EditNode",
+                  "data": ""
+                }
+              ],
+              [
+                {
+                  "id": "lUjmSyoMFCcDPPA9OLIOV",
+                  "component": "EditNode",
+                  "data": ""
+                }
+              ],
+              [
+                {
+                  "id": "TAVwhgmobsSaT2U8WutED",
+                  "component": "EditNode",
+                  "data": ""
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "id": "E76G3yFswHblRosA75cXz",
+                  "component": "EditNode",
+                  "data": ""
+                }
+              ],
+              [
+                {
+                  "id": "vt9ZOMLQshxd9Tmoc0fK5",
+                  "component": "EditNode",
+                  "data": ""
+                }
+              ],
+              [
+                {
+                  "id": "WNgo0YJc3mHVw0tFjENxI",
+                  "component": "EditNode",
                   "data": ""
                 }
               ]
@@ -433,7 +479,9 @@
               100,
               100
             ],
-            "align": [],
+            "align": [
+              "left"
+            ],
             "merge": []
           }
         }
