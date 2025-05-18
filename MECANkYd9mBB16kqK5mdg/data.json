@@ -107,6 +107,31 @@
       "props": {}
     },
     {
+      "id": "fuBNpKT654f884bXo5xMz",
+      "component": "Block",
+      "data": {
+        "id": "l0pvJakj66WCYzw4CrEzK",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h1",
+          "doc": "文本"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "q9rRqk-ruPT5NCzrVjhIg",
+      "component": "Block",
+      "data": {
+        "id": "XCtFTyPKAZgVddnwPnI_v",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "优化文本节点粘贴文本功能。添加对文本格式的部分支持。"
+        }
+      },
+      "props": {}
+    },
+    {
       "id": "yQI_3p7gQ2Ktc1ZjOQUW7",
       "component": "Block",
       "data": {
@@ -292,7 +317,7 @@
     }
   ],
   "setting": {
-    "lock": true,
+    "lock": false,
     "debug": false,
     "historyPanel": false
   }
