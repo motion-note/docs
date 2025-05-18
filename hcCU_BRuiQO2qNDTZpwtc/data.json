@@ -58,7 +58,7 @@
         {
           "id": "QCWdm0JOxTOcPKyZzzrJY",
           "component": "EditNode",
-          "data": "**注意** 在Mac 上使用 command + 数字 1~6。"
+          "data": "**注意** 在Mac 上使用 `command` + 数字 1~6。"
         },
         {
           "id": "Ae2gTFU0i3xko4F-t2OmJ",
@@ -383,7 +383,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "前一个节点是代码块时，合并文本"
+          "doc": "前一个节点是代码块时，无任何操作"
         }
       },
       "props": {
