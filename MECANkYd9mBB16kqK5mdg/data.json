@@ -9,15 +9,48 @@
         "component": "HeaderBlock",
         "data": {
           "type": "h1",
-          "doc": "Windows平台窗口优化"
+          "doc": "界面优化"
         }
       }
     },
     {
       "id": "LBK33RDbpyTLqKOxj1giH",
-      "component": "EditNode",
-      "data": "针对 windows 平台重新设计界面，去窗口化设计。",
+      "component": "Block",
+      "data": {
+        "id": "BhHIipy9o-IV21tZIruzC",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "针对 windows 平台重新设计界面，更加轻量简化。"
+        }
+      },
       "props": {}
+    },
+    {
+      "id": "K2BYYd2FySR6Butb0H65r",
+      "component": "Block",
+      "data": {
+        "id": "jJSXg_3aYcZMsTinIP2Jf",
+        "component": "ImageBlock",
+        "data": {
+          "url": "MECANkYd9mBB16kqK5mdg\\1747613126686.png",
+          "width": 412.66668701171875
+        },
+        "focus": false
+      },
+      "props": {
+        "tab": 1
+      }
+    },
+    {
+      "id": "j6tFPjYUmVSOJRA9oekNJ",
+      "component": "Block",
+      "data": {
+        "id": "fmpVrWmDnZI2DTQKh-_tQ",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "优化简化后的拖拽区域，避免窗口移动不生效。"
+        }
+      }
     },
     {
       "id": "yAzQ8DZSt5U7goLsGCVLH",
@@ -39,19 +72,6 @@
         "component": "ListItemBlock",
         "data": {
           "doc": "优化关于页面，链接跳转问题。"
-        }
-      },
-      "props": {}
-    },
-    {
-      "id": "c185VsIwoBi1vBheXaknl",
-      "component": "Block",
-      "data": {
-        "id": "ntrotlZ3qESakBu3Y-ZQL",
-        "component": "ListItemBlock",
-        "props": {},
-        "data": {
-          "doc": ""
         }
       },
       "props": {}
