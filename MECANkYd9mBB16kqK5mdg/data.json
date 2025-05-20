@@ -159,82 +159,22 @@
         "component": "HeaderBlock",
         "data": {
           "type": "h2",
-          "doc": "标题优化"
+          "doc": "标题"
         }
       },
       "props": {}
     },
     {
       "id": "o7L2z6xw9uVvuvQgPbd2E",
-      "component": "EditNode",
-      "data": "标题回退删除功能优化，现在当在首位回退删除时，标题默认不在回退到文本，而是向上移动。这样方便文档的排版，避难额外上移后，重新设置格式。",
-      "props": {}
-    },
-    {
-      "id": "dDZrSdwBtXdZdpHdiknG8",
-      "component": "EditNode",
-      "data": "如果想要把标题转化成文本可以使用`ctrl+p` mac 使用 `command+p`。",
-      "props": {}
-    },
-    {
-      "id": "_8LUmrCmAPa4DVUKeg2wt",
-      "component": "ColumnListBlock",
-      "data": [
-        {
-          "id": "Z_bpuRmrW5VNqmKLqtrib",
-          "component": "ColumnBlock",
-          "props": {
-            "width": 0.5
-          },
-          "data": [
-            {
-              "id": "oO0_XjBKMy-hj4QC-VRQc",
-              "component": "Block",
-              "data": {
-                "id": "asliWiybpFobzWwa8hnNG",
-                "component": "ImageBlock",
-                "data": {
-                  "url": "MECANkYd9mBB16kqK5mdg/1746861843011.gif"
-                },
-                "focus": false
-              }
-            },
-            {
-              "id": "eguXn9xvXyK1R7akHYRKw",
-              "component": "EditNode",
-              "data": " 旧版",
-              "props": {}
-            }
-          ]
-        },
-        {
-          "id": "BxUv7YF1s4Fcj1mSFetCk",
-          "component": "ColumnBlock",
-          "props": {
-            "width": 0.5
-          },
-          "data": [
-            {
-              "id": "FHIGMQzu8jPfzKeCxIGpO",
-              "component": "Block",
-              "data": {
-                "id": "XLuDH4tQm4-Lzctj2LTuh",
-                "component": "ImageBlock",
-                "data": {
-                  "url": "MECANkYd9mBB16kqK5mdg/1746861858240.gif"
-                },
-                "focus": false
-              }
-            },
-            {
-              "id": "En7Fw_Md0U5ldUdJINzCX",
-              "component": "EditNode",
-              "data": "新版",
-              "props": {}
-            }
-          ]
+      "component": "Block",
+      "data": {
+        "id": "AHE1olGs5KF0G33cfkHhb",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "优化标题的合并操作逻辑。"
         }
-      ]
+      },
+      "props": {}
     },
     {
       "id": "PdeJi7luZfS4onh75n2rV",

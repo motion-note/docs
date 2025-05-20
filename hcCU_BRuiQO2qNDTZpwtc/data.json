@@ -428,7 +428,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "前一个节点是书签时，不操作"
+          "doc": "前一个节点是书签时，不操作 ✔"
         }
       },
       "props": {
