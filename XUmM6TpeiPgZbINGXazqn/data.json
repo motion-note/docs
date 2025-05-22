@@ -422,7 +422,7 @@
         "component": "ListItemBlock",
         "props": {},
         "data": {
-          "doc": "表格粘贴功能"
+          "doc": "表格粘贴功能 ✔"
         }
       },
       "props": {
