@@ -73,39 +73,7 @@
     {
       "id": "LM564YCVXkOx6DH4FmXlT",
       "component": "EditNode",
-      "data": "链接的使用具有以下几种方式：",
-      "props": {}
-    },
-    {
-      "id": "yHbe8BiSeC3YV-657aJJ9",
-      "component": "Block",
-      "data": {
-        "id": "v6rdpRU60Uowguvpa43wS",
-        "component": "HeaderBlock",
-        "data": {
-          "type": "h3",
-          "doc": "http(s):// 链接地址"
-        }
-      },
-      "props": {}
-    },
-    {
-      "id": "yqswZPIVf8qjFAzwEWaN3",
-      "component": "EditNode",
-      "data": "可以直接输入一个 http 地址，例如：https://space.bilibili.com/300245951 ",
-      "props": {}
-    },
-    {
-      "id": "unIMOp9MqUMQcfvLxk-v6",
-      "component": "Block",
-      "data": {
-        "id": "Qn4RqP1X4PauTljRKxgl8",
-        "component": "HeaderBlock",
-        "data": {
-          "type": "h3",
-          "doc": "markdown 方式"
-        }
-      },
+      "data": "链接具体使用方式可以参考文档 [链接](local:/Dqt89v8SU8XiFarhCoLOg)",
       "props": {}
     },
     {

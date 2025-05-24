@@ -21,21 +21,53 @@
       "data": "在 motion 中，用户可以通过以下几种方式来保存链接。"
     },
     {
+      "id": "cJ3gpBSwYgSi660tZAWSq",
+      "component": "EditNode",
+      "data": "",
+      "props": {}
+    },
+    {
       "id": "IZj2kN9iCGb8OfxlYW30G",
-      "component": "EditNode",
-      "data": "[object Object],[object Object][https://space.bilibili.com/300245951](https://space.bilibili.com/300245951) ",
+      "component": "Block",
+      "data": {
+        "id": "iEecJFSMq8ZbqT-TTtx3k",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h2",
+          "doc": "http(s) 链接地址"
+        }
+      },
       "props": {}
     },
     {
-      "id": "KO7cFNAAMBGYMhUxro1D4",
+      "id": "uj8w40daEDgz6ecG-dPJj",
       "component": "EditNode",
-      "data": "[object Object],[object Object][https://space.bilibili.com/300245951](https://space.bilibili.com/300245951) ",
+      "data": "可以直接输入一个 http 地址，例如：https://space.bilibili.com/300245951",
       "props": {}
     },
     {
-      "id": "kFMu6-rm1P1I--xJO4W98",
+      "id": "h0Q8vsdzTru5beUIDla8B",
       "component": "EditNode",
-      "data": "[1234](/Users/wl/Sites/Motion/motion-doc/Dqt89v8SU8XiFarhCoLOg)",
+      "data": "==注意==有空格或括号(`(`)时则会断开。",
+      "props": {}
+    },
+    {
+      "id": "h2AJ9sDMooRW-oLt5DRH8",
+      "component": "EditNode",
+      "data": "",
+      "props": {}
+    },
+    {
+      "id": "qVlSMnyZLBLTtGxUxfPws",
+      "component": "Block",
+      "data": {
+        "id": "qo67r7R2UvQhTipAdKuT5",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h2",
+          "doc": "markdown 方式"
+        }
+      },
       "props": {}
     },
     {
@@ -100,12 +132,7 @@
     {
       "id": "mxzWLbqS1CiwwO9GNyyXV",
       "component": "EditNode",
-      "data": "在 0.9.0 以上版本时，输入具有 `http`或`https` 开头的内容时，也会自动生成一个链接。"
-    },
-    {
-      "id": "QYJqjHFw1sef9I0bbg1e-",
-      "component": "EditNode",
-      "data": "==注意==有空格或括号(`(`)时则会断开。"
+      "data": ""
     },
     {
       "id": "bIBByqMFk3IjzKCmZcg7j",
