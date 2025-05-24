@@ -18,7 +18,31 @@
     {
       "id": "wJ6f0fHs0DkrWQhuEuCn3",
       "component": "EditNode",
-      "data": "在motion中，当用户输入以下格式时，将自动生成一个链接效果："
+      "data": "在 motion 中，用户可以通过以下几种方式来保存链接。"
+    },
+    {
+      "id": "IZj2kN9iCGb8OfxlYW30G",
+      "component": "EditNode",
+      "data": "[object Object],[object Object][https://space.bilibili.com/300245951](https://space.bilibili.com/300245951) ",
+      "props": {}
+    },
+    {
+      "id": "KO7cFNAAMBGYMhUxro1D4",
+      "component": "EditNode",
+      "data": "[object Object],[object Object][https://space.bilibili.com/300245951](https://space.bilibili.com/300245951) ",
+      "props": {}
+    },
+    {
+      "id": "kFMu6-rm1P1I--xJO4W98",
+      "component": "EditNode",
+      "data": "[1234](/Users/wl/Sites/Motion/motion-doc/Dqt89v8SU8XiFarhCoLOg)",
+      "props": {}
+    },
+    {
+      "id": "SqgnhLDAJj23dT5oTDuLy",
+      "component": "EditNode",
+      "data": "当用户输入以下格式时，将自动生成一个链接效果：",
+      "props": {}
     },
     {
       "id": "re1uWCWJITe0weRslv2Jl",
@@ -51,7 +75,7 @@
       "id": "hmrmuERtWv8hXYd-PIqxp",
       "component": "Block",
       "data": {
-        "id": "83OnIEvt2wImprKA9gZ2d",
+        "id": "BV9ei00iPMscEJhvxIVWk",
         "component": "ListItemBlock",
         "props": {},
         "data": {
@@ -64,7 +88,7 @@
       "id": "WJMIKUvRuBAjOgmnzJ_ss",
       "component": "Block",
       "data": {
-        "id": "_54dDh0yzrbdeoWpQnj8j",
+        "id": "o4RJ3krPlouehDNvbwR49",
         "component": "ListItemBlock",
         "props": {},
         "data": {
@@ -74,7 +98,7 @@
       }
     },
     {
-      "id": "14TGHah4p6XkgKs9KslNL",
+      "id": "mxzWLbqS1CiwwO9GNyyXV",
       "component": "EditNode",
       "data": "在 0.9.0 以上版本时，输入具有 `http`或`https` 开头的内容时，也会自动生成一个链接。"
     },
@@ -152,7 +176,7 @@
       "id": "7M_zvh415FmWUD9L7miZK",
       "component": "Block",
       "data": {
-        "id": "--VeYoDsKxD7VE0o1RMCn",
+        "id": "n-PPNYhNodpaCUDSVncJg",
         "component": "ListItemBlock",
         "data": {
           "doc": "在编辑状态下，按住 `ctrl`(MacOS 下`Command`） 同时，点击链接，便可跳转。"
@@ -169,8 +193,7 @@
         "props": {},
         "data": {
           "doc": "锁定状态下，点击便可以跳转。"
-        },
-        "focus": true
+        }
       },
       "props": {}
     },
@@ -178,13 +201,12 @@
       "id": "QNbPWlJTyU5SSRNKr8iiY",
       "component": "Block",
       "data": {
-        "id": "_MiJOPg1cKqMPV2DIyw8h",
+        "id": "T3htjsfG5aFrOcVNMctWy",
         "component": "ListItemBlock",
         "props": {},
         "data": {
           "doc": "导出的静态页面中，点击便可跳转。"
-        },
-        "focus": true
+        }
       },
       "props": {}
     },
@@ -264,8 +286,7 @@
         "props": {},
         "data": {
           "doc": "支持 markdown 方式生成链接地址 ✔"
-        },
-        "focus": true
+        }
       },
       "props": {
         "tab": 1
@@ -280,8 +301,7 @@
         "props": {},
         "data": {
           "doc": "支持网址自动转换成网址 ✔"
-        },
-        "focus": true
+        }
       },
       "props": {
         "tab": 1
@@ -296,8 +316,7 @@
         "props": {},
         "data": {
           "doc": "交互"
-        },
-        "focus": true
+        }
       },
       "props": {
         "tab": 0
@@ -312,8 +331,7 @@
         "props": {},
         "data": {
           "doc": "支持笔记内，文档间跳转 ✔"
-        },
-        "focus": true
+        }
       },
       "props": {
         "tab": 1

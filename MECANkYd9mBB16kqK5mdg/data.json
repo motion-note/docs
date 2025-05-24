@@ -102,15 +102,21 @@
         "id": "H5o88Xj_D2PBGseUrRcUb",
         "component": "ListItemBlock",
         "data": {
-          "doc": "优化在深色模式下的选中效果"
+          "doc": "优化在深色模式下的选中效果。"
         }
       },
       "props": {}
     },
     {
       "id": "RycJmXGCdFFYAqXfdw3SQ",
-      "component": "EditNode",
-      "data": "",
+      "component": "Block",
+      "data": {
+        "id": "v_WrkpCBQWkJv0aMgfOKQ",
+        "component": "ListItemBlock",
+        "data": {
+          "doc": "修复拖拽节点依然存在，需要刷新才能正确显示。"
+        }
+      },
       "props": {}
     },
     {
@@ -146,7 +152,33 @@
         "id": "XCtFTyPKAZgVddnwPnI_v",
         "component": "ListItemBlock",
         "data": {
-          "doc": "优化文本节点粘贴文本功能。添加对文本格式的部分支持。"
+          "doc": "优化文本节点粘贴文本功能，添加对富文本格式的部分支持。"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "T1U3KXbu7BCAw6turBBp8",
+      "component": "Block",
+      "data": {
+        "id": "OtuD8FHtOCPt2gbpc6wiF",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "添加对文本节点复制时，输出纯文本内容。"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "V5WaUpu8UDKlxjwhehUUJ",
+      "component": "Block",
+      "data": {
+        "id": "A5x4HhC9AtbJvTrub3g-z",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "修复 macOS 中，链接无法正常打开浏览器。"
         }
       },
       "props": {}

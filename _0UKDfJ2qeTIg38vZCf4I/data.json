@@ -2,7 +2,7 @@
   "title": "代码",
   "blocks": [
     {
-      "id": "3KMBSNG3K139vQ-tlWeU6",
+      "id": "CrGkQUjQLMef7HL9WV2YH",
       "component": "EditNode",
       "data": "代码节点可以使用 `=` 唤起快捷指令，然后选择代码来生成。"
     },
