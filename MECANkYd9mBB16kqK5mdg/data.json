@@ -120,6 +120,19 @@
       "props": {}
     },
     {
+      "id": "XRCrjMxIWeDCpgPH6FYla",
+      "component": "Block",
+      "data": {
+        "id": "MNb1k8bJeatUVZ9Q3tL9r",
+        "component": "ListItemBlock",
+        "props": {},
+        "data": {
+          "doc": "搜索功能优化 优化在系统打开后，没有选择文档时，查询的内容点击不高亮显示。"
+        }
+      },
+      "props": {}
+    },
+    {
       "id": "JrfATy0V8NE1rNMslANvP",
       "component": "Block",
       "data": {
