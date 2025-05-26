@@ -6,7 +6,7 @@
       "component": "QuoteBlock",
       "data": [
         {
-          "id": "0OPwxGRXuiywAnXrmrWBi",
+          "id": "IXdqUb9Y0Xd3S3BGCKF60",
           "component": "EditNode",
           "data": "这里是演示vue官网简介页面，页面地址访问[这里](https://cn.vuejs.org/guide/introduction)。"
         }
@@ -134,7 +134,7 @@
       "id": "N6mSx5uwfBDub0xkML6Ap",
       "component": "Block",
       "data": {
-        "id": "_VpelYfAFvnVwKk78IYi0",
+        "id": "FM9Y8twUTpLxjSkincnPf",
         "component": "ListItemBlock",
         "data": {
           "doc": "**声明式渲染**：Vue 基于标准 HTML 拓展了一套模板语法，使得我们可以声明式地描述最终输出的 HTML 和 JavaScript 状态之间的关系。"
@@ -167,7 +167,7 @@
           "data": "❗ 预备知识"
         },
         {
-          "id": "-xTZLlyLyeaqD3vGsR61c",
+          "id": "Z-gdhrGskqUysOazHqMGW",
           "component": "EditNode",
           "data": "文档接下来的内容会假设你对 HTML、CSS 和 JavaScript 已经基本熟悉。如果你对前端开发完全陌生，最好不要直接从一个框架开始进行入门学习——最好是掌握了基础知识再回到这里。如有需要，你可以通过这些 [JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)、[HTML](https://developer.mozilla.org/zh-CN/docs/Learn/HTML/Introduction_to_HTML) 和 [CSS](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/First_steps) 概述来检验你的知识水平。如果之前有其他框架的经验会很有帮助，但也不是必须的。",
           "props": {
@@ -209,7 +209,7 @@
       "id": "VYyMF4rS7p3O7CJjzVt4G",
       "component": "Block",
       "data": {
-        "id": "1wd4GGgmZkJ1jwPYv9UZE",
+        "id": "PicLWXC2lBmYXmhw68eE4",
         "component": "ListItemBlock",
         "data": {
           "doc": "在任何页面中作为 Web Components 嵌入"
@@ -261,7 +261,7 @@
       }
     },
     {
-      "id": "7welixIslTT_Ew1oMWm5H",
+      "id": "CWTYEMrIhLh2PIRTRgAPZ",
       "component": "EditNode",
       "data": "如果你是初学者，可能会觉得这些概念有些复杂。别担心！理解教程和指南的内容只需要具备基础的 HTML 和 JavaScript 知识。即使你不是这些方面的专家，也能够跟得上。"
     },
@@ -289,7 +289,7 @@
       "props": {}
     },
     {
-      "id": "8yskV7I3V-ZG9fPj5YCWm",
+      "id": "TdgZXd1VRnvfAbTofh201",
       "component": "EditNode",
       "data": "在大多数启用了构建工具的 Vue 项目中，我们可以使用一种类似 HTML 格式的文件来书写 Vue 组件，它被称为**单文件组件** (也被称为 `*.vue` 文件，英文 Single-File Components，缩写为 **SFC**)。顾名思义，Vue 的单文件组件会将一个组件的逻辑 (JavaScript)，模板 (HTML) 和样式 (CSS) 封装在同一个文件里。下面我们将用单文件组件的格式重写上面的计数器示例："
     },
@@ -326,7 +326,7 @@
       "props": {}
     },
     {
-      "id": "3lXoo47DQRuFugLdFwT6Q",
+      "id": "SKeBsKagcqhlN40nTL4CY",
       "component": "EditNode",
       "data": "Vue 的组件可以按两种不同的风格书写：**选项式 API** 和**组合式 API**。"
     },
@@ -386,7 +386,7 @@
       "data": "通过组合式 API，我们可以使用导入的 API 函数来描述组件逻辑。在单文件组件中，组合式 API 通常会与 `<script setup>` 搭配使用。这个 `setup` attribute 是一个标识，告诉 Vue 需要在编译时进行一些处理，让我们可以更简洁地使用组合式 API。比如，`<script setup>` 中的导入和顶层变量/函数都能够在模板中直接使用。"
     },
     {
-      "id": "6A8OQRh1Vyu2Bf6vJpA0s",
+      "id": "zNMIFGmHY72ggfu9kfIfT",
       "component": "EditNode",
       "data": "下面是使用了组合式 API 与 `<script setup>` 改造后和上面的模板完全一样的组件："
     },
@@ -463,7 +463,7 @@
       "id": "rC2SmUWUD3NXYNktau18J",
       "component": "Block",
       "data": {
-        "id": "9HZlHdaX_OpzqEcEoHdiZ",
+        "id": "ZYrQs1uEg3eFQs9lnGuIU",
         "component": "ListItemBlock",
         "data": {
           "doc": "在生产项目中："
@@ -474,7 +474,7 @@
       "id": "Ml7wE1dh_Sbg5h1jVSlyB",
       "component": "Block",
       "data": {
-        "id": "2IyygFOm3M_WmCW0o4n81",
+        "id": "I3jrbfbO9cG3TElfZk-KR",
         "component": "ListItemBlock",
         "data": {
           "doc": "当你不需要使用构建工具，或者打算主要在低复杂度的场景中使用 Vue，例如渐进增强的应用场景，推荐采用选项式 API。"
@@ -507,7 +507,7 @@
       "id": "GCSji4d1ZIOAM2ecYfvSP",
       "component": "Block",
       "data": {
-        "id": "5JpGpZOXOHhKL7Tptxe9t",
+        "id": "i5yPzZMqR1CJ9Dw8iRuPZ",
         "component": "HeaderBlock",
         "data": {
           "type": "h1",
@@ -535,7 +535,7 @@
       "props": {}
     },
     {
-      "id": "7iDfTbwPaPCzCL05NOJUd",
+      "id": "V1wCLy-56JcYN9RqIxI9W",
       "component": "EditNode",
       "data": "不同的开发者有不同的学习方式。尽管在可能的情况下，我们推荐你通读所有内容，但你还是可以自由地选择一种自己喜欢的学习路径！"
     },
