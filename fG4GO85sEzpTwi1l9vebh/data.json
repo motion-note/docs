@@ -16,7 +16,7 @@
     {
       "id": "Y7gYp_1YkP6l-2bSXmjU5",
       "component": "EditNode",
-      "data": "点击侧边菜单下方**+**就可以创建一个一级页面。",
+      "data": "点击侧边菜单下方 `+` 就可以创建一个一级页面。",
       "props": {}
     },
     {
@@ -29,7 +29,7 @@
       "id": "8GUBewCggxa2EwxTEiLh6",
       "component": "Block",
       "data": {
-        "id": "7la4jK8bHy2R3uPyufg2S",
+        "id": "RMnlKcZWjKaJNopK4Aqip",
         "component": "HeaderBlock",
         "data": {
           "type": "h1",
@@ -41,14 +41,14 @@
     {
       "id": "ePjGlW-oWIFSOyDBuc6eH",
       "component": "EditNode",
-      "data": "当更新菜单出现后，选择 **+** 号就可以添加一个子页面了。以此类推，可以无限制的创建下去。",
+      "data": "当更新菜单出现后，选择 `+` 号就可以添加一个子页面了。以此类推，可以无限制的创建下去。",
       "props": {}
     },
     {
       "id": "wIzb_wvectHEcOfHk9GoS",
       "component": "Block",
       "data": {
-        "id": "7C6lGGfQsEbH0E3pvTGV5",
+        "id": "pfqvUXhVNbWlSEuE3TWrg",
         "component": "HeaderBlock",
         "data": {
           "type": "h1",
@@ -58,7 +58,7 @@
       "props": {}
     },
     {
-      "id": "_LqUx5yUpSCHG8D63v08T",
+      "id": "LtywRpKo--ZDuL0Dmhss1",
       "component": "EditNode",
       "data": "当需要对页面进行删除时，同样将鼠标移动到侧边菜单文档列表上，放在需要删除文档标题上，此时，选择更多按钮，下拉选择删除即可。",
       "props": {}
@@ -94,7 +94,7 @@
       "props": {}
     },
     {
-      "id": "_-6MAnpp8Zl2YLvoW8DB_",
+      "id": "SJDwK4sgHKg7nmmQbxtLE",
       "component": "EditNode",
       "data": "",
       "props": {}
