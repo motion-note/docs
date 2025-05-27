@@ -152,7 +152,7 @@
         "id": "l0pvJakj66WCYzw4CrEzK",
         "component": "HeaderBlock",
         "data": {
-          "type": "h1",
+          "type": "h2",
           "doc": "文本"
         }
       },
@@ -239,6 +239,43 @@
       "component": "EditNode",
       "data": "优化 markdown导出时，取消导出，系统提示报错问题。",
       "props": {}
+    },
+    {
+      "id": "B-nwkDjlrdybwzYKsqoVC",
+      "component": "Block",
+      "data": {
+        "id": "c5Q4FMptayVROrbUsiZdv",
+        "component": "HeaderBlock",
+        "data": {
+          "type": "h2",
+          "doc": "导出静态页面"
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "EX9mzaFkd5b0oCeVoUN09",
+      "component": "EditNode",
+      "data": "为笔记本选择区添加导出静态页面功能，以兼容Windows新板窗口效果。",
+      "props": {
+        "tab": 1
+      }
+    },
+    {
+      "id": "R4HjOBep68oxU29YIeeKZ",
+      "component": "Block",
+      "data": {
+        "id": "yewI2pwxoUW8hRF4B2dfB",
+        "component": "ImageBlock",
+        "data": {
+          "url": "MECANkYd9mBB16kqK5mdg/1748342301676.png",
+          "width": 427.01171875
+        },
+        "focus": false
+      },
+      "props": {
+        "tab": 1
+      }
     },
     {
       "id": "dbJpFMqqLjZq5Tr3SOulH",
