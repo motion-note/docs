@@ -1,10 +1,7 @@
-node_modules
+main.db
+locale.db
+*.db
 .DS_Store
-dist
-lib
-*.local
-.idea/
-yarn-error.log
-*lock.json
-*/md-pages/*
-*.lock
+node_modules/**
+*.log
+*.tmp
